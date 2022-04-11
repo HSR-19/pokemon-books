@@ -1,14 +1,14 @@
 import { Component, OnInit } from '@angular/core';
-import { POKEMONS } from '../models/pokemons'; // pokemons.tsでexportしていたPOKEMONSをimport
+import { POKEMONS_KANTO } from '../models/pokemons-kanto'; // pokemons-kanto.tsでexportしていたPOKEMONSをimport
 
 @Component({
-  selector: 'app-pokemon-list',
+  selector: 'pokemon-list-kanto',
   templateUrl: './pokemon-list.component.html', // htmlファイルを指定。
   styleUrls: ['./pokemon-list.component.scss'] // scssファイルをlist形式で指定。（scssは複数作成できるため？）
 })
 export class PokemonListComponent implements OnInit {
 
-  pokemons = POKEMONS; // POKEMONSをpokemonsに格納。pokemon-list.component.htmlで使えるようにするため。
+  pokemons = POKEMONS_KANTO; // POKEMONS_KANTOをpokemonsに格納。pokemon-list.component.htmlで使えるようにするため。
 
   constructor() { }
 

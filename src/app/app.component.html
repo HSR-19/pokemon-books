@@ -1,4 +1,10 @@
 <mat-toolbar color="primary">
-  <a routerLink="/">ポケモン図鑑（カントー地方）</a>
+  <a routerLink="/">ポケモン図鑑</a>
 </mat-toolbar>
+
+<mat-tab-group animationDuration="0ms">
+  <mat-tab label="カントー"><pokemon-list-kanto></pokemon-list-kanto></mat-tab>
+  <mat-tab label="ジョウト"><pokemon-list-johto></pokemon-list-johto></mat-tab>
+  <mat-tab label="ホウエン"></mat-tab>
+</mat-tab-group>
 <router-outlet></router-outlet>

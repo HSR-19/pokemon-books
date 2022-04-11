@@ -1,5 +1,5 @@
 // Python等では、モジュールはデフォルトで公開されているため、別のファイルからimportするだけで読み込めた。しかし、TypeScript(JavaScript)は逆で、デフォルトで非公開になっている。そのため、ほかのファイルからこのファイルを参照したいなら、このファイルでexportしておかなければならない。
-export const POKEMONS = [{
+export const POKEMONS_KANTO = [{
     "id": 1,
     "name": "フシギダネ",
     "type": [
