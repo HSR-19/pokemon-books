@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { map } from 'rxjs';
-import { POKEMONS } from '../models/pokemons';
+import { POKEMONS } from '../models/pokemons'; // pokemons.tsでexportしていたPOKEMONSをimport
 
 @Component({
   selector: 'app-pokemon-detail',
@@ -10,7 +10,7 @@ import { POKEMONS } from '../models/pokemons';
 })
 export class PokemonDetailComponent implements OnInit {
 
-  pokemons = POKEMONS;
+  pokemons = POKEMONS; // POKEMONSをpokemonsに格納。このpokemon-detail.component.tsやpokemon-detail.component.htmlで使えるようにするため。
   pokemon!: {
     id: number;
     name: string;
