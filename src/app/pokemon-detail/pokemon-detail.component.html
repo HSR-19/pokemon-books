@@ -1,5 +1,5 @@
 <mat-card *ngIf="pokemon" class='pokemon'><!--pokemonが存在したらこのmat-cardを表示。-->
-    <img src="/assets/images/{{ pokemon.id | number: '3.0'}}.png" alt="画像を表示することができません。"><!--altは、万が一画像が表示されなかったときに代替手段(alternative)として表示させるための文言。-->
+    <img src="/assets/images/{{ pokemon.id | number: '3.0'}}.png" alt=""><!--altは、万が一画像が表示されなかったときに代替手段(alternative)として表示させるための文言。-->
     <p>{{ pokemon.name }}</p>
     <p>{{ pokemon.type }}</p>
     <p>たいりょく：{{ pokemon.base.HP }}</p>
