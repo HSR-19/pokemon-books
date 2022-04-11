@@ -10,8 +10,8 @@ export const POKEMONS_JOHTO = [
       "HP": 45,
       "Attack": 49,
       "Defense": 65,
-      "Sp. Attack": 49,
-      "Sp. Defense": 65,
+      "Sp_Attack": 49,
+      "Sp_Defense": 65,
       "Speed": 45
     }
   },
@@ -25,8 +25,8 @@ export const POKEMONS_JOHTO = [
       "HP": 60,
       "Attack": 62,
       "Defense": 80,
-      "Sp. Attack": 63,
-      "Sp. Defense": 80,
+      "Sp_Attack": 63,
+      "Sp_Defense": 80,
       "Speed": 60
     }
   },
@@ -40,8 +40,8 @@ export const POKEMONS_JOHTO = [
       "HP": 80,
       "Attack": 82,
       "Defense": 100,
-      "Sp. Attack": 83,
-      "Sp. Defense": 100,
+      "Sp_Attack": 83,
+      "Sp_Defense": 100,
       "Speed": 80
     }
   },
@@ -55,8 +55,8 @@ export const POKEMONS_JOHTO = [
       "HP": 39,
       "Attack": 52,
       "Defense": 43,
-      "Sp. Attack": 60,
-      "Sp. Defense": 50,
+      "Sp_Attack": 60,
+      "Sp_Defense": 50,
       "Speed": 65
     }
   },
@@ -70,8 +70,8 @@ export const POKEMONS_JOHTO = [
       "HP": 58,
       "Attack": 64,
       "Defense": 58,
-      "Sp. Attack": 80,
-      "Sp. Defense": 65,
+      "Sp_Attack": 80,
+      "Sp_Defense": 65,
       "Speed": 80
     }
   },
@@ -85,8 +85,8 @@ export const POKEMONS_JOHTO = [
       "HP": 78,
       "Attack": 84,
       "Defense": 78,
-      "Sp. Attack": 109,
-      "Sp. Defense": 85,
+      "Sp_Attack": 109,
+      "Sp_Defense": 85,
       "Speed": 100
     }
   },
@@ -100,8 +100,8 @@ export const POKEMONS_JOHTO = [
       "HP": 50,
       "Attack": 65,
       "Defense": 64,
-      "Sp. Attack": 44,
-      "Sp. Defense": 48,
+      "Sp_Attack": 44,
+      "Sp_Defense": 48,
       "Speed": 43
     }
   },
@@ -115,8 +115,8 @@ export const POKEMONS_JOHTO = [
       "HP": 65,
       "Attack": 80,
       "Defense": 80,
-      "Sp. Attack": 59,
-      "Sp. Defense": 63,
+      "Sp_Attack": 59,
+      "Sp_Defense": 63,
       "Speed": 58
     }
   },
@@ -130,8 +130,8 @@ export const POKEMONS_JOHTO = [
       "HP": 85,
       "Attack": 105,
       "Defense": 100,
-      "Sp. Attack": 79,
-      "Sp. Defense": 83,
+      "Sp_Attack": 79,
+      "Sp_Defense": 83,
       "Speed": 78
     }
   },
@@ -145,8 +145,8 @@ export const POKEMONS_JOHTO = [
       "HP": 35,
       "Attack": 46,
       "Defense": 34,
-      "Sp. Attack": 35,
-      "Sp. Defense": 45,
+      "Sp_Attack": 35,
+      "Sp_Defense": 45,
       "Speed": 20
     }
   },
@@ -160,8 +160,8 @@ export const POKEMONS_JOHTO = [
       "HP": 85,
       "Attack": 76,
       "Defense": 64,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "Sp_Attack": 45,
+      "Sp_Defense": 55,
       "Speed": 90
     }
   },
@@ -176,8 +176,8 @@ export const POKEMONS_JOHTO = [
       "HP": 60,
       "Attack": 30,
       "Defense": 30,
-      "Sp. Attack": 36,
-      "Sp. Defense": 56,
+      "Sp_Attack": 36,
+      "Sp_Defense": 56,
       "Speed": 50
     }
   },
@@ -192,8 +192,8 @@ export const POKEMONS_JOHTO = [
       "HP": 100,
       "Attack": 50,
       "Defense": 50,
-      "Sp. Attack": 86,
-      "Sp. Defense": 96,
+      "Sp_Attack": 86,
+      "Sp_Defense": 96,
       "Speed": 70
     }
   },
@@ -208,8 +208,8 @@ export const POKEMONS_JOHTO = [
       "HP": 40,
       "Attack": 20,
       "Defense": 30,
-      "Sp. Attack": 40,
-      "Sp. Defense": 80,
+      "Sp_Attack": 40,
+      "Sp_Defense": 80,
       "Speed": 55
     }
   },
@@ -224,8 +224,8 @@ export const POKEMONS_JOHTO = [
       "HP": 55,
       "Attack": 35,
       "Defense": 50,
-      "Sp. Attack": 55,
-      "Sp. Defense": 110,
+      "Sp_Attack": 55,
+      "Sp_Defense": 110,
       "Speed": 85
     }
   },
@@ -240,8 +240,8 @@ export const POKEMONS_JOHTO = [
       "HP": 40,
       "Attack": 60,
       "Defense": 40,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "Sp_Attack": 40,
+      "Sp_Defense": 40,
       "Speed": 30
     }
   },
@@ -256,8 +256,8 @@ export const POKEMONS_JOHTO = [
       "HP": 70,
       "Attack": 90,
       "Defense": 70,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "Sp_Attack": 60,
+      "Sp_Defense": 70,
       "Speed": 40
     }
   },
@@ -272,8 +272,8 @@ export const POKEMONS_JOHTO = [
       "HP": 85,
       "Attack": 90,
       "Defense": 80,
-      "Sp. Attack": 70,
-      "Sp. Defense": 80,
+      "Sp_Attack": 70,
+      "Sp_Defense": 80,
       "Speed": 130
     }
   },
@@ -288,8 +288,8 @@ export const POKEMONS_JOHTO = [
       "HP": 75,
       "Attack": 38,
       "Defense": 38,
-      "Sp. Attack": 56,
-      "Sp. Defense": 56,
+      "Sp_Attack": 56,
+      "Sp_Defense": 56,
       "Speed": 67
     }
   },
@@ -304,8 +304,8 @@ export const POKEMONS_JOHTO = [
       "HP": 125,
       "Attack": 58,
       "Defense": 58,
-      "Sp. Attack": 76,
-      "Sp. Defense": 76,
+      "Sp_Attack": 76,
+      "Sp_Defense": 76,
       "Speed": 67
     }
   },
@@ -319,8 +319,8 @@ export const POKEMONS_JOHTO = [
       "HP": 20,
       "Attack": 40,
       "Defense": 15,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "Sp_Attack": 35,
+      "Sp_Defense": 35,
       "Speed": 60
     }
   },
@@ -334,8 +334,8 @@ export const POKEMONS_JOHTO = [
       "HP": 50,
       "Attack": 25,
       "Defense": 28,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "Sp_Attack": 45,
+      "Sp_Defense": 55,
       "Speed": 15
     }
   },
@@ -350,8 +350,8 @@ export const POKEMONS_JOHTO = [
       "HP": 90,
       "Attack": 30,
       "Defense": 15,
-      "Sp. Attack": 40,
-      "Sp. Defense": 20,
+      "Sp_Attack": 40,
+      "Sp_Defense": 20,
       "Speed": 15
     }
   },
@@ -365,8 +365,8 @@ export const POKEMONS_JOHTO = [
       "HP": 35,
       "Attack": 20,
       "Defense": 65,
-      "Sp. Attack": 40,
-      "Sp. Defense": 65,
+      "Sp_Attack": 40,
+      "Sp_Defense": 65,
       "Speed": 20
     }
   },
@@ -381,8 +381,8 @@ export const POKEMONS_JOHTO = [
       "HP": 55,
       "Attack": 40,
       "Defense": 85,
-      "Sp. Attack": 80,
-      "Sp. Defense": 105,
+      "Sp_Attack": 80,
+      "Sp_Defense": 105,
       "Speed": 40
     }
   },
@@ -397,8 +397,8 @@ export const POKEMONS_JOHTO = [
       "HP": 40,
       "Attack": 50,
       "Defense": 45,
-      "Sp. Attack": 70,
-      "Sp. Defense": 45,
+      "Sp_Attack": 70,
+      "Sp_Defense": 45,
       "Speed": 70
     }
   },
@@ -413,8 +413,8 @@ export const POKEMONS_JOHTO = [
       "HP": 65,
       "Attack": 75,
       "Defense": 70,
-      "Sp. Attack": 95,
-      "Sp. Defense": 70,
+      "Sp_Attack": 95,
+      "Sp_Defense": 70,
       "Speed": 95
     }
   },
@@ -428,8 +428,8 @@ export const POKEMONS_JOHTO = [
       "HP": 55,
       "Attack": 40,
       "Defense": 40,
-      "Sp. Attack": 65,
-      "Sp. Defense": 45,
+      "Sp_Attack": 65,
+      "Sp_Defense": 45,
       "Speed": 35
     }
   },
@@ -443,8 +443,8 @@ export const POKEMONS_JOHTO = [
       "HP": 70,
       "Attack": 55,
       "Defense": 55,
-      "Sp. Attack": 80,
-      "Sp. Defense": 60,
+      "Sp_Attack": 80,
+      "Sp_Defense": 60,
       "Speed": 45
     }
   },
@@ -458,8 +458,8 @@ export const POKEMONS_JOHTO = [
       "HP": 90,
       "Attack": 75,
       "Defense": 85,
-      "Sp. Attack": 115,
-      "Sp. Defense": 90,
+      "Sp_Attack": 115,
+      "Sp_Defense": 90,
       "Speed": 55
     }
   },
@@ -473,8 +473,8 @@ export const POKEMONS_JOHTO = [
       "HP": 75,
       "Attack": 80,
       "Defense": 95,
-      "Sp. Attack": 90,
-      "Sp. Defense": 100,
+      "Sp_Attack": 90,
+      "Sp_Defense": 100,
       "Speed": 50
     }
   },
@@ -489,8 +489,8 @@ export const POKEMONS_JOHTO = [
       "HP": 70,
       "Attack": 20,
       "Defense": 50,
-      "Sp. Attack": 20,
-      "Sp. Defense": 50,
+      "Sp_Attack": 20,
+      "Sp_Defense": 50,
       "Speed": 40
     }
   },
@@ -505,8 +505,8 @@ export const POKEMONS_JOHTO = [
       "HP": 100,
       "Attack": 50,
       "Defense": 80,
-      "Sp. Attack": 60,
-      "Sp. Defense": 80,
+      "Sp_Attack": 60,
+      "Sp_Defense": 80,
       "Speed": 50
     }
   },
@@ -520,8 +520,8 @@ export const POKEMONS_JOHTO = [
       "HP": 70,
       "Attack": 100,
       "Defense": 115,
-      "Sp. Attack": 30,
-      "Sp. Defense": 65,
+      "Sp_Attack": 30,
+      "Sp_Defense": 65,
       "Speed": 30
     }
   },
@@ -535,8 +535,8 @@ export const POKEMONS_JOHTO = [
       "HP": 90,
       "Attack": 75,
       "Defense": 75,
-      "Sp. Attack": 90,
-      "Sp. Defense": 100,
+      "Sp_Attack": 90,
+      "Sp_Defense": 100,
       "Speed": 70
     }
   },
@@ -551,8 +551,8 @@ export const POKEMONS_JOHTO = [
       "HP": 35,
       "Attack": 35,
       "Defense": 40,
-      "Sp. Attack": 35,
-      "Sp. Defense": 55,
+      "Sp_Attack": 35,
+      "Sp_Defense": 55,
       "Speed": 50
     }
   },
@@ -567,8 +567,8 @@ export const POKEMONS_JOHTO = [
       "HP": 55,
       "Attack": 45,
       "Defense": 50,
-      "Sp. Attack": 45,
-      "Sp. Defense": 65,
+      "Sp_Attack": 45,
+      "Sp_Defense": 65,
       "Speed": 80
     }
   },
@@ -583,8 +583,8 @@ export const POKEMONS_JOHTO = [
       "HP": 75,
       "Attack": 55,
       "Defense": 70,
-      "Sp. Attack": 55,
-      "Sp. Defense": 95,
+      "Sp_Attack": 55,
+      "Sp_Defense": 95,
       "Speed": 110
     }
   },
@@ -598,8 +598,8 @@ export const POKEMONS_JOHTO = [
       "HP": 55,
       "Attack": 70,
       "Defense": 55,
-      "Sp. Attack": 40,
-      "Sp. Defense": 55,
+      "Sp_Attack": 40,
+      "Sp_Defense": 55,
       "Speed": 85
     }
   },
@@ -613,8 +613,8 @@ export const POKEMONS_JOHTO = [
       "HP": 30,
       "Attack": 30,
       "Defense": 30,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "Sp_Attack": 30,
+      "Sp_Defense": 30,
       "Speed": 30
     }
   },
@@ -628,8 +628,8 @@ export const POKEMONS_JOHTO = [
       "HP": 75,
       "Attack": 75,
       "Defense": 55,
-      "Sp. Attack": 105,
-      "Sp. Defense": 85,
+      "Sp_Attack": 105,
+      "Sp_Defense": 85,
       "Speed": 30
     }
   },
@@ -644,8 +644,8 @@ export const POKEMONS_JOHTO = [
       "HP": 65,
       "Attack": 65,
       "Defense": 45,
-      "Sp. Attack": 75,
-      "Sp. Defense": 45,
+      "Sp_Attack": 75,
+      "Sp_Defense": 45,
       "Speed": 95
     }
   },
@@ -660,8 +660,8 @@ export const POKEMONS_JOHTO = [
       "HP": 55,
       "Attack": 45,
       "Defense": 45,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "Sp_Attack": 25,
+      "Sp_Defense": 25,
       "Speed": 15
     }
   },
@@ -676,8 +676,8 @@ export const POKEMONS_JOHTO = [
       "HP": 95,
       "Attack": 85,
       "Defense": 85,
-      "Sp. Attack": 65,
-      "Sp. Defense": 65,
+      "Sp_Attack": 65,
+      "Sp_Defense": 65,
       "Speed": 35
     }
   },
@@ -691,8 +691,8 @@ export const POKEMONS_JOHTO = [
       "HP": 65,
       "Attack": 65,
       "Defense": 60,
-      "Sp. Attack": 130,
-      "Sp. Defense": 95,
+      "Sp_Attack": 130,
+      "Sp_Defense": 95,
       "Speed": 110
     }
   },
@@ -706,8 +706,8 @@ export const POKEMONS_JOHTO = [
       "HP": 95,
       "Attack": 65,
       "Defense": 110,
-      "Sp. Attack": 60,
-      "Sp. Defense": 130,
+      "Sp_Attack": 60,
+      "Sp_Defense": 130,
       "Speed": 65
     }
   },
@@ -722,8 +722,8 @@ export const POKEMONS_JOHTO = [
       "HP": 60,
       "Attack": 85,
       "Defense": 42,
-      "Sp. Attack": 85,
-      "Sp. Defense": 42,
+      "Sp_Attack": 85,
+      "Sp_Defense": 42,
       "Speed": 91
     }
   },
@@ -738,8 +738,8 @@ export const POKEMONS_JOHTO = [
       "HP": 95,
       "Attack": 75,
       "Defense": 80,
-      "Sp. Attack": 100,
-      "Sp. Defense": 110,
+      "Sp_Attack": 100,
+      "Sp_Defense": 110,
       "Speed": 30
     }
   },
@@ -753,8 +753,8 @@ export const POKEMONS_JOHTO = [
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 85,
-      "Sp. Defense": 85,
+      "Sp_Attack": 85,
+      "Sp_Defense": 85,
       "Speed": 85
     }
   },
@@ -768,8 +768,8 @@ export const POKEMONS_JOHTO = [
       "HP": 48,
       "Attack": 72,
       "Defense": 48,
-      "Sp. Attack": 72,
-      "Sp. Defense": 48,
+      "Sp_Attack": 72,
+      "Sp_Defense": 48,
       "Speed": 48
     }
   },
@@ -783,8 +783,8 @@ export const POKEMONS_JOHTO = [
       "HP": 190,
       "Attack": 33,
       "Defense": 58,
-      "Sp. Attack": 33,
-      "Sp. Defense": 58,
+      "Sp_Attack": 33,
+      "Sp_Defense": 58,
       "Speed": 33
     }
   },
@@ -799,8 +799,8 @@ export const POKEMONS_JOHTO = [
       "HP": 70,
       "Attack": 80,
       "Defense": 65,
-      "Sp. Attack": 90,
-      "Sp. Defense": 65,
+      "Sp_Attack": 90,
+      "Sp_Defense": 65,
       "Speed": 85
     }
   },
@@ -814,8 +814,8 @@ export const POKEMONS_JOHTO = [
       "HP": 50,
       "Attack": 65,
       "Defense": 90,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "Sp_Attack": 35,
+      "Sp_Defense": 35,
       "Speed": 15
     }
   },
@@ -830,8 +830,8 @@ export const POKEMONS_JOHTO = [
       "HP": 75,
       "Attack": 90,
       "Defense": 140,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "Sp_Attack": 60,
+      "Sp_Defense": 60,
       "Speed": 40
     }
   },
@@ -845,8 +845,8 @@ export const POKEMONS_JOHTO = [
       "HP": 100,
       "Attack": 70,
       "Defense": 70,
-      "Sp. Attack": 65,
-      "Sp. Defense": 65,
+      "Sp_Attack": 65,
+      "Sp_Defense": 65,
       "Speed": 45
     }
   },
@@ -861,8 +861,8 @@ export const POKEMONS_JOHTO = [
       "HP": 65,
       "Attack": 75,
       "Defense": 105,
-      "Sp. Attack": 35,
-      "Sp. Defense": 65,
+      "Sp_Attack": 35,
+      "Sp_Defense": 65,
       "Speed": 85
     }
   },
@@ -877,8 +877,8 @@ export const POKEMONS_JOHTO = [
       "HP": 75,
       "Attack": 85,
       "Defense": 200,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "Sp_Attack": 55,
+      "Sp_Defense": 65,
       "Speed": 30
     }
   },
@@ -892,8 +892,8 @@ export const POKEMONS_JOHTO = [
       "HP": 60,
       "Attack": 80,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "Sp_Attack": 40,
+      "Sp_Defense": 40,
       "Speed": 30
     }
   },
@@ -907,8 +907,8 @@ export const POKEMONS_JOHTO = [
       "HP": 90,
       "Attack": 120,
       "Defense": 75,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "Sp_Attack": 60,
+      "Sp_Defense": 60,
       "Speed": 45
     }
   },
@@ -923,8 +923,8 @@ export const POKEMONS_JOHTO = [
       "HP": 65,
       "Attack": 95,
       "Defense": 85,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "Sp_Attack": 55,
+      "Sp_Defense": 55,
       "Speed": 85
     }
   },
@@ -939,8 +939,8 @@ export const POKEMONS_JOHTO = [
       "HP": 70,
       "Attack": 130,
       "Defense": 100,
-      "Sp. Attack": 55,
-      "Sp. Defense": 80,
+      "Sp_Attack": 55,
+      "Sp_Defense": 80,
       "Speed": 65
     }
   },
@@ -955,8 +955,8 @@ export const POKEMONS_JOHTO = [
       "HP": 20,
       "Attack": 10,
       "Defense": 230,
-      "Sp. Attack": 10,
-      "Sp. Defense": 230,
+      "Sp_Attack": 10,
+      "Sp_Defense": 230,
       "Speed": 5
     }
   },
@@ -971,8 +971,8 @@ export const POKEMONS_JOHTO = [
       "HP": 80,
       "Attack": 125,
       "Defense": 75,
-      "Sp. Attack": 40,
-      "Sp. Defense": 95,
+      "Sp_Attack": 40,
+      "Sp_Defense": 95,
       "Speed": 85
     }
   },
@@ -987,8 +987,8 @@ export const POKEMONS_JOHTO = [
       "HP": 55,
       "Attack": 95,
       "Defense": 55,
-      "Sp. Attack": 35,
-      "Sp. Defense": 75,
+      "Sp_Attack": 35,
+      "Sp_Defense": 75,
       "Speed": 115
     }
   },
@@ -1002,8 +1002,8 @@ export const POKEMONS_JOHTO = [
       "HP": 60,
       "Attack": 80,
       "Defense": 50,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "Sp_Attack": 50,
+      "Sp_Defense": 50,
       "Speed": 40
     }
   },
@@ -1017,8 +1017,8 @@ export const POKEMONS_JOHTO = [
       "HP": 90,
       "Attack": 130,
       "Defense": 75,
-      "Sp. Attack": 75,
-      "Sp. Defense": 75,
+      "Sp_Attack": 75,
+      "Sp_Defense": 75,
       "Speed": 55
     }
   },
@@ -1032,8 +1032,8 @@ export const POKEMONS_JOHTO = [
       "HP": 40,
       "Attack": 40,
       "Defense": 40,
-      "Sp. Attack": 70,
-      "Sp. Defense": 40,
+      "Sp_Attack": 70,
+      "Sp_Defense": 40,
       "Speed": 20
     }
   },
@@ -1048,8 +1048,8 @@ export const POKEMONS_JOHTO = [
       "HP": 60,
       "Attack": 50,
       "Defense": 120,
-      "Sp. Attack": 90,
-      "Sp. Defense": 80,
+      "Sp_Attack": 90,
+      "Sp_Defense": 80,
       "Speed": 30
     }
   },
@@ -1064,8 +1064,8 @@ export const POKEMONS_JOHTO = [
       "HP": 50,
       "Attack": 50,
       "Defense": 40,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "Sp_Attack": 30,
+      "Sp_Defense": 30,
       "Speed": 50
     }
   },
@@ -1080,8 +1080,8 @@ export const POKEMONS_JOHTO = [
       "HP": 100,
       "Attack": 100,
       "Defense": 80,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "Sp_Attack": 60,
+      "Sp_Defense": 60,
       "Speed": 50
     }
   },
@@ -1096,8 +1096,8 @@ export const POKEMONS_JOHTO = [
       "HP": 65,
       "Attack": 55,
       "Defense": 95,
-      "Sp. Attack": 65,
-      "Sp. Defense": 95,
+      "Sp_Attack": 65,
+      "Sp_Defense": 95,
       "Speed": 35
     }
   },
@@ -1111,8 +1111,8 @@ export const POKEMONS_JOHTO = [
       "HP": 35,
       "Attack": 65,
       "Defense": 35,
-      "Sp. Attack": 65,
-      "Sp. Defense": 35,
+      "Sp_Attack": 65,
+      "Sp_Defense": 35,
       "Speed": 65
     }
   },
@@ -1126,8 +1126,8 @@ export const POKEMONS_JOHTO = [
       "HP": 75,
       "Attack": 105,
       "Defense": 75,
-      "Sp. Attack": 105,
-      "Sp. Defense": 75,
+      "Sp_Attack": 105,
+      "Sp_Defense": 75,
       "Speed": 45
     }
   },
@@ -1142,8 +1142,8 @@ export const POKEMONS_JOHTO = [
       "HP": 45,
       "Attack": 55,
       "Defense": 45,
-      "Sp. Attack": 65,
-      "Sp. Defense": 45,
+      "Sp_Attack": 65,
+      "Sp_Defense": 45,
       "Speed": 75
     }
   },
@@ -1158,8 +1158,8 @@ export const POKEMONS_JOHTO = [
       "HP": 85,
       "Attack": 40,
       "Defense": 70,
-      "Sp. Attack": 80,
-      "Sp. Defense": 140,
+      "Sp_Attack": 80,
+      "Sp_Defense": 140,
       "Speed": 70
     }
   },
@@ -1174,8 +1174,8 @@ export const POKEMONS_JOHTO = [
       "HP": 65,
       "Attack": 80,
       "Defense": 140,
-      "Sp. Attack": 40,
-      "Sp. Defense": 70,
+      "Sp_Attack": 40,
+      "Sp_Defense": 70,
       "Speed": 70
     }
   },
@@ -1190,8 +1190,8 @@ export const POKEMONS_JOHTO = [
       "HP": 45,
       "Attack": 60,
       "Defense": 30,
-      "Sp. Attack": 80,
-      "Sp. Defense": 50,
+      "Sp_Attack": 80,
+      "Sp_Defense": 50,
       "Speed": 65
     }
   },
@@ -1206,8 +1206,8 @@ export const POKEMONS_JOHTO = [
       "HP": 75,
       "Attack": 90,
       "Defense": 50,
-      "Sp. Attack": 110,
-      "Sp. Defense": 80,
+      "Sp_Attack": 110,
+      "Sp_Defense": 80,
       "Speed": 95
     }
   },
@@ -1222,8 +1222,8 @@ export const POKEMONS_JOHTO = [
       "HP": 75,
       "Attack": 95,
       "Defense": 95,
-      "Sp. Attack": 95,
-      "Sp. Defense": 95,
+      "Sp_Attack": 95,
+      "Sp_Defense": 95,
       "Speed": 85
     }
   },
@@ -1237,8 +1237,8 @@ export const POKEMONS_JOHTO = [
       "HP": 90,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "Sp_Attack": 40,
+      "Sp_Defense": 40,
       "Speed": 40
     }
   },
@@ -1252,8 +1252,8 @@ export const POKEMONS_JOHTO = [
       "HP": 90,
       "Attack": 120,
       "Defense": 120,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "Sp_Attack": 60,
+      "Sp_Defense": 60,
       "Speed": 50
     }
   },
@@ -1267,8 +1267,8 @@ export const POKEMONS_JOHTO = [
       "HP": 85,
       "Attack": 80,
       "Defense": 90,
-      "Sp. Attack": 105,
-      "Sp. Defense": 95,
+      "Sp_Attack": 105,
+      "Sp_Defense": 95,
       "Speed": 60
     }
   },
@@ -1282,8 +1282,8 @@ export const POKEMONS_JOHTO = [
       "HP": 73,
       "Attack": 95,
       "Defense": 62,
-      "Sp. Attack": 85,
-      "Sp. Defense": 65,
+      "Sp_Attack": 85,
+      "Sp_Defense": 65,
       "Speed": 85
     }
   },
@@ -1297,8 +1297,8 @@ export const POKEMONS_JOHTO = [
       "HP": 55,
       "Attack": 20,
       "Defense": 35,
-      "Sp. Attack": 20,
-      "Sp. Defense": 45,
+      "Sp_Attack": 20,
+      "Sp_Defense": 45,
       "Speed": 75
     }
   },
@@ -1312,8 +1312,8 @@ export const POKEMONS_JOHTO = [
       "HP": 35,
       "Attack": 35,
       "Defense": 35,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "Sp_Attack": 35,
+      "Sp_Defense": 35,
       "Speed": 35
     }
   },
@@ -1327,8 +1327,8 @@ export const POKEMONS_JOHTO = [
       "HP": 50,
       "Attack": 95,
       "Defense": 95,
-      "Sp. Attack": 35,
-      "Sp. Defense": 110,
+      "Sp_Attack": 35,
+      "Sp_Defense": 110,
       "Speed": 70
     }
   },
@@ -1343,8 +1343,8 @@ export const POKEMONS_JOHTO = [
       "HP": 45,
       "Attack": 30,
       "Defense": 15,
-      "Sp. Attack": 85,
-      "Sp. Defense": 65,
+      "Sp_Attack": 85,
+      "Sp_Defense": 65,
       "Speed": 65
     }
   },
@@ -1358,8 +1358,8 @@ export const POKEMONS_JOHTO = [
       "HP": 45,
       "Attack": 63,
       "Defense": 37,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "Sp_Attack": 65,
+      "Sp_Defense": 55,
       "Speed": 95
     }
   },
@@ -1373,8 +1373,8 @@ export const POKEMONS_JOHTO = [
       "HP": 45,
       "Attack": 75,
       "Defense": 37,
-      "Sp. Attack": 70,
-      "Sp. Defense": 55,
+      "Sp_Attack": 70,
+      "Sp_Defense": 55,
       "Speed": 83
     }
   },
@@ -1388,8 +1388,8 @@ export const POKEMONS_JOHTO = [
       "HP": 95,
       "Attack": 80,
       "Defense": 105,
-      "Sp. Attack": 40,
-      "Sp. Defense": 70,
+      "Sp_Attack": 40,
+      "Sp_Defense": 70,
       "Speed": 100
     }
   },
@@ -1403,8 +1403,8 @@ export const POKEMONS_JOHTO = [
       "HP": 255,
       "Attack": 10,
       "Defense": 10,
-      "Sp. Attack": 75,
-      "Sp. Defense": 135,
+      "Sp_Attack": 75,
+      "Sp_Defense": 135,
       "Speed": 55
     }
   },
@@ -1418,8 +1418,8 @@ export const POKEMONS_JOHTO = [
       "HP": 90,
       "Attack": 85,
       "Defense": 75,
-      "Sp. Attack": 115,
-      "Sp. Defense": 100,
+      "Sp_Attack": 115,
+      "Sp_Defense": 100,
       "Speed": 115
     }
   },
@@ -1433,8 +1433,8 @@ export const POKEMONS_JOHTO = [
       "HP": 115,
       "Attack": 115,
       "Defense": 85,
-      "Sp. Attack": 90,
-      "Sp. Defense": 75,
+      "Sp_Attack": 90,
+      "Sp_Defense": 75,
       "Speed": 100
     }
   },
@@ -1448,8 +1448,8 @@ export const POKEMONS_JOHTO = [
       "HP": 100,
       "Attack": 75,
       "Defense": 115,
-      "Sp. Attack": 90,
-      "Sp. Defense": 115,
+      "Sp_Attack": 90,
+      "Sp_Defense": 115,
       "Speed": 85
     }
   },
@@ -1464,8 +1464,8 @@ export const POKEMONS_JOHTO = [
       "HP": 50,
       "Attack": 64,
       "Defense": 50,
-      "Sp. Attack": 45,
-      "Sp. Defense": 50,
+      "Sp_Attack": 45,
+      "Sp_Defense": 50,
       "Speed": 41
     }
   },
@@ -1480,8 +1480,8 @@ export const POKEMONS_JOHTO = [
       "HP": 70,
       "Attack": 84,
       "Defense": 70,
-      "Sp. Attack": 65,
-      "Sp. Defense": 70,
+      "Sp_Attack": 65,
+      "Sp_Defense": 70,
       "Speed": 51
     }
   },
@@ -1496,8 +1496,8 @@ export const POKEMONS_JOHTO = [
       "HP": 100,
       "Attack": 134,
       "Defense": 110,
-      "Sp. Attack": 95,
-      "Sp. Defense": 100,
+      "Sp_Attack": 95,
+      "Sp_Defense": 100,
       "Speed": 61
     }
   },
@@ -1512,8 +1512,8 @@ export const POKEMONS_JOHTO = [
       "HP": 106,
       "Attack": 90,
       "Defense": 130,
-      "Sp. Attack": 90,
-      "Sp. Defense": 154,
+      "Sp_Attack": 90,
+      "Sp_Defense": 154,
       "Speed": 110
     }
   },
@@ -1528,8 +1528,8 @@ export const POKEMONS_JOHTO = [
       "HP": 106,
       "Attack": 130,
       "Defense": 90,
-      "Sp. Attack": 110,
-      "Sp. Defense": 154,
+      "Sp_Attack": 110,
+      "Sp_Defense": 154,
       "Speed": 90
     }
   },
@@ -1544,8 +1544,8 @@ export const POKEMONS_JOHTO = [
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "Sp_Attack": 100,
+      "Sp_Defense": 100,
       "Speed": 100
     }
   }

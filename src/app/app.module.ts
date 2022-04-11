@@ -12,6 +12,7 @@ import {MatCardModule} from '@angular/material/card';
 import {MatTabsModule} from '@angular/material/tabs';
 import {MatSidenavModule} from '@angular/material/sidenav';
 import { PokemonListHoeenComponent } from './pokemon-list-hoeen/pokemon-list-hoeen.component';
+import { SelectPokemonComponent } from './select-pokemon/select-pokemon.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { PokemonListHoeenComponent } from './pokemon-list-hoeen/pokemon-list-hoe
     PokemonListComponent,
     PokemonListJohtoComponent,
     PokemonDetailComponent,
-    PokemonListHoeenComponent
+    PokemonListHoeenComponent,
+    SelectPokemonComponent
   ],
   imports: [
     BrowserModule,

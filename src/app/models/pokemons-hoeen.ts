@@ -4,14 +4,14 @@ export const POKEMONS_HOEEN = [
     "id": 252,
     "name": "キモリ",
     "type": [
-      "Grass"
+      "くさ"
     ],
     "base": {
       "HP": 40,
       "Attack": 45,
       "Defense": 35,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "Sp_Attack": 65,
+      "Sp_Defense": 55,
       "Speed": 70
     }
   },
@@ -19,14 +19,14 @@ export const POKEMONS_HOEEN = [
     "id": 253,
     "name": "ジュプトル",
     "type": [
-      "Grass"
+      "くさ"
     ],
     "base": {
       "HP": 50,
       "Attack": 65,
       "Defense": 45,
-      "Sp. Attack": 85,
-      "Sp. Defense": 65,
+      "Sp_Attack": 85,
+      "Sp_Defense": 65,
       "Speed": 95
     }
   },
@@ -34,14 +34,14 @@ export const POKEMONS_HOEEN = [
     "id": 254,
     "name": "ジュカイン",
     "type": [
-      "Grass"
+      "くさ"
     ],
     "base": {
       "HP": 70,
       "Attack": 85,
       "Defense": 65,
-      "Sp. Attack": 105,
-      "Sp. Defense": 85,
+      "Sp_Attack": 105,
+      "Sp_Defense": 85,
       "Speed": 120
     }
   },
@@ -49,14 +49,14 @@ export const POKEMONS_HOEEN = [
     "id": 255,
     "name": "アチャモ",
     "type": [
-      "Fire"
+      "ほのお"
     ],
     "base": {
       "HP": 45,
       "Attack": 60,
       "Defense": 40,
-      "Sp. Attack": 70,
-      "Sp. Defense": 50,
+      "Sp_Attack": 70,
+      "Sp_Defense": 50,
       "Speed": 45
     }
   },
@@ -64,15 +64,15 @@ export const POKEMONS_HOEEN = [
     "id": 256,
     "name": "ワカシャモ",
     "type": [
-      "Fire",
-      "Fighting"
+      "ほのお",
+      "かくとう"
     ],
     "base": {
       "HP": 60,
       "Attack": 85,
       "Defense": 60,
-      "Sp. Attack": 85,
-      "Sp. Defense": 60,
+      "Sp_Attack": 85,
+      "Sp_Defense": 60,
       "Speed": 55
     }
   },
@@ -80,15 +80,15 @@ export const POKEMONS_HOEEN = [
     "id": 257,
     "name": "バシャーモ",
     "type": [
-      "Fire",
-      "Fighting"
+      "ほのお",
+      "かくとう"
     ],
     "base": {
       "HP": 80,
       "Attack": 120,
       "Defense": 70,
-      "Sp. Attack": 110,
-      "Sp. Defense": 70,
+      "Sp_Attack": 110,
+      "Sp_Defense": 70,
       "Speed": 80
     }
   },
@@ -96,14 +96,14 @@ export const POKEMONS_HOEEN = [
     "id": 258,
     "name": "ミズゴロウ",
     "type": [
-      "Water"
+      "みず"
     ],
     "base": {
       "HP": 50,
       "Attack": 70,
       "Defense": 50,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "Sp_Attack": 50,
+      "Sp_Defense": 50,
       "Speed": 40
     }
   },
@@ -111,15 +111,15 @@ export const POKEMONS_HOEEN = [
     "id": 259,
     "name": "ヌマクロー",
     "type": [
-      "Water",
-      "Ground"
+      "みず",
+      "じめん"
     ],
     "base": {
       "HP": 70,
       "Attack": 85,
       "Defense": 70,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "Sp_Attack": 60,
+      "Sp_Defense": 70,
       "Speed": 50
     }
   },
@@ -127,15 +127,15 @@ export const POKEMONS_HOEEN = [
     "id": 260,
     "name": "ラグラージ",
     "type": [
-      "Water",
-      "Ground"
+      "みず",
+      "じめん"
     ],
     "base": {
       "HP": 100,
       "Attack": 110,
       "Defense": 90,
-      "Sp. Attack": 85,
-      "Sp. Defense": 90,
+      "Sp_Attack": 85,
+      "Sp_Defense": 90,
       "Speed": 60
     }
   },
@@ -143,14 +143,14 @@ export const POKEMONS_HOEEN = [
     "id": 261,
     "name": "ポチエナ",
     "type": [
-      "Dark"
+      "あく"
     ],
     "base": {
       "HP": 35,
       "Attack": 55,
       "Defense": 35,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "Sp_Attack": 30,
+      "Sp_Defense": 30,
       "Speed": 35
     }
   },
@@ -158,14 +158,14 @@ export const POKEMONS_HOEEN = [
     "id": 262,
     "name": "グラエナ",
     "type": [
-      "Dark"
+      "あく"
     ],
     "base": {
       "HP": 70,
       "Attack": 90,
       "Defense": 70,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "Sp_Attack": 60,
+      "Sp_Defense": 60,
       "Speed": 70
     }
   },
@@ -173,14 +173,14 @@ export const POKEMONS_HOEEN = [
     "id": 263,
     "name": "ジグザグマ",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 38,
       "Attack": 30,
       "Defense": 41,
-      "Sp. Attack": 30,
-      "Sp. Defense": 41,
+      "Sp_Attack": 30,
+      "Sp_Defense": 41,
       "Speed": 60
     }
   },
@@ -188,14 +188,14 @@ export const POKEMONS_HOEEN = [
     "id": 264,
     "name": "マッスグマ",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 78,
       "Attack": 70,
       "Defense": 61,
-      "Sp. Attack": 50,
-      "Sp. Defense": 61,
+      "Sp_Attack": 50,
+      "Sp_Defense": 61,
       "Speed": 100
     }
   },
@@ -203,14 +203,14 @@ export const POKEMONS_HOEEN = [
     "id": 265,
     "name": "ケムッソ",
     "type": [
-      "Bug"
+      "むし"
     ],
     "base": {
       "HP": 45,
       "Attack": 45,
       "Defense": 35,
-      "Sp. Attack": 20,
-      "Sp. Defense": 30,
+      "Sp_Attack": 20,
+      "Sp_Defense": 30,
       "Speed": 20
     }
   },
@@ -218,14 +218,14 @@ export const POKEMONS_HOEEN = [
     "id": 266,
     "name": "カラサリス",
     "type": [
-      "Bug"
+      "むし"
     ],
     "base": {
       "HP": 50,
       "Attack": 35,
       "Defense": 55,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "Sp_Attack": 25,
+      "Sp_Defense": 25,
       "Speed": 15
     }
   },
@@ -233,15 +233,15 @@ export const POKEMONS_HOEEN = [
     "id": 267,
     "name": "アゲハント",
     "type": [
-      "Bug",
-      "Flying"
+      "むし",
+      "ひこう"
     ],
     "base": {
       "HP": 60,
       "Attack": 70,
       "Defense": 50,
-      "Sp. Attack": 100,
-      "Sp. Defense": 50,
+      "Sp_Attack": 100,
+      "Sp_Defense": 50,
       "Speed": 65
     }
   },
@@ -249,14 +249,14 @@ export const POKEMONS_HOEEN = [
     "id": 268,
     "name": "マユルド",
     "type": [
-      "Bug"
+      "むし"
     ],
     "base": {
       "HP": 50,
       "Attack": 35,
       "Defense": 55,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "Sp_Attack": 25,
+      "Sp_Defense": 25,
       "Speed": 15
     }
   },
@@ -264,15 +264,15 @@ export const POKEMONS_HOEEN = [
     "id": 269,
     "name": "ドクケイル",
     "type": [
-      "Bug",
-      "Poison"
+      "むし",
+      "どく"
     ],
     "base": {
       "HP": 60,
       "Attack": 50,
       "Defense": 70,
-      "Sp. Attack": 50,
-      "Sp. Defense": 90,
+      "Sp_Attack": 50,
+      "Sp_Defense": 90,
       "Speed": 65
     }
   },
@@ -280,15 +280,15 @@ export const POKEMONS_HOEEN = [
     "id": 270,
     "name": "ハスボー",
     "type": [
-      "Water",
-      "Grass"
+      "みず",
+      "くさ"
     ],
     "base": {
       "HP": 40,
       "Attack": 30,
       "Defense": 30,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "Sp_Attack": 40,
+      "Sp_Defense": 50,
       "Speed": 30
     }
   },
@@ -296,15 +296,15 @@ export const POKEMONS_HOEEN = [
     "id": 271,
     "name": "ハスブレロ",
     "type": [
-      "Water",
-      "Grass"
+      "みず",
+      "くさ"
     ],
     "base": {
       "HP": 60,
       "Attack": 50,
       "Defense": 50,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "Sp_Attack": 60,
+      "Sp_Defense": 70,
       "Speed": 50
     }
   },
@@ -312,15 +312,15 @@ export const POKEMONS_HOEEN = [
     "id": 272,
     "name": "ルンパッパ",
     "type": [
-      "Water",
-      "Grass"
+      "みず",
+      "くさ"
     ],
     "base": {
       "HP": 80,
       "Attack": 70,
       "Defense": 70,
-      "Sp. Attack": 90,
-      "Sp. Defense": 100,
+      "Sp_Attack": 90,
+      "Sp_Defense": 100,
       "Speed": 70
     }
   },
@@ -328,14 +328,14 @@ export const POKEMONS_HOEEN = [
     "id": 273,
     "name": "タネボー",
     "type": [
-      "Grass"
+      "くさ"
     ],
     "base": {
       "HP": 40,
       "Attack": 40,
       "Defense": 50,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "Sp_Attack": 30,
+      "Sp_Defense": 30,
       "Speed": 30
     }
   },
@@ -343,15 +343,15 @@ export const POKEMONS_HOEEN = [
     "id": 274,
     "name": "コノハナ",
     "type": [
-      "Grass",
-      "Dark"
+      "くさ",
+      "あく"
     ],
     "base": {
       "HP": 70,
       "Attack": 70,
       "Defense": 40,
-      "Sp. Attack": 60,
-      "Sp. Defense": 40,
+      "Sp_Attack": 60,
+      "Sp_Defense": 40,
       "Speed": 60
     }
   },
@@ -359,15 +359,15 @@ export const POKEMONS_HOEEN = [
     "id": 275,
     "name": "ダーテング",
     "type": [
-      "Grass",
-      "Dark"
+      "くさ",
+      "あく"
     ],
     "base": {
       "HP": 90,
       "Attack": 100,
       "Defense": 60,
-      "Sp. Attack": 90,
-      "Sp. Defense": 60,
+      "Sp_Attack": 90,
+      "Sp_Defense": 60,
       "Speed": 80
     }
   },
@@ -375,15 +375,15 @@ export const POKEMONS_HOEEN = [
     "id": 276,
     "name": "スバメ",
     "type": [
-      "Normal",
-      "Flying"
+      "ノーマル",
+      "ひこう"
     ],
     "base": {
       "HP": 40,
       "Attack": 55,
       "Defense": 30,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "Sp_Attack": 30,
+      "Sp_Defense": 30,
       "Speed": 85
     }
   },
@@ -391,15 +391,15 @@ export const POKEMONS_HOEEN = [
     "id": 277,
     "name": "オオスバメ",
     "type": [
-      "Normal",
-      "Flying"
+      "ノーマル",
+      "ひこう"
     ],
     "base": {
       "HP": 60,
       "Attack": 85,
       "Defense": 60,
-      "Sp. Attack": 75,
-      "Sp. Defense": 50,
+      "Sp_Attack": 75,
+      "Sp_Defense": 50,
       "Speed": 125
     }
   },
@@ -407,15 +407,15 @@ export const POKEMONS_HOEEN = [
     "id": 278,
     "name": "キャモメ",
     "type": [
-      "Water",
-      "Flying"
+      "みず",
+      "ひこう"
     ],
     "base": {
       "HP": 40,
       "Attack": 30,
       "Defense": 30,
-      "Sp. Attack": 55,
-      "Sp. Defense": 30,
+      "Sp_Attack": 55,
+      "Sp_Defense": 30,
       "Speed": 85
     }
   },
@@ -423,15 +423,15 @@ export const POKEMONS_HOEEN = [
     "id": 279,
     "name": "ペリッパー",
     "type": [
-      "Water",
-      "Flying"
+      "みず",
+      "ひこう"
     ],
     "base": {
       "HP": 60,
       "Attack": 50,
       "Defense": 100,
-      "Sp. Attack": 95,
-      "Sp. Defense": 70,
+      "Sp_Attack": 95,
+      "Sp_Defense": 70,
       "Speed": 65
     }
   },
@@ -439,15 +439,15 @@ export const POKEMONS_HOEEN = [
     "id": 280,
     "name": "ラルトス",
     "type": [
-      "Psychic",
-      "Fairy"
+      "エスパー",
+      "フェアリー"
     ],
     "base": {
       "HP": 28,
       "Attack": 25,
       "Defense": 25,
-      "Sp. Attack": 45,
-      "Sp. Defense": 35,
+      "Sp_Attack": 45,
+      "Sp_Defense": 35,
       "Speed": 40
     }
   },
@@ -455,15 +455,15 @@ export const POKEMONS_HOEEN = [
     "id": 281,
     "name": "キルリア",
     "type": [
-      "Psychic",
-      "Fairy"
+      "エスパー",
+      "フェアリー"
     ],
     "base": {
       "HP": 38,
       "Attack": 35,
       "Defense": 35,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "Sp_Attack": 65,
+      "Sp_Defense": 55,
       "Speed": 50
     }
   },
@@ -471,15 +471,15 @@ export const POKEMONS_HOEEN = [
     "id": 282,
     "name": "サーナイト",
     "type": [
-      "Psychic",
-      "Fairy"
+      "エスパー",
+      "フェアリー"
     ],
     "base": {
       "HP": 68,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 125,
-      "Sp. Defense": 115,
+      "Sp_Attack": 125,
+      "Sp_Defense": 115,
       "Speed": 80
     }
   },
@@ -487,15 +487,15 @@ export const POKEMONS_HOEEN = [
     "id": 283,
     "name": "アメタマ",
     "type": [
-      "Bug",
-      "Water"
+      "むし",
+      "みず"
     ],
     "base": {
       "HP": 40,
       "Attack": 30,
       "Defense": 32,
-      "Sp. Attack": 50,
-      "Sp. Defense": 52,
+      "Sp_Attack": 50,
+      "Sp_Defense": 52,
       "Speed": 65
     }
   },
@@ -503,15 +503,15 @@ export const POKEMONS_HOEEN = [
     "id": 284,
     "name": "アメモース",
     "type": [
-      "Bug",
-      "Flying"
+      "むし",
+      "ひこう"
     ],
     "base": {
       "HP": 70,
       "Attack": 60,
       "Defense": 62,
-      "Sp. Attack": 100,
-      "Sp. Defense": 82,
+      "Sp_Attack": 100,
+      "Sp_Defense": 82,
       "Speed": 80
     }
   },
@@ -519,14 +519,14 @@ export const POKEMONS_HOEEN = [
     "id": 285,
     "name": "キノココ",
     "type": [
-      "Grass"
+      "くさ"
     ],
     "base": {
       "HP": 60,
       "Attack": 40,
       "Defense": 60,
-      "Sp. Attack": 40,
-      "Sp. Defense": 60,
+      "Sp_Attack": 40,
+      "Sp_Defense": 60,
       "Speed": 35
     }
   },
@@ -534,15 +534,15 @@ export const POKEMONS_HOEEN = [
     "id": 286,
     "name": "キノガッサ",
     "type": [
-      "Grass",
-      "Fighting"
+      "くさ",
+      "かくとう"
     ],
     "base": {
       "HP": 60,
       "Attack": 130,
       "Defense": 80,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "Sp_Attack": 60,
+      "Sp_Defense": 60,
       "Speed": 70
     }
   },
@@ -550,14 +550,14 @@ export const POKEMONS_HOEEN = [
     "id": 287,
     "name": "ナマケロ",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "Sp_Attack": 35,
+      "Sp_Defense": 35,
       "Speed": 30
     }
   },
@@ -565,14 +565,14 @@ export const POKEMONS_HOEEN = [
     "id": 288,
     "name": "ヤルキモノ",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 80,
       "Attack": 80,
       "Defense": 80,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "Sp_Attack": 55,
+      "Sp_Defense": 55,
       "Speed": 90
     }
   },
@@ -580,14 +580,14 @@ export const POKEMONS_HOEEN = [
     "id": 289,
     "name": "ケッキング",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 150,
       "Attack": 160,
       "Defense": 100,
-      "Sp. Attack": 95,
-      "Sp. Defense": 65,
+      "Sp_Attack": 95,
+      "Sp_Defense": 65,
       "Speed": 100
     }
   },
@@ -595,15 +595,15 @@ export const POKEMONS_HOEEN = [
     "id": 290,
     "name": "ツチニン",
     "type": [
-      "Bug",
-      "Ground"
+      "むし",
+      "じめん"
     ],
     "base": {
       "HP": 31,
       "Attack": 45,
       "Defense": 90,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "Sp_Attack": 30,
+      "Sp_Defense": 30,
       "Speed": 40
     }
   },
@@ -611,15 +611,15 @@ export const POKEMONS_HOEEN = [
     "id": 291,
     "name": "テッカニン",
     "type": [
-      "Bug",
-      "Flying"
+      "むし",
+      "ひこう"
     ],
     "base": {
       "HP": 61,
       "Attack": 90,
       "Defense": 45,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "Sp_Attack": 50,
+      "Sp_Defense": 50,
       "Speed": 160
     }
   },
@@ -627,15 +627,15 @@ export const POKEMONS_HOEEN = [
     "id": 292,
     "name": "ヌケニン",
     "type": [
-      "Bug",
-      "Ghost"
+      "むし",
+      "ゴースト"
     ],
     "base": {
       "HP": 1,
       "Attack": 90,
       "Defense": 45,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "Sp_Attack": 30,
+      "Sp_Defense": 30,
       "Speed": 40
     }
   },
@@ -643,14 +643,14 @@ export const POKEMONS_HOEEN = [
     "id": 293,
     "name": "ゴニョニョ",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 64,
       "Attack": 51,
       "Defense": 23,
-      "Sp. Attack": 51,
-      "Sp. Defense": 23,
+      "Sp_Attack": 51,
+      "Sp_Defense": 23,
       "Speed": 28
     }
   },
@@ -658,14 +658,14 @@ export const POKEMONS_HOEEN = [
     "id": 294,
     "name": "ドゴーム",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 84,
       "Attack": 71,
       "Defense": 43,
-      "Sp. Attack": 71,
-      "Sp. Defense": 43,
+      "Sp_Attack": 71,
+      "Sp_Defense": 43,
       "Speed": 48
     }
   },
@@ -673,14 +673,14 @@ export const POKEMONS_HOEEN = [
     "id": 295,
     "name": "バクオング",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 104,
       "Attack": 91,
       "Defense": 63,
-      "Sp. Attack": 91,
-      "Sp. Defense": 73,
+      "Sp_Attack": 91,
+      "Sp_Defense": 73,
       "Speed": 68
     }
   },
@@ -688,14 +688,14 @@ export const POKEMONS_HOEEN = [
     "id": 296,
     "name": "マクノシタ",
     "type": [
-      "Fighting"
+      "かくとう"
     ],
     "base": {
       "HP": 72,
       "Attack": 60,
       "Defense": 30,
-      "Sp. Attack": 20,
-      "Sp. Defense": 30,
+      "Sp_Attack": 20,
+      "Sp_Defense": 30,
       "Speed": 25
     }
   },
@@ -703,14 +703,14 @@ export const POKEMONS_HOEEN = [
     "id": 297,
     "name": "ハリテヤマ",
     "type": [
-      "Fighting"
+      "かくとう"
     ],
     "base": {
       "HP": 144,
       "Attack": 120,
       "Defense": 60,
-      "Sp. Attack": 40,
-      "Sp. Defense": 60,
+      "Sp_Attack": 40,
+      "Sp_Defense": 60,
       "Speed": 50
     }
   },
@@ -718,15 +718,15 @@ export const POKEMONS_HOEEN = [
     "id": 298,
     "name": "ルリリ",
     "type": [
-      "Normal",
-      "Fairy"
+      "ノーマル",
+      "フェアリー"
     ],
     "base": {
       "HP": 50,
       "Attack": 20,
       "Defense": 40,
-      "Sp. Attack": 20,
-      "Sp. Defense": 40,
+      "Sp_Attack": 20,
+      "Sp_Defense": 40,
       "Speed": 20
     }
   },
@@ -734,14 +734,14 @@ export const POKEMONS_HOEEN = [
     "id": 299,
     "name": "ノズパス",
     "type": [
-      "Rock"
+      "いわ"
     ],
     "base": {
       "HP": 30,
       "Attack": 45,
       "Defense": 135,
-      "Sp. Attack": 45,
-      "Sp. Defense": 90,
+      "Sp_Attack": 45,
+      "Sp_Defense": 90,
       "Speed": 30
     }
   },
@@ -749,14 +749,14 @@ export const POKEMONS_HOEEN = [
     "id": 300,
     "name": "エネコ",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 50,
       "Attack": 45,
       "Defense": 45,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "Sp_Attack": 35,
+      "Sp_Defense": 35,
       "Speed": 50
     }
   },
@@ -764,14 +764,14 @@ export const POKEMONS_HOEEN = [
     "id": 301,
     "name": "エネコロロ",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 70,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "Sp_Attack": 55,
+      "Sp_Defense": 55,
       "Speed": 90
     }
   },
@@ -779,15 +779,15 @@ export const POKEMONS_HOEEN = [
     "id": 302,
     "name": "ヤミラミ",
     "type": [
-      "Dark",
-      "Ghost"
+      "あく",
+      "ゴースト"
     ],
     "base": {
       "HP": 50,
       "Attack": 75,
       "Defense": 75,
-      "Sp. Attack": 65,
-      "Sp. Defense": 65,
+      "Sp_Attack": 65,
+      "Sp_Defense": 65,
       "Speed": 50
     }
   },
@@ -795,15 +795,15 @@ export const POKEMONS_HOEEN = [
     "id": 303,
     "name": "クチート",
     "type": [
-      "Steel",
-      "Fairy"
+      "はがね",
+      "フェアリー"
     ],
     "base": {
       "HP": 50,
       "Attack": 85,
       "Defense": 85,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "Sp_Attack": 55,
+      "Sp_Defense": 55,
       "Speed": 50
     }
   },
@@ -811,15 +811,15 @@ export const POKEMONS_HOEEN = [
     "id": 304,
     "name": "ココドラ",
     "type": [
-      "Steel",
-      "Rock"
+      "はがね",
+      "いわ"
     ],
     "base": {
       "HP": 50,
       "Attack": 70,
       "Defense": 100,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "Sp_Attack": 40,
+      "Sp_Defense": 40,
       "Speed": 30
     }
   },
@@ -827,15 +827,15 @@ export const POKEMONS_HOEEN = [
     "id": 305,
     "name": "コドラ",
     "type": [
-      "Steel",
-      "Rock"
+      "はがね",
+      "いわ"
     ],
     "base": {
       "HP": 60,
       "Attack": 90,
       "Defense": 140,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "Sp_Attack": 50,
+      "Sp_Defense": 50,
       "Speed": 40
     }
   },
@@ -843,15 +843,15 @@ export const POKEMONS_HOEEN = [
     "id": 306,
     "name": "ボスゴドラ",
     "type": [
-      "Steel",
-      "Rock"
+      "はがね",
+      "いわ"
     ],
     "base": {
       "HP": 70,
       "Attack": 110,
       "Defense": 180,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "Sp_Attack": 60,
+      "Sp_Defense": 60,
       "Speed": 50
     }
   },
@@ -859,15 +859,15 @@ export const POKEMONS_HOEEN = [
     "id": 307,
     "name": "アサナン",
     "type": [
-      "Fighting",
-      "Psychic"
+      "かくとう",
+      "エスパー"
     ],
     "base": {
       "HP": 30,
       "Attack": 40,
       "Defense": 55,
-      "Sp. Attack": 40,
-      "Sp. Defense": 55,
+      "Sp_Attack": 40,
+      "Sp_Defense": 55,
       "Speed": 60
     }
   },
@@ -875,15 +875,15 @@ export const POKEMONS_HOEEN = [
     "id": 308,
     "name": "チャーレム",
     "type": [
-      "Fighting",
-      "Psychic"
+      "かくとう",
+      "エスパー"
     ],
     "base": {
       "HP": 60,
       "Attack": 60,
       "Defense": 75,
-      "Sp. Attack": 60,
-      "Sp. Defense": 75,
+      "Sp_Attack": 60,
+      "Sp_Defense": 75,
       "Speed": 80
     }
   },
@@ -891,14 +891,14 @@ export const POKEMONS_HOEEN = [
     "id": 309,
     "name": "ラクライ",
     "type": [
-      "Electric"
+      "でんき"
     ],
     "base": {
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
-      "Sp. Attack": 65,
-      "Sp. Defense": 40,
+      "Sp_Attack": 65,
+      "Sp_Defense": 40,
       "Speed": 65
     }
   },
@@ -906,14 +906,14 @@ export const POKEMONS_HOEEN = [
     "id": 310,
     "name": "ライボルト",
     "type": [
-      "Electric"
+      "でんき"
     ],
     "base": {
       "HP": 70,
       "Attack": 75,
       "Defense": 60,
-      "Sp. Attack": 105,
-      "Sp. Defense": 60,
+      "Sp_Attack": 105,
+      "Sp_Defense": 60,
       "Speed": 105
     }
   },
@@ -921,14 +921,14 @@ export const POKEMONS_HOEEN = [
     "id": 311,
     "name": "プラスル",
     "type": [
-      "Electric"
+      "でんき"
     ],
     "base": {
       "HP": 60,
       "Attack": 50,
       "Defense": 40,
-      "Sp. Attack": 85,
-      "Sp. Defense": 75,
+      "Sp_Attack": 85,
+      "Sp_Defense": 75,
       "Speed": 95
     }
   },
@@ -936,14 +936,14 @@ export const POKEMONS_HOEEN = [
     "id": 312,
     "name": "マイナン",
     "type": [
-      "Electric"
+      "でんき"
     ],
     "base": {
       "HP": 60,
       "Attack": 40,
       "Defense": 50,
-      "Sp. Attack": 75,
-      "Sp. Defense": 85,
+      "Sp_Attack": 75,
+      "Sp_Defense": 85,
       "Speed": 95
     }
   },
@@ -951,14 +951,14 @@ export const POKEMONS_HOEEN = [
     "id": 313,
     "name": "バルビート",
     "type": [
-      "Bug"
+      "むし"
     ],
     "base": {
       "HP": 65,
       "Attack": 73,
       "Defense": 75,
-      "Sp. Attack": 47,
-      "Sp. Defense": 85,
+      "Sp_Attack": 47,
+      "Sp_Defense": 85,
       "Speed": 85
     }
   },
@@ -966,14 +966,14 @@ export const POKEMONS_HOEEN = [
     "id": 314,
     "name": "イルミーゼ",
     "type": [
-      "Bug"
+      "むし"
     ],
     "base": {
       "HP": 65,
       "Attack": 47,
       "Defense": 75,
-      "Sp. Attack": 73,
-      "Sp. Defense": 85,
+      "Sp_Attack": 73,
+      "Sp_Defense": 85,
       "Speed": 85
     }
   },
@@ -981,15 +981,15 @@ export const POKEMONS_HOEEN = [
     "id": 315,
     "name": "ロゼリア",
     "type": [
-      "Grass",
-      "Poison"
+      "くさ",
+      "どく"
     ],
     "base": {
       "HP": 50,
       "Attack": 60,
       "Defense": 45,
-      "Sp. Attack": 100,
-      "Sp. Defense": 80,
+      "Sp_Attack": 100,
+      "Sp_Defense": 80,
       "Speed": 65
     }
   },
@@ -997,14 +997,14 @@ export const POKEMONS_HOEEN = [
     "id": 316,
     "name": "ゴクリン",
     "type": [
-      "Poison"
+      "どく"
     ],
     "base": {
       "HP": 70,
       "Attack": 43,
       "Defense": 53,
-      "Sp. Attack": 43,
-      "Sp. Defense": 53,
+      "Sp_Attack": 43,
+      "Sp_Defense": 53,
       "Speed": 40
     }
   },
@@ -1012,14 +1012,14 @@ export const POKEMONS_HOEEN = [
     "id": 317,
     "name": "マルノーム",
     "type": [
-      "Poison"
+      "どく"
     ],
     "base": {
       "HP": 100,
       "Attack": 73,
       "Defense": 83,
-      "Sp. Attack": 73,
-      "Sp. Defense": 83,
+      "Sp_Attack": 73,
+      "Sp_Defense": 83,
       "Speed": 55
     }
   },
@@ -1027,15 +1027,15 @@ export const POKEMONS_HOEEN = [
     "id": 318,
     "name": "キバニア",
     "type": [
-      "Water",
-      "Dark"
+      "みず",
+      "あく"
     ],
     "base": {
       "HP": 45,
       "Attack": 90,
       "Defense": 20,
-      "Sp. Attack": 65,
-      "Sp. Defense": 20,
+      "Sp_Attack": 65,
+      "Sp_Defense": 20,
       "Speed": 65
     }
   },
@@ -1043,15 +1043,15 @@ export const POKEMONS_HOEEN = [
     "id": 319,
     "name": "サメハダー",
     "type": [
-      "Water",
-      "Dark"
+      "みず",
+      "あく"
     ],
     "base": {
       "HP": 70,
       "Attack": 120,
       "Defense": 40,
-      "Sp. Attack": 95,
-      "Sp. Defense": 40,
+      "Sp_Attack": 95,
+      "Sp_Defense": 40,
       "Speed": 95
     }
   },
@@ -1059,14 +1059,14 @@ export const POKEMONS_HOEEN = [
     "id": 320,
     "name": "ホエルコ",
     "type": [
-      "Water"
+      "みず"
     ],
     "base": {
       "HP": 130,
       "Attack": 70,
       "Defense": 35,
-      "Sp. Attack": 70,
-      "Sp. Defense": 35,
+      "Sp_Attack": 70,
+      "Sp_Defense": 35,
       "Speed": 60
     }
   },
@@ -1074,14 +1074,14 @@ export const POKEMONS_HOEEN = [
     "id": 321,
     "name": "ホエルオー",
     "type": [
-      "Water"
+      "みず"
     ],
     "base": {
       "HP": 170,
       "Attack": 90,
       "Defense": 45,
-      "Sp. Attack": 90,
-      "Sp. Defense": 45,
+      "Sp_Attack": 90,
+      "Sp_Defense": 45,
       "Speed": 60
     }
   },
@@ -1089,15 +1089,15 @@ export const POKEMONS_HOEEN = [
     "id": 322,
     "name": "ドンメル",
     "type": [
-      "Fire",
-      "Ground"
+      "ほのお",
+      "じめん"
     ],
     "base": {
       "HP": 60,
       "Attack": 60,
       "Defense": 40,
-      "Sp. Attack": 65,
-      "Sp. Defense": 45,
+      "Sp_Attack": 65,
+      "Sp_Defense": 45,
       "Speed": 35
     }
   },
@@ -1105,15 +1105,15 @@ export const POKEMONS_HOEEN = [
     "id": 323,
     "name": "バクーダ",
     "type": [
-      "Fire",
-      "Ground"
+      "ほのお",
+      "じめん"
     ],
     "base": {
       "HP": 70,
       "Attack": 100,
       "Defense": 70,
-      "Sp. Attack": 105,
-      "Sp. Defense": 75,
+      "Sp_Attack": 105,
+      "Sp_Defense": 75,
       "Speed": 40
     }
   },
@@ -1121,14 +1121,14 @@ export const POKEMONS_HOEEN = [
     "id": 324,
     "name": "コータス",
     "type": [
-      "Fire"
+      "ほのお"
     ],
     "base": {
       "HP": 70,
       "Attack": 85,
       "Defense": 140,
-      "Sp. Attack": 85,
-      "Sp. Defense": 70,
+      "Sp_Attack": 85,
+      "Sp_Defense": 70,
       "Speed": 20
     }
   },
@@ -1136,14 +1136,14 @@ export const POKEMONS_HOEEN = [
     "id": 325,
     "name": "バネブー",
     "type": [
-      "Psychic"
+      "エスパー"
     ],
     "base": {
       "HP": 60,
       "Attack": 25,
       "Defense": 35,
-      "Sp. Attack": 70,
-      "Sp. Defense": 80,
+      "Sp_Attack": 70,
+      "Sp_Defense": 80,
       "Speed": 60
     }
   },
@@ -1151,14 +1151,14 @@ export const POKEMONS_HOEEN = [
     "id": 326,
     "name": "ブーピッグ",
     "type": [
-      "Psychic"
+      "エスパー"
     ],
     "base": {
       "HP": 80,
       "Attack": 45,
       "Defense": 65,
-      "Sp. Attack": 90,
-      "Sp. Defense": 110,
+      "Sp_Attack": 90,
+      "Sp_Defense": 110,
       "Speed": 80
     }
   },
@@ -1166,14 +1166,14 @@ export const POKEMONS_HOEEN = [
     "id": 327,
     "name": "パッチール",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "Sp_Attack": 60,
+      "Sp_Defense": 60,
       "Speed": 60
     }
   },
@@ -1181,14 +1181,14 @@ export const POKEMONS_HOEEN = [
     "id": 328,
     "name": "ナックラー",
     "type": [
-      "Ground"
+      "じめん"
     ],
     "base": {
       "HP": 45,
       "Attack": 100,
       "Defense": 45,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "Sp_Attack": 45,
+      "Sp_Defense": 45,
       "Speed": 10
     }
   },
@@ -1196,15 +1196,15 @@ export const POKEMONS_HOEEN = [
     "id": 329,
     "name": "ビブラーバ",
     "type": [
-      "Ground",
-      "Dragon"
+      "じめん",
+      "ドラゴン"
     ],
     "base": {
       "HP": 50,
       "Attack": 70,
       "Defense": 50,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "Sp_Attack": 50,
+      "Sp_Defense": 50,
       "Speed": 70
     }
   },
@@ -1212,15 +1212,15 @@ export const POKEMONS_HOEEN = [
     "id": 330,
     "name": "フライゴン",
     "type": [
-      "Ground",
-      "Dragon"
+      "じめん",
+      "ドラゴン"
     ],
     "base": {
       "HP": 80,
       "Attack": 100,
       "Defense": 80,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
+      "Sp_Attack": 80,
+      "Sp_Defense": 80,
       "Speed": 100
     }
   },
@@ -1228,14 +1228,14 @@ export const POKEMONS_HOEEN = [
     "id": 331,
     "name": "サボネア",
     "type": [
-      "Grass"
+      "くさ"
     ],
     "base": {
       "HP": 50,
       "Attack": 85,
       "Defense": 40,
-      "Sp. Attack": 85,
-      "Sp. Defense": 40,
+      "Sp_Attack": 85,
+      "Sp_Defense": 40,
       "Speed": 35
     }
   },
@@ -1243,15 +1243,15 @@ export const POKEMONS_HOEEN = [
     "id": 332,
     "name": "ノクタス",
     "type": [
-      "Grass",
-      "Dark"
+      "くさ",
+      "あく"
     ],
     "base": {
       "HP": 70,
       "Attack": 115,
       "Defense": 60,
-      "Sp. Attack": 115,
-      "Sp. Defense": 60,
+      "Sp_Attack": 115,
+      "Sp_Defense": 60,
       "Speed": 55
     }
   },
@@ -1259,15 +1259,15 @@ export const POKEMONS_HOEEN = [
     "id": 333,
     "name": "チルット",
     "type": [
-      "Normal",
-      "Flying"
+      "ノーマル",
+      "ひこう"
     ],
     "base": {
       "HP": 45,
       "Attack": 40,
       "Defense": 60,
-      "Sp. Attack": 40,
-      "Sp. Defense": 75,
+      "Sp_Attack": 40,
+      "Sp_Defense": 75,
       "Speed": 50
     }
   },
@@ -1275,15 +1275,15 @@ export const POKEMONS_HOEEN = [
     "id": 334,
     "name": "チルタリス",
     "type": [
-      "Dragon",
-      "Flying"
+      "ドラゴン",
+      "ひこう"
     ],
     "base": {
       "HP": 75,
       "Attack": 70,
       "Defense": 90,
-      "Sp. Attack": 70,
-      "Sp. Defense": 105,
+      "Sp_Attack": 70,
+      "Sp_Defense": 105,
       "Speed": 80
     }
   },
@@ -1291,14 +1291,14 @@ export const POKEMONS_HOEEN = [
     "id": 335,
     "name": "ザングース",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 73,
       "Attack": 115,
       "Defense": 60,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "Sp_Attack": 60,
+      "Sp_Defense": 60,
       "Speed": 90
     }
   },
@@ -1306,14 +1306,14 @@ export const POKEMONS_HOEEN = [
     "id": 336,
     "name": "ハブネーク",
     "type": [
-      "Poison"
+      "どく"
     ],
     "base": {
       "HP": 73,
       "Attack": 100,
       "Defense": 60,
-      "Sp. Attack": 100,
-      "Sp. Defense": 60,
+      "Sp_Attack": 100,
+      "Sp_Defense": 60,
       "Speed": 65
     }
   },
@@ -1321,15 +1321,15 @@ export const POKEMONS_HOEEN = [
     "id": 337,
     "name": "ルナトーン",
     "type": [
-      "Rock",
-      "Psychic"
+      "いわ",
+      "エスパー"
     ],
     "base": {
       "HP": 90,
       "Attack": 55,
       "Defense": 65,
-      "Sp. Attack": 95,
-      "Sp. Defense": 85,
+      "Sp_Attack": 95,
+      "Sp_Defense": 85,
       "Speed": 70
     }
   },
@@ -1337,15 +1337,15 @@ export const POKEMONS_HOEEN = [
     "id": 338,
     "name": "ソルロック",
     "type": [
-      "Rock",
-      "Psychic"
+      "いわ",
+      "エスパー"
     ],
     "base": {
       "HP": 90,
       "Attack": 95,
       "Defense": 85,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "Sp_Attack": 55,
+      "Sp_Defense": 65,
       "Speed": 70
     }
   },
@@ -1353,15 +1353,15 @@ export const POKEMONS_HOEEN = [
     "id": 339,
     "name": "ドジョッチ",
     "type": [
-      "Water",
-      "Ground"
+      "みず",
+      "じめん"
     ],
     "base": {
       "HP": 50,
       "Attack": 48,
       "Defense": 43,
-      "Sp. Attack": 46,
-      "Sp. Defense": 41,
+      "Sp_Attack": 46,
+      "Sp_Defense": 41,
       "Speed": 60
     }
   },
@@ -1369,15 +1369,15 @@ export const POKEMONS_HOEEN = [
     "id": 340,
     "name": "ナマズン",
     "type": [
-      "Water",
-      "Ground"
+      "みず",
+      "じめん"
     ],
     "base": {
       "HP": 110,
       "Attack": 78,
       "Defense": 73,
-      "Sp. Attack": 76,
-      "Sp. Defense": 71,
+      "Sp_Attack": 76,
+      "Sp_Defense": 71,
       "Speed": 60
     }
   },
@@ -1385,14 +1385,14 @@ export const POKEMONS_HOEEN = [
     "id": 341,
     "name": "ヘイガニ",
     "type": [
-      "Water"
+      "みず"
     ],
     "base": {
       "HP": 43,
       "Attack": 80,
       "Defense": 65,
-      "Sp. Attack": 50,
-      "Sp. Defense": 35,
+      "Sp_Attack": 50,
+      "Sp_Defense": 35,
       "Speed": 35
     }
   },
@@ -1400,15 +1400,15 @@ export const POKEMONS_HOEEN = [
     "id": 342,
     "name": "シザリガー",
     "type": [
-      "Water",
-      "Dark"
+      "みず",
+      "あく"
     ],
     "base": {
       "HP": 63,
       "Attack": 120,
       "Defense": 85,
-      "Sp. Attack": 90,
-      "Sp. Defense": 55,
+      "Sp_Attack": 90,
+      "Sp_Defense": 55,
       "Speed": 55
     }
   },
@@ -1416,15 +1416,15 @@ export const POKEMONS_HOEEN = [
     "id": 343,
     "name": "ヤジロン",
     "type": [
-      "Ground",
-      "Psychic"
+      "じめん",
+      "エスパー"
     ],
     "base": {
       "HP": 40,
       "Attack": 40,
       "Defense": 55,
-      "Sp. Attack": 40,
-      "Sp. Defense": 70,
+      "Sp_Attack": 40,
+      "Sp_Defense": 70,
       "Speed": 55
     }
   },
@@ -1432,15 +1432,15 @@ export const POKEMONS_HOEEN = [
     "id": 344,
     "name": "ネンドール",
     "type": [
-      "Ground",
-      "Psychic"
+      "じめん",
+      "エスパー"
     ],
     "base": {
       "HP": 60,
       "Attack": 70,
       "Defense": 105,
-      "Sp. Attack": 70,
-      "Sp. Defense": 120,
+      "Sp_Attack": 70,
+      "Sp_Defense": 120,
       "Speed": 75
     }
   },
@@ -1448,15 +1448,15 @@ export const POKEMONS_HOEEN = [
     "id": 345,
     "name": "リリーラ",
     "type": [
-      "Rock",
-      "Grass"
+      "いわ",
+      "くさ"
     ],
     "base": {
       "HP": 66,
       "Attack": 41,
       "Defense": 77,
-      "Sp. Attack": 61,
-      "Sp. Defense": 87,
+      "Sp_Attack": 61,
+      "Sp_Defense": 87,
       "Speed": 23
     }
   },
@@ -1464,15 +1464,15 @@ export const POKEMONS_HOEEN = [
     "id": 346,
     "name": "ユレイドル",
     "type": [
-      "Rock",
-      "Grass"
+      "いわ",
+      "くさ"
     ],
     "base": {
       "HP": 86,
       "Attack": 81,
       "Defense": 97,
-      "Sp. Attack": 81,
-      "Sp. Defense": 107,
+      "Sp_Attack": 81,
+      "Sp_Defense": 107,
       "Speed": 43
     }
   },
@@ -1480,15 +1480,15 @@ export const POKEMONS_HOEEN = [
     "id": 347,
     "name": "アノプス",
     "type": [
-      "Rock",
-      "Bug"
+      "いわ",
+      "むし"
     ],
     "base": {
       "HP": 45,
       "Attack": 95,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "Sp_Attack": 40,
+      "Sp_Defense": 50,
       "Speed": 75
     }
   },
@@ -1496,15 +1496,15 @@ export const POKEMONS_HOEEN = [
     "id": 348,
     "name": "アーマルド",
     "type": [
-      "Rock",
-      "Bug"
+      "いわ",
+      "むし"
     ],
     "base": {
       "HP": 75,
       "Attack": 125,
       "Defense": 100,
-      "Sp. Attack": 70,
-      "Sp. Defense": 80,
+      "Sp_Attack": 70,
+      "Sp_Defense": 80,
       "Speed": 45
     }
   },
@@ -1512,14 +1512,14 @@ export const POKEMONS_HOEEN = [
     "id": 349,
     "name": "ヒンバス",
     "type": [
-      "Water"
+      "みず"
     ],
     "base": {
       "HP": 20,
       "Attack": 15,
       "Defense": 20,
-      "Sp. Attack": 10,
-      "Sp. Defense": 55,
+      "Sp_Attack": 10,
+      "Sp_Defense": 55,
       "Speed": 80
     }
   },
@@ -1527,14 +1527,14 @@ export const POKEMONS_HOEEN = [
     "id": 350,
     "name": "ミロカロス",
     "type": [
-      "Water"
+      "みず"
     ],
     "base": {
       "HP": 95,
       "Attack": 60,
       "Defense": 79,
-      "Sp. Attack": 100,
-      "Sp. Defense": 125,
+      "Sp_Attack": 100,
+      "Sp_Defense": 125,
       "Speed": 81
     }
   },
@@ -1542,14 +1542,14 @@ export const POKEMONS_HOEEN = [
     "id": 351,
     "name": "ポワルン",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 70,
       "Attack": 70,
       "Defense": 70,
-      "Sp. Attack": 70,
-      "Sp. Defense": 70,
+      "Sp_Attack": 70,
+      "Sp_Defense": 70,
       "Speed": 70
     }
   },
@@ -1557,14 +1557,14 @@ export const POKEMONS_HOEEN = [
     "id": 352,
     "name": "カクレオン",
     "type": [
-      "Normal"
+      "ノーマル"
     ],
     "base": {
       "HP": 60,
       "Attack": 90,
       "Defense": 70,
-      "Sp. Attack": 60,
-      "Sp. Defense": 120,
+      "Sp_Attack": 60,
+      "Sp_Defense": 120,
       "Speed": 40
     }
   },
@@ -1572,14 +1572,14 @@ export const POKEMONS_HOEEN = [
     "id": 353,
     "name": "カゲボウズ",
     "type": [
-      "Ghost"
+      "ゴースト"
     ],
     "base": {
       "HP": 44,
       "Attack": 75,
       "Defense": 35,
-      "Sp. Attack": 63,
-      "Sp. Defense": 33,
+      "Sp_Attack": 63,
+      "Sp_Defense": 33,
       "Speed": 45
     }
   },
@@ -1587,14 +1587,14 @@ export const POKEMONS_HOEEN = [
     "id": 354,
     "name": "ジュペッタ",
     "type": [
-      "Ghost"
+      "ゴースト"
     ],
     "base": {
       "HP": 64,
       "Attack": 115,
       "Defense": 65,
-      "Sp. Attack": 83,
-      "Sp. Defense": 63,
+      "Sp_Attack": 83,
+      "Sp_Defense": 63,
       "Speed": 65
     }
   },
@@ -1602,14 +1602,14 @@ export const POKEMONS_HOEEN = [
     "id": 355,
     "name": "ヨマワル",
     "type": [
-      "Ghost"
+      "ゴースト"
     ],
     "base": {
       "HP": 20,
       "Attack": 40,
       "Defense": 90,
-      "Sp. Attack": 30,
-      "Sp. Defense": 90,
+      "Sp_Attack": 30,
+      "Sp_Defense": 90,
       "Speed": 25
     }
   },
@@ -1617,14 +1617,14 @@ export const POKEMONS_HOEEN = [
     "id": 356,
     "name": "サマヨール",
     "type": [
-      "Ghost"
+      "ゴースト"
     ],
     "base": {
       "HP": 40,
       "Attack": 70,
       "Defense": 130,
-      "Sp. Attack": 60,
-      "Sp. Defense": 130,
+      "Sp_Attack": 60,
+      "Sp_Defense": 130,
       "Speed": 25
     }
   },
@@ -1632,15 +1632,15 @@ export const POKEMONS_HOEEN = [
     "id": 357,
     "name": "トロピウス",
     "type": [
-      "Grass",
-      "Flying"
+      "くさ",
+      "ひこう"
     ],
     "base": {
       "HP": 99,
       "Attack": 68,
       "Defense": 83,
-      "Sp. Attack": 72,
-      "Sp. Defense": 87,
+      "Sp_Attack": 72,
+      "Sp_Defense": 87,
       "Speed": 51
     }
   },
@@ -1648,14 +1648,14 @@ export const POKEMONS_HOEEN = [
     "id": 358,
     "name": "チリーン",
     "type": [
-      "Psychic"
+      "エスパー"
     ],
     "base": {
       "HP": 75,
       "Attack": 50,
       "Defense": 80,
-      "Sp. Attack": 95,
-      "Sp. Defense": 90,
+      "Sp_Attack": 95,
+      "Sp_Defense": 90,
       "Speed": 65
     }
   },
@@ -1663,14 +1663,14 @@ export const POKEMONS_HOEEN = [
     "id": 359,
     "name": "アブソル",
     "type": [
-      "Dark"
+      "あく"
     ],
     "base": {
       "HP": 65,
       "Attack": 130,
       "Defense": 60,
-      "Sp. Attack": 75,
-      "Sp. Defense": 60,
+      "Sp_Attack": 75,
+      "Sp_Defense": 60,
       "Speed": 75
     }
   },
@@ -1678,14 +1678,14 @@ export const POKEMONS_HOEEN = [
     "id": 360,
     "name": "ソーナノ",
     "type": [
-      "Psychic"
+      "エスパー"
     ],
     "base": {
       "HP": 95,
       "Attack": 23,
       "Defense": 48,
-      "Sp. Attack": 23,
-      "Sp. Defense": 48,
+      "Sp_Attack": 23,
+      "Sp_Defense": 48,
       "Speed": 23
     }
   },
@@ -1693,14 +1693,14 @@ export const POKEMONS_HOEEN = [
     "id": 361,
     "name": "ユキワラシ",
     "type": [
-      "Ice"
+      "こおり"
     ],
     "base": {
       "HP": 50,
       "Attack": 50,
       "Defense": 50,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "Sp_Attack": 50,
+      "Sp_Defense": 50,
       "Speed": 50
     }
   },
@@ -1708,14 +1708,14 @@ export const POKEMONS_HOEEN = [
     "id": 362,
     "name": "オニゴーリ",
     "type": [
-      "Ice"
+      "こおり"
     ],
     "base": {
       "HP": 80,
       "Attack": 80,
       "Defense": 80,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
+      "Sp_Attack": 80,
+      "Sp_Defense": 80,
       "Speed": 80
     }
   },
@@ -1723,15 +1723,15 @@ export const POKEMONS_HOEEN = [
     "id": 363,
     "name": "タマザラシ",
     "type": [
-      "Ice",
-      "Water"
+      "こおり",
+      "みず"
     ],
     "base": {
       "HP": 70,
       "Attack": 40,
       "Defense": 50,
-      "Sp. Attack": 55,
-      "Sp. Defense": 50,
+      "Sp_Attack": 55,
+      "Sp_Defense": 50,
       "Speed": 25
     }
   },
@@ -1739,15 +1739,15 @@ export const POKEMONS_HOEEN = [
     "id": 364,
     "name": "トドグラー",
     "type": [
-      "Ice",
-      "Water"
+      "こおり",
+      "みず"
     ],
     "base": {
       "HP": 90,
       "Attack": 60,
       "Defense": 70,
-      "Sp. Attack": 75,
-      "Sp. Defense": 70,
+      "Sp_Attack": 75,
+      "Sp_Defense": 70,
       "Speed": 45
     }
   },
@@ -1755,15 +1755,15 @@ export const POKEMONS_HOEEN = [
     "id": 365,
     "name": "トドゼルガ",
     "type": [
-      "Ice",
-      "Water"
+      "こおり",
+      "みず"
     ],
     "base": {
       "HP": 110,
       "Attack": 80,
       "Defense": 90,
-      "Sp. Attack": 95,
-      "Sp. Defense": 90,
+      "Sp_Attack": 95,
+      "Sp_Defense": 90,
       "Speed": 65
     }
   },
@@ -1771,14 +1771,14 @@ export const POKEMONS_HOEEN = [
     "id": 366,
     "name": "パールル",
     "type": [
-      "Water"
+      "みず"
     ],
     "base": {
       "HP": 35,
       "Attack": 64,
       "Defense": 85,
-      "Sp. Attack": 74,
-      "Sp. Defense": 55,
+      "Sp_Attack": 74,
+      "Sp_Defense": 55,
       "Speed": 32
     }
   },
@@ -1786,14 +1786,14 @@ export const POKEMONS_HOEEN = [
     "id": 367,
     "name": "ハンテール",
     "type": [
-      "Water"
+      "みず"
     ],
     "base": {
       "HP": 55,
       "Attack": 104,
       "Defense": 105,
-      "Sp. Attack": 94,
-      "Sp. Defense": 75,
+      "Sp_Attack": 94,
+      "Sp_Defense": 75,
       "Speed": 52
     }
   },
@@ -1801,14 +1801,14 @@ export const POKEMONS_HOEEN = [
     "id": 368,
     "name": "サクラビス",
     "type": [
-      "Water"
+      "みず"
     ],
     "base": {
       "HP": 55,
       "Attack": 84,
       "Defense": 105,
-      "Sp. Attack": 114,
-      "Sp. Defense": 75,
+      "Sp_Attack": 114,
+      "Sp_Defense": 75,
       "Speed": 52
     }
   },
@@ -1816,15 +1816,15 @@ export const POKEMONS_HOEEN = [
     "id": 369,
     "name": "ジーランス",
     "type": [
-      "Water",
-      "Rock"
+      "みず",
+      "いわ"
     ],
     "base": {
       "HP": 100,
       "Attack": 90,
       "Defense": 130,
-      "Sp. Attack": 45,
-      "Sp. Defense": 65,
+      "Sp_Attack": 45,
+      "Sp_Defense": 65,
       "Speed": 55
     }
   },
@@ -1832,14 +1832,14 @@ export const POKEMONS_HOEEN = [
     "id": 370,
     "name": "ラブカス",
     "type": [
-      "Water"
+      "みず"
     ],
     "base": {
       "HP": 43,
       "Attack": 30,
       "Defense": 55,
-      "Sp. Attack": 40,
-      "Sp. Defense": 65,
+      "Sp_Attack": 40,
+      "Sp_Defense": 65,
       "Speed": 97
     }
   },
@@ -1847,14 +1847,14 @@ export const POKEMONS_HOEEN = [
     "id": 371,
     "name": "タツベイ",
     "type": [
-      "Dragon"
+      "ドラゴン"
     ],
     "base": {
       "HP": 45,
       "Attack": 75,
       "Defense": 60,
-      "Sp. Attack": 40,
-      "Sp. Defense": 30,
+      "Sp_Attack": 40,
+      "Sp_Defense": 30,
       "Speed": 50
     }
   },
@@ -1862,14 +1862,14 @@ export const POKEMONS_HOEEN = [
     "id": 372,
     "name": "コモルー",
     "type": [
-      "Dragon"
+      "ドラゴン"
     ],
     "base": {
       "HP": 65,
       "Attack": 95,
       "Defense": 100,
-      "Sp. Attack": 60,
-      "Sp. Defense": 50,
+      "Sp_Attack": 60,
+      "Sp_Defense": 50,
       "Speed": 50
     }
   },
@@ -1877,15 +1877,15 @@ export const POKEMONS_HOEEN = [
     "id": 373,
     "name": "ボーマンダ",
     "type": [
-      "Dragon",
-      "Flying"
+      "ドラゴン",
+      "ひこう"
     ],
     "base": {
       "HP": 95,
       "Attack": 135,
       "Defense": 80,
-      "Sp. Attack": 110,
-      "Sp. Defense": 80,
+      "Sp_Attack": 110,
+      "Sp_Defense": 80,
       "Speed": 100
     }
   },
@@ -1893,15 +1893,15 @@ export const POKEMONS_HOEEN = [
     "id": 374,
     "name": "ダンバル",
     "type": [
-      "Steel",
-      "Psychic"
+      "はがね",
+      "エスパー"
     ],
     "base": {
       "HP": 40,
       "Attack": 55,
       "Defense": 80,
-      "Sp. Attack": 35,
-      "Sp. Defense": 60,
+      "Sp_Attack": 35,
+      "Sp_Defense": 60,
       "Speed": 30
     }
   },
@@ -1909,15 +1909,15 @@ export const POKEMONS_HOEEN = [
     "id": 375,
     "name": "メタング",
     "type": [
-      "Steel",
-      "Psychic"
+      "はがね",
+      "エスパー"
     ],
     "base": {
       "HP": 60,
       "Attack": 75,
       "Defense": 100,
-      "Sp. Attack": 55,
-      "Sp. Defense": 80,
+      "Sp_Attack": 55,
+      "Sp_Defense": 80,
       "Speed": 50
     }
   },
@@ -1925,15 +1925,15 @@ export const POKEMONS_HOEEN = [
     "id": 376,
     "name": "メタグロス",
     "type": [
-      "Steel",
-      "Psychic"
+      "はがね",
+      "エスパー"
     ],
     "base": {
       "HP": 80,
       "Attack": 135,
       "Defense": 130,
-      "Sp. Attack": 95,
-      "Sp. Defense": 90,
+      "Sp_Attack": 95,
+      "Sp_Defense": 90,
       "Speed": 70
     }
   },
@@ -1941,14 +1941,14 @@ export const POKEMONS_HOEEN = [
     "id": 377,
     "name": "レジロック",
     "type": [
-      "Rock"
+      "いわ"
     ],
     "base": {
       "HP": 80,
       "Attack": 100,
       "Defense": 200,
-      "Sp. Attack": 50,
-      "Sp. Defense": 100,
+      "Sp_Attack": 50,
+      "Sp_Defense": 100,
       "Speed": 50
     }
   },
@@ -1956,14 +1956,14 @@ export const POKEMONS_HOEEN = [
     "id": 378,
     "name": "レジアイス",
     "type": [
-      "Ice"
+      "こおり"
     ],
     "base": {
       "HP": 80,
       "Attack": 50,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 200,
+      "Sp_Attack": 100,
+      "Sp_Defense": 200,
       "Speed": 50
     }
   },
@@ -1971,14 +1971,14 @@ export const POKEMONS_HOEEN = [
     "id": 379,
     "name": "レジスチル",
     "type": [
-      "Steel"
+      "はがね"
     ],
     "base": {
       "HP": 80,
       "Attack": 75,
       "Defense": 150,
-      "Sp. Attack": 75,
-      "Sp. Defense": 150,
+      "Sp_Attack": 75,
+      "Sp_Defense": 150,
       "Speed": 50
     }
   },
@@ -1986,15 +1986,15 @@ export const POKEMONS_HOEEN = [
     "id": 380,
     "name": "ラティアス",
     "type": [
-      "Dragon",
-      "Psychic"
+      "ドラゴン",
+      "エスパー"
     ],
     "base": {
       "HP": 80,
       "Attack": 80,
       "Defense": 90,
-      "Sp. Attack": 110,
-      "Sp. Defense": 130,
+      "Sp_Attack": 110,
+      "Sp_Defense": 130,
       "Speed": 110
     }
   },
@@ -2002,15 +2002,15 @@ export const POKEMONS_HOEEN = [
     "id": 381,
     "name": "ラティオス",
     "type": [
-      "Dragon",
-      "Psychic"
+      "ドラゴン",
+      "エスパー"
     ],
     "base": {
       "HP": 80,
       "Attack": 90,
       "Defense": 80,
-      "Sp. Attack": 130,
-      "Sp. Defense": 110,
+      "Sp_Attack": 130,
+      "Sp_Defense": 110,
       "Speed": 110
     }
   },
@@ -2018,14 +2018,14 @@ export const POKEMONS_HOEEN = [
     "id": 382,
     "name": "カイオーガ",
     "type": [
-      "Water"
+      "みず"
     ],
     "base": {
       "HP": 100,
       "Attack": 100,
       "Defense": 90,
-      "Sp. Attack": 150,
-      "Sp. Defense": 140,
+      "Sp_Attack": 150,
+      "Sp_Defense": 140,
       "Speed": 90
     }
   },
@@ -2033,14 +2033,14 @@ export const POKEMONS_HOEEN = [
     "id": 383,
     "name": "グラードン",
     "type": [
-      "Ground"
+      "じめん"
     ],
     "base": {
       "HP": 100,
       "Attack": 150,
       "Defense": 140,
-      "Sp. Attack": 100,
-      "Sp. Defense": 90,
+      "Sp_Attack": 100,
+      "Sp_Defense": 90,
       "Speed": 90
     }
   },
@@ -2048,15 +2048,15 @@ export const POKEMONS_HOEEN = [
     "id": 384,
     "name": "レックウザ",
     "type": [
-      "Dragon",
-      "Flying"
+      "ドラゴン",
+      "ひこう"
     ],
     "base": {
       "HP": 105,
       "Attack": 150,
       "Defense": 90,
-      "Sp. Attack": 150,
-      "Sp. Defense": 90,
+      "Sp_Attack": 150,
+      "Sp_Defense": 90,
       "Speed": 95
     }
   },
@@ -2064,15 +2064,15 @@ export const POKEMONS_HOEEN = [
     "id": 385,
     "name": "ジラーチ",
     "type": [
-      "Steel",
-      "Psychic"
+      "はがね",
+      "エスパー"
     ],
     "base": {
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "Sp_Attack": 100,
+      "Sp_Defense": 100,
       "Speed": 100
     }
   },
@@ -2080,14 +2080,14 @@ export const POKEMONS_HOEEN = [
     "id": 386,
     "name": "デオキシス",
     "type": [
-      "Psychic"
+      "エスパー"
     ],
     "base": {
       "HP": 50,
       "Attack": 150,
       "Defense": 50,
-      "Sp. Attack": 150,
-      "Sp. Defense": 50,
+      "Sp_Attack": 150,
+      "Sp_Defense": 50,
       "Speed": 150
     }
   }
