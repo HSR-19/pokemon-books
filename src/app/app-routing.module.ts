@@ -6,11 +6,6 @@ import { PokemonListJohtoComponent } from './pokemon-list-johto/pokemon-list-joh
 
 const routes: Routes = [
   {
-    path: '',
-    pathMatch: 'full',
-    component: PokemonListComponent
-  },
-  {
     path: 'kanto',
     pathMatch: 'full',
     component: PokemonListComponent

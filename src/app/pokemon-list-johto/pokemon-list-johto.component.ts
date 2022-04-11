@@ -8,7 +8,7 @@ import { POKEMONS_JOHTO } from '../models/pokemons-johto'; // pokemons-jhoto.ts�
 })
 export class PokemonListJohtoComponent implements OnInit {
 
-  pokemons = POKEMONS_JOHTO; // POKEMONS_KANTOをpokemonsに格納。pokemon-list-johto.component.htmlで使えるようにするため。
+  pokemons = POKEMONS_JOHTO; // POKEMONS_JOHTOをpokemonsに格納。pokemon-list-johto.component.htmlで使えるようにするため。
 
   constructor() { }
 
