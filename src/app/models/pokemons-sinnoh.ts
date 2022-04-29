@@ -10,8 +10,8 @@ export const POKEMONS_SINNOH = [
       "HP": 55,
       "Attack": 68,
       "Defense": 64,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "Sp_Attack": 45,
+      "Sp_Defense": 55,
       "Speed": 31
     }
   },
@@ -25,8 +25,8 @@ export const POKEMONS_SINNOH = [
       "HP": 75,
       "Attack": 89,
       "Defense": 85,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "Sp_Attack": 55,
+      "Sp_Defense": 65,
       "Speed": 36
     }
   },
@@ -41,8 +41,8 @@ export const POKEMONS_SINNOH = [
       "HP": 95,
       "Attack": 109,
       "Defense": 105,
-      "Sp. Attack": 75,
-      "Sp. Defense": 85,
+      "Sp_Attack": 75,
+      "Sp_Defense": 85,
       "Speed": 56
     }
   },
@@ -56,8 +56,8 @@ export const POKEMONS_SINNOH = [
       "HP": 44,
       "Attack": 58,
       "Defense": 44,
-      "Sp. Attack": 58,
-      "Sp. Defense": 44,
+      "Sp_Attack": 58,
+      "Sp_Defense": 44,
       "Speed": 61
     }
   },
@@ -72,8 +72,8 @@ export const POKEMONS_SINNOH = [
       "HP": 64,
       "Attack": 78,
       "Defense": 52,
-      "Sp. Attack": 78,
-      "Sp. Defense": 52,
+      "Sp_Attack": 78,
+      "Sp_Defense": 52,
       "Speed": 81
     }
   },
@@ -88,8 +88,8 @@ export const POKEMONS_SINNOH = [
       "HP": 76,
       "Attack": 104,
       "Defense": 71,
-      "Sp. Attack": 104,
-      "Sp. Defense": 71,
+      "Sp_Attack": 104,
+      "Sp_Defense": 71,
       "Speed": 108
     }
   },
@@ -103,8 +103,8 @@ export const POKEMONS_SINNOH = [
       "HP": 53,
       "Attack": 51,
       "Defense": 53,
-      "Sp. Attack": 61,
-      "Sp. Defense": 56,
+      "Sp_Attack": 61,
+      "Sp_Defense": 56,
       "Speed": 40
     }
   },
@@ -118,8 +118,8 @@ export const POKEMONS_SINNOH = [
       "HP": 64,
       "Attack": 66,
       "Defense": 68,
-      "Sp. Attack": 81,
-      "Sp. Defense": 76,
+      "Sp_Attack": 81,
+      "Sp_Defense": 76,
       "Speed": 50
     }
   },
@@ -134,8 +134,8 @@ export const POKEMONS_SINNOH = [
       "HP": 84,
       "Attack": 86,
       "Defense": 88,
-      "Sp. Attack": 111,
-      "Sp. Defense": 101,
+      "Sp_Attack": 111,
+      "Sp_Defense": 101,
       "Speed": 60
     }
   },
@@ -150,8 +150,8 @@ export const POKEMONS_SINNOH = [
       "HP": 40,
       "Attack": 55,
       "Defense": 30,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "Sp_Attack": 30,
+      "Sp_Defense": 30,
       "Speed": 60
     }
   },
@@ -166,8 +166,8 @@ export const POKEMONS_SINNOH = [
       "HP": 55,
       "Attack": 75,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "Sp_Attack": 40,
+      "Sp_Defense": 40,
       "Speed": 80
     }
   },
@@ -182,8 +182,8 @@ export const POKEMONS_SINNOH = [
       "HP": 85,
       "Attack": 120,
       "Defense": 70,
-      "Sp. Attack": 50,
-      "Sp. Defense": 60,
+      "Sp_Attack": 50,
+      "Sp_Defense": 60,
       "Speed": 100
     }
   },
@@ -197,8 +197,8 @@ export const POKEMONS_SINNOH = [
       "HP": 59,
       "Attack": 45,
       "Defense": 40,
-      "Sp. Attack": 35,
-      "Sp. Defense": 40,
+      "Sp_Attack": 35,
+      "Sp_Defense": 40,
       "Speed": 31
     }
   },
@@ -213,8 +213,8 @@ export const POKEMONS_SINNOH = [
       "HP": 79,
       "Attack": 85,
       "Defense": 60,
-      "Sp. Attack": 55,
-      "Sp. Defense": 60,
+      "Sp_Attack": 55,
+      "Sp_Defense": 60,
       "Speed": 71
     }
   },
@@ -228,8 +228,8 @@ export const POKEMONS_SINNOH = [
       "HP": 37,
       "Attack": 25,
       "Defense": 41,
-      "Sp. Attack": 25,
-      "Sp. Defense": 41,
+      "Sp_Attack": 25,
+      "Sp_Defense": 41,
       "Speed": 25
     }
   },
@@ -243,8 +243,8 @@ export const POKEMONS_SINNOH = [
       "HP": 77,
       "Attack": 85,
       "Defense": 51,
-      "Sp. Attack": 55,
-      "Sp. Defense": 51,
+      "Sp_Attack": 55,
+      "Sp_Defense": 51,
       "Speed": 65
     }
   },
@@ -258,8 +258,8 @@ export const POKEMONS_SINNOH = [
       "HP": 45,
       "Attack": 65,
       "Defense": 34,
-      "Sp. Attack": 40,
-      "Sp. Defense": 34,
+      "Sp_Attack": 40,
+      "Sp_Defense": 34,
       "Speed": 45
     }
   },
@@ -273,8 +273,8 @@ export const POKEMONS_SINNOH = [
       "HP": 60,
       "Attack": 85,
       "Defense": 49,
-      "Sp. Attack": 60,
-      "Sp. Defense": 49,
+      "Sp_Attack": 60,
+      "Sp_Defense": 49,
       "Speed": 60
     }
   },
@@ -288,8 +288,8 @@ export const POKEMONS_SINNOH = [
       "HP": 80,
       "Attack": 120,
       "Defense": 79,
-      "Sp. Attack": 95,
-      "Sp. Defense": 79,
+      "Sp_Attack": 95,
+      "Sp_Defense": 79,
       "Speed": 70
     }
   },
@@ -304,8 +304,8 @@ export const POKEMONS_SINNOH = [
       "HP": 40,
       "Attack": 30,
       "Defense": 35,
-      "Sp. Attack": 50,
-      "Sp. Defense": 70,
+      "Sp_Attack": 50,
+      "Sp_Defense": 70,
       "Speed": 55
     }
   },
@@ -320,8 +320,8 @@ export const POKEMONS_SINNOH = [
       "HP": 60,
       "Attack": 70,
       "Defense": 65,
-      "Sp. Attack": 125,
-      "Sp. Defense": 105,
+      "Sp_Attack": 125,
+      "Sp_Defense": 105,
       "Speed": 90
     }
   },
@@ -335,8 +335,8 @@ export const POKEMONS_SINNOH = [
       "HP": 67,
       "Attack": 125,
       "Defense": 40,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "Sp_Attack": 30,
+      "Sp_Defense": 30,
       "Speed": 58
     }
   },
@@ -350,8 +350,8 @@ export const POKEMONS_SINNOH = [
       "HP": 97,
       "Attack": 165,
       "Defense": 60,
-      "Sp. Attack": 65,
-      "Sp. Defense": 50,
+      "Sp_Attack": 65,
+      "Sp_Defense": 50,
       "Speed": 58
     }
   },
@@ -366,8 +366,8 @@ export const POKEMONS_SINNOH = [
       "HP": 30,
       "Attack": 42,
       "Defense": 118,
-      "Sp. Attack": 42,
-      "Sp. Defense": 88,
+      "Sp_Attack": 42,
+      "Sp_Defense": 88,
       "Speed": 30
     }
   },
@@ -382,8 +382,8 @@ export const POKEMONS_SINNOH = [
       "HP": 60,
       "Attack": 52,
       "Defense": 168,
-      "Sp. Attack": 47,
-      "Sp. Defense": 138,
+      "Sp_Attack": 47,
+      "Sp_Defense": 138,
       "Speed": 30
     }
   },
@@ -397,8 +397,8 @@ export const POKEMONS_SINNOH = [
       "HP": 40,
       "Attack": 29,
       "Defense": 45,
-      "Sp. Attack": 29,
-      "Sp. Defense": 45,
+      "Sp_Attack": 29,
+      "Sp_Defense": 45,
       "Speed": 36
     }
   },
@@ -413,8 +413,8 @@ export const POKEMONS_SINNOH = [
       "HP": 60,
       "Attack": 59,
       "Defense": 85,
-      "Sp. Attack": 79,
-      "Sp. Defense": 105,
+      "Sp_Attack": 79,
+      "Sp_Defense": 105,
       "Speed": 36
     }
   },
@@ -429,8 +429,8 @@ export const POKEMONS_SINNOH = [
       "HP": 70,
       "Attack": 94,
       "Defense": 50,
-      "Sp. Attack": 94,
-      "Sp. Defense": 50,
+      "Sp_Attack": 94,
+      "Sp_Defense": 50,
       "Speed": 66
     }
   },
@@ -445,8 +445,8 @@ export const POKEMONS_SINNOH = [
       "HP": 30,
       "Attack": 30,
       "Defense": 42,
-      "Sp. Attack": 30,
-      "Sp. Defense": 42,
+      "Sp_Attack": 30,
+      "Sp_Defense": 42,
       "Speed": 70
     }
   },
@@ -461,8 +461,8 @@ export const POKEMONS_SINNOH = [
       "HP": 70,
       "Attack": 80,
       "Defense": 102,
-      "Sp. Attack": 80,
-      "Sp. Defense": 102,
+      "Sp_Attack": 80,
+      "Sp_Defense": 102,
       "Speed": 40
     }
   },
@@ -476,8 +476,8 @@ export const POKEMONS_SINNOH = [
       "HP": 60,
       "Attack": 45,
       "Defense": 70,
-      "Sp. Attack": 45,
-      "Sp. Defense": 90,
+      "Sp_Attack": 45,
+      "Sp_Defense": 90,
       "Speed": 95
     }
   },
@@ -491,8 +491,8 @@ export const POKEMONS_SINNOH = [
       "HP": 55,
       "Attack": 65,
       "Defense": 35,
-      "Sp. Attack": 60,
-      "Sp. Defense": 30,
+      "Sp_Attack": 60,
+      "Sp_Defense": 30,
       "Speed": 85
     }
   },
@@ -506,8 +506,8 @@ export const POKEMONS_SINNOH = [
       "HP": 85,
       "Attack": 105,
       "Defense": 55,
-      "Sp. Attack": 85,
-      "Sp. Defense": 50,
+      "Sp_Attack": 85,
+      "Sp_Defense": 50,
       "Speed": 115
     }
   },
@@ -521,8 +521,8 @@ export const POKEMONS_SINNOH = [
       "HP": 45,
       "Attack": 35,
       "Defense": 45,
-      "Sp. Attack": 62,
-      "Sp. Defense": 53,
+      "Sp_Attack": 62,
+      "Sp_Defense": 53,
       "Speed": 35
     }
   },
@@ -536,8 +536,8 @@ export const POKEMONS_SINNOH = [
       "HP": 70,
       "Attack": 60,
       "Defense": 70,
-      "Sp. Attack": 87,
-      "Sp. Defense": 78,
+      "Sp_Attack": 87,
+      "Sp_Defense": 78,
       "Speed": 85
     }
   },
@@ -551,8 +551,8 @@ export const POKEMONS_SINNOH = [
       "HP": 76,
       "Attack": 48,
       "Defense": 48,
-      "Sp. Attack": 57,
-      "Sp. Defense": 62,
+      "Sp_Attack": 57,
+      "Sp_Defense": 62,
       "Speed": 34
     }
   },
@@ -567,8 +567,8 @@ export const POKEMONS_SINNOH = [
       "HP": 111,
       "Attack": 83,
       "Defense": 68,
-      "Sp. Attack": 92,
-      "Sp. Defense": 82,
+      "Sp_Attack": 92,
+      "Sp_Defense": 82,
       "Speed": 39
     }
   },
@@ -582,8 +582,8 @@ export const POKEMONS_SINNOH = [
       "HP": 75,
       "Attack": 100,
       "Defense": 66,
-      "Sp. Attack": 60,
-      "Sp. Defense": 66,
+      "Sp_Attack": 60,
+      "Sp_Defense": 66,
       "Speed": 115
     }
   },
@@ -598,8 +598,8 @@ export const POKEMONS_SINNOH = [
       "HP": 90,
       "Attack": 50,
       "Defense": 34,
-      "Sp. Attack": 60,
-      "Sp. Defense": 44,
+      "Sp_Attack": 60,
+      "Sp_Defense": 44,
       "Speed": 70
     }
   },
@@ -614,8 +614,8 @@ export const POKEMONS_SINNOH = [
       "HP": 150,
       "Attack": 80,
       "Defense": 44,
-      "Sp. Attack": 90,
-      "Sp. Defense": 54,
+      "Sp_Attack": 90,
+      "Sp_Defense": 54,
       "Speed": 80
     }
   },
@@ -629,8 +629,8 @@ export const POKEMONS_SINNOH = [
       "HP": 55,
       "Attack": 66,
       "Defense": 44,
-      "Sp. Attack": 44,
-      "Sp. Defense": 56,
+      "Sp_Attack": 44,
+      "Sp_Defense": 56,
       "Speed": 85
     }
   },
@@ -644,8 +644,8 @@ export const POKEMONS_SINNOH = [
       "HP": 65,
       "Attack": 76,
       "Defense": 84,
-      "Sp. Attack": 54,
-      "Sp. Defense": 96,
+      "Sp_Attack": 54,
+      "Sp_Defense": 96,
       "Speed": 105
     }
   },
@@ -659,8 +659,8 @@ export const POKEMONS_SINNOH = [
       "HP": 60,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 105,
-      "Sp. Defense": 105,
+      "Sp_Attack": 105,
+      "Sp_Defense": 105,
       "Speed": 105
     }
   },
@@ -675,8 +675,8 @@ export const POKEMONS_SINNOH = [
       "HP": 100,
       "Attack": 125,
       "Defense": 52,
-      "Sp. Attack": 105,
-      "Sp. Defense": 52,
+      "Sp_Attack": 105,
+      "Sp_Defense": 52,
       "Speed": 71
     }
   },
@@ -690,8 +690,8 @@ export const POKEMONS_SINNOH = [
       "HP": 49,
       "Attack": 55,
       "Defense": 42,
-      "Sp. Attack": 42,
-      "Sp. Defense": 37,
+      "Sp_Attack": 42,
+      "Sp_Defense": 37,
       "Speed": 85
     }
   },
@@ -705,8 +705,8 @@ export const POKEMONS_SINNOH = [
       "HP": 71,
       "Attack": 82,
       "Defense": 64,
-      "Sp. Attack": 64,
-      "Sp. Defense": 59,
+      "Sp_Attack": 64,
+      "Sp_Defense": 59,
       "Speed": 112
     }
   },
@@ -720,8 +720,8 @@ export const POKEMONS_SINNOH = [
       "HP": 45,
       "Attack": 30,
       "Defense": 50,
-      "Sp. Attack": 65,
-      "Sp. Defense": 50,
+      "Sp_Attack": 65,
+      "Sp_Defense": 50,
       "Speed": 45
     }
   },
@@ -736,8 +736,8 @@ export const POKEMONS_SINNOH = [
       "HP": 63,
       "Attack": 63,
       "Defense": 47,
-      "Sp. Attack": 41,
-      "Sp. Defense": 41,
+      "Sp_Attack": 41,
+      "Sp_Defense": 41,
       "Speed": 74
     }
   },
@@ -752,8 +752,8 @@ export const POKEMONS_SINNOH = [
       "HP": 103,
       "Attack": 93,
       "Defense": 67,
-      "Sp. Attack": 71,
-      "Sp. Defense": 61,
+      "Sp_Attack": 71,
+      "Sp_Defense": 61,
       "Speed": 84
     }
   },
@@ -768,8 +768,8 @@ export const POKEMONS_SINNOH = [
       "HP": 57,
       "Attack": 24,
       "Defense": 86,
-      "Sp. Attack": 24,
-      "Sp. Defense": 86,
+      "Sp_Attack": 24,
+      "Sp_Defense": 86,
       "Speed": 23
     }
   },
@@ -784,8 +784,8 @@ export const POKEMONS_SINNOH = [
       "HP": 67,
       "Attack": 89,
       "Defense": 116,
-      "Sp. Attack": 79,
-      "Sp. Defense": 116,
+      "Sp_Attack": 79,
+      "Sp_Defense": 116,
       "Speed": 33
     }
   },
@@ -799,8 +799,8 @@ export const POKEMONS_SINNOH = [
       "HP": 50,
       "Attack": 80,
       "Defense": 95,
-      "Sp. Attack": 10,
-      "Sp. Defense": 45,
+      "Sp_Attack": 10,
+      "Sp_Defense": 45,
       "Speed": 10
     }
   },
@@ -815,8 +815,8 @@ export const POKEMONS_SINNOH = [
       "HP": 20,
       "Attack": 25,
       "Defense": 45,
-      "Sp. Attack": 70,
-      "Sp. Defense": 90,
+      "Sp_Attack": 70,
+      "Sp_Defense": 90,
       "Speed": 60
     }
   },
@@ -830,8 +830,8 @@ export const POKEMONS_SINNOH = [
       "HP": 100,
       "Attack": 5,
       "Defense": 5,
-      "Sp. Attack": 15,
-      "Sp. Defense": 65,
+      "Sp_Attack": 15,
+      "Sp_Defense": 65,
       "Speed": 30
     }
   },
@@ -846,8 +846,8 @@ export const POKEMONS_SINNOH = [
       "HP": 76,
       "Attack": 65,
       "Defense": 45,
-      "Sp. Attack": 92,
-      "Sp. Defense": 42,
+      "Sp_Attack": 92,
+      "Sp_Defense": 42,
       "Speed": 91
     }
   },
@@ -862,8 +862,8 @@ export const POKEMONS_SINNOH = [
       "HP": 50,
       "Attack": 92,
       "Defense": 108,
-      "Sp. Attack": 92,
-      "Sp. Defense": 108,
+      "Sp_Attack": 92,
+      "Sp_Defense": 108,
       "Speed": 35
     }
   },
@@ -878,8 +878,8 @@ export const POKEMONS_SINNOH = [
       "HP": 58,
       "Attack": 70,
       "Defense": 45,
-      "Sp. Attack": 40,
-      "Sp. Defense": 45,
+      "Sp_Attack": 40,
+      "Sp_Defense": 45,
       "Speed": 42
     }
   },
@@ -894,8 +894,8 @@ export const POKEMONS_SINNOH = [
       "HP": 68,
       "Attack": 90,
       "Defense": 65,
-      "Sp. Attack": 50,
-      "Sp. Defense": 55,
+      "Sp_Attack": 50,
+      "Sp_Defense": 55,
       "Speed": 82
     }
   },
@@ -910,8 +910,8 @@ export const POKEMONS_SINNOH = [
       "HP": 108,
       "Attack": 130,
       "Defense": 95,
-      "Sp. Attack": 80,
-      "Sp. Defense": 85,
+      "Sp_Attack": 80,
+      "Sp_Defense": 85,
       "Speed": 102
     }
   },
@@ -925,8 +925,8 @@ export const POKEMONS_SINNOH = [
       "HP": 135,
       "Attack": 85,
       "Defense": 40,
-      "Sp. Attack": 40,
-      "Sp. Defense": 85,
+      "Sp_Attack": 40,
+      "Sp_Defense": 85,
       "Speed": 5
     }
   },
@@ -940,8 +940,8 @@ export const POKEMONS_SINNOH = [
       "HP": 40,
       "Attack": 70,
       "Defense": 40,
-      "Sp. Attack": 35,
-      "Sp. Defense": 40,
+      "Sp_Attack": 35,
+      "Sp_Defense": 40,
       "Speed": 60
     }
   },
@@ -956,8 +956,8 @@ export const POKEMONS_SINNOH = [
       "HP": 70,
       "Attack": 110,
       "Defense": 70,
-      "Sp. Attack": 115,
-      "Sp. Defense": 70,
+      "Sp_Attack": 115,
+      "Sp_Defense": 70,
       "Speed": 90
     }
   },
@@ -971,8 +971,8 @@ export const POKEMONS_SINNOH = [
       "HP": 68,
       "Attack": 72,
       "Defense": 78,
-      "Sp. Attack": 38,
-      "Sp. Defense": 42,
+      "Sp_Attack": 38,
+      "Sp_Defense": 42,
       "Speed": 32
     }
   },
@@ -986,8 +986,8 @@ export const POKEMONS_SINNOH = [
       "HP": 108,
       "Attack": 112,
       "Defense": 118,
-      "Sp. Attack": 68,
-      "Sp. Defense": 72,
+      "Sp_Attack": 68,
+      "Sp_Defense": 72,
       "Speed": 47
     }
   },
@@ -1002,8 +1002,8 @@ export const POKEMONS_SINNOH = [
       "HP": 40,
       "Attack": 50,
       "Defense": 90,
-      "Sp. Attack": 30,
-      "Sp. Defense": 55,
+      "Sp_Attack": 30,
+      "Sp_Defense": 55,
       "Speed": 65
     }
   },
@@ -1018,8 +1018,8 @@ export const POKEMONS_SINNOH = [
       "HP": 70,
       "Attack": 90,
       "Defense": 110,
-      "Sp. Attack": 60,
-      "Sp. Defense": 75,
+      "Sp_Attack": 60,
+      "Sp_Defense": 75,
       "Speed": 95
     }
   },
@@ -1034,8 +1034,8 @@ export const POKEMONS_SINNOH = [
       "HP": 48,
       "Attack": 61,
       "Defense": 40,
-      "Sp. Attack": 61,
-      "Sp. Defense": 40,
+      "Sp_Attack": 61,
+      "Sp_Defense": 40,
       "Speed": 50
     }
   },
@@ -1050,8 +1050,8 @@ export const POKEMONS_SINNOH = [
       "HP": 83,
       "Attack": 106,
       "Defense": 65,
-      "Sp. Attack": 86,
-      "Sp. Defense": 65,
+      "Sp_Attack": 86,
+      "Sp_Defense": 65,
       "Speed": 85
     }
   },
@@ -1065,8 +1065,8 @@ export const POKEMONS_SINNOH = [
       "HP": 74,
       "Attack": 100,
       "Defense": 72,
-      "Sp. Attack": 90,
-      "Sp. Defense": 72,
+      "Sp_Attack": 90,
+      "Sp_Defense": 72,
       "Speed": 46
     }
   },
@@ -1080,8 +1080,8 @@ export const POKEMONS_SINNOH = [
       "HP": 49,
       "Attack": 49,
       "Defense": 56,
-      "Sp. Attack": 49,
-      "Sp. Defense": 61,
+      "Sp_Attack": 49,
+      "Sp_Defense": 61,
       "Speed": 66
     }
   },
@@ -1095,8 +1095,8 @@ export const POKEMONS_SINNOH = [
       "HP": 69,
       "Attack": 69,
       "Defense": 76,
-      "Sp. Attack": 69,
-      "Sp. Defense": 86,
+      "Sp_Attack": 69,
+      "Sp_Defense": 86,
       "Speed": 91
     }
   },
@@ -1111,8 +1111,8 @@ export const POKEMONS_SINNOH = [
       "HP": 45,
       "Attack": 20,
       "Defense": 50,
-      "Sp. Attack": 60,
-      "Sp. Defense": 120,
+      "Sp_Attack": 60,
+      "Sp_Defense": 120,
       "Speed": 50
     }
   },
@@ -1127,8 +1127,8 @@ export const POKEMONS_SINNOH = [
       "HP": 60,
       "Attack": 62,
       "Defense": 50,
-      "Sp. Attack": 62,
-      "Sp. Defense": 60,
+      "Sp_Attack": 62,
+      "Sp_Defense": 60,
       "Speed": 40
     }
   },
@@ -1143,8 +1143,8 @@ export const POKEMONS_SINNOH = [
       "HP": 90,
       "Attack": 92,
       "Defense": 75,
-      "Sp. Attack": 92,
-      "Sp. Defense": 85,
+      "Sp_Attack": 92,
+      "Sp_Defense": 85,
       "Speed": 60
     }
   },
@@ -1159,8 +1159,8 @@ export const POKEMONS_SINNOH = [
       "HP": 70,
       "Attack": 120,
       "Defense": 65,
-      "Sp. Attack": 45,
-      "Sp. Defense": 85,
+      "Sp_Attack": 45,
+      "Sp_Defense": 85,
       "Speed": 125
     }
   },
@@ -1175,8 +1175,8 @@ export const POKEMONS_SINNOH = [
       "HP": 70,
       "Attack": 70,
       "Defense": 115,
-      "Sp. Attack": 130,
-      "Sp. Defense": 90,
+      "Sp_Attack": 130,
+      "Sp_Defense": 90,
       "Speed": 60
     }
   },
@@ -1190,8 +1190,8 @@ export const POKEMONS_SINNOH = [
       "HP": 110,
       "Attack": 85,
       "Defense": 95,
-      "Sp. Attack": 80,
-      "Sp. Defense": 95,
+      "Sp_Attack": 80,
+      "Sp_Defense": 95,
       "Speed": 50
     }
   },
@@ -1206,8 +1206,8 @@ export const POKEMONS_SINNOH = [
       "HP": 115,
       "Attack": 140,
       "Defense": 130,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "Sp_Attack": 55,
+      "Sp_Defense": 55,
       "Speed": 40
     }
   },
@@ -1221,8 +1221,8 @@ export const POKEMONS_SINNOH = [
       "HP": 100,
       "Attack": 100,
       "Defense": 125,
-      "Sp. Attack": 110,
-      "Sp. Defense": 50,
+      "Sp_Attack": 110,
+      "Sp_Defense": 50,
       "Speed": 50
     }
   },
@@ -1236,8 +1236,8 @@ export const POKEMONS_SINNOH = [
       "HP": 75,
       "Attack": 123,
       "Defense": 67,
-      "Sp. Attack": 95,
-      "Sp. Defense": 85,
+      "Sp_Attack": 95,
+      "Sp_Defense": 85,
       "Speed": 95
     }
   },
@@ -1251,8 +1251,8 @@ export const POKEMONS_SINNOH = [
       "HP": 75,
       "Attack": 95,
       "Defense": 67,
-      "Sp. Attack": 125,
-      "Sp. Defense": 95,
+      "Sp_Attack": 125,
+      "Sp_Defense": 95,
       "Speed": 83
     }
   },
@@ -1267,8 +1267,8 @@ export const POKEMONS_SINNOH = [
       "HP": 85,
       "Attack": 50,
       "Defense": 95,
-      "Sp. Attack": 120,
-      "Sp. Defense": 115,
+      "Sp_Attack": 120,
+      "Sp_Defense": 115,
       "Speed": 80
     }
   },
@@ -1283,8 +1283,8 @@ export const POKEMONS_SINNOH = [
       "HP": 86,
       "Attack": 76,
       "Defense": 86,
-      "Sp. Attack": 116,
-      "Sp. Defense": 56,
+      "Sp_Attack": 116,
+      "Sp_Defense": 56,
       "Speed": 95
     }
   },
@@ -1298,8 +1298,8 @@ export const POKEMONS_SINNOH = [
       "HP": 65,
       "Attack": 110,
       "Defense": 130,
-      "Sp. Attack": 60,
-      "Sp. Defense": 65,
+      "Sp_Attack": 60,
+      "Sp_Defense": 65,
       "Speed": 95
     }
   },
@@ -1313,8 +1313,8 @@ export const POKEMONS_SINNOH = [
       "HP": 65,
       "Attack": 60,
       "Defense": 110,
-      "Sp. Attack": 130,
-      "Sp. Defense": 95,
+      "Sp_Attack": 130,
+      "Sp_Defense": 95,
       "Speed": 65
     }
   },
@@ -1329,8 +1329,8 @@ export const POKEMONS_SINNOH = [
       "HP": 75,
       "Attack": 95,
       "Defense": 125,
-      "Sp. Attack": 45,
-      "Sp. Defense": 75,
+      "Sp_Attack": 45,
+      "Sp_Defense": 75,
       "Speed": 95
     }
   },
@@ -1345,8 +1345,8 @@ export const POKEMONS_SINNOH = [
       "HP": 110,
       "Attack": 130,
       "Defense": 80,
-      "Sp. Attack": 70,
-      "Sp. Defense": 60,
+      "Sp_Attack": 70,
+      "Sp_Defense": 60,
       "Speed": 80
     }
   },
@@ -1360,8 +1360,8 @@ export const POKEMONS_SINNOH = [
       "HP": 85,
       "Attack": 80,
       "Defense": 70,
-      "Sp. Attack": 135,
-      "Sp. Defense": 75,
+      "Sp_Attack": 135,
+      "Sp_Defense": 75,
       "Speed": 90
     }
   },
@@ -1376,8 +1376,8 @@ export const POKEMONS_SINNOH = [
       "HP": 68,
       "Attack": 125,
       "Defense": 65,
-      "Sp. Attack": 65,
-      "Sp. Defense": 115,
+      "Sp_Attack": 65,
+      "Sp_Defense": 115,
       "Speed": 80
     }
   },
@@ -1392,8 +1392,8 @@ export const POKEMONS_SINNOH = [
       "HP": 60,
       "Attack": 55,
       "Defense": 145,
-      "Sp. Attack": 75,
-      "Sp. Defense": 150,
+      "Sp_Attack": 75,
+      "Sp_Defense": 150,
       "Speed": 40
     }
   },
@@ -1407,8 +1407,8 @@ export const POKEMONS_SINNOH = [
       "HP": 45,
       "Attack": 100,
       "Defense": 135,
-      "Sp. Attack": 65,
-      "Sp. Defense": 135,
+      "Sp_Attack": 65,
+      "Sp_Defense": 135,
       "Speed": 45
     }
   },
@@ -1423,8 +1423,8 @@ export const POKEMONS_SINNOH = [
       "HP": 70,
       "Attack": 80,
       "Defense": 70,
-      "Sp. Attack": 80,
-      "Sp. Defense": 70,
+      "Sp_Attack": 80,
+      "Sp_Defense": 70,
       "Speed": 110
     }
   },
@@ -1439,8 +1439,8 @@ export const POKEMONS_SINNOH = [
       "HP": 50,
       "Attack": 50,
       "Defense": 77,
-      "Sp. Attack": 95,
-      "Sp. Defense": 77,
+      "Sp_Attack": 95,
+      "Sp_Defense": 77,
       "Speed": 91
     }
   },
@@ -1454,8 +1454,8 @@ export const POKEMONS_SINNOH = [
       "HP": 75,
       "Attack": 75,
       "Defense": 130,
-      "Sp. Attack": 75,
-      "Sp. Defense": 130,
+      "Sp_Attack": 75,
+      "Sp_Defense": 130,
       "Speed": 95
     }
   },
@@ -1469,8 +1469,8 @@ export const POKEMONS_SINNOH = [
       "HP": 80,
       "Attack": 105,
       "Defense": 105,
-      "Sp. Attack": 105,
-      "Sp. Defense": 105,
+      "Sp_Attack": 105,
+      "Sp_Defense": 105,
       "Speed": 80
     }
   },
@@ -1484,8 +1484,8 @@ export const POKEMONS_SINNOH = [
       "HP": 75,
       "Attack": 125,
       "Defense": 70,
-      "Sp. Attack": 125,
-      "Sp. Defense": 70,
+      "Sp_Attack": 125,
+      "Sp_Defense": 70,
       "Speed": 115
     }
   },
@@ -1500,8 +1500,8 @@ export const POKEMONS_SINNOH = [
       "HP": 100,
       "Attack": 120,
       "Defense": 120,
-      "Sp. Attack": 150,
-      "Sp. Defense": 100,
+      "Sp_Attack": 150,
+      "Sp_Defense": 100,
       "Speed": 90
     }
   },
@@ -1516,8 +1516,8 @@ export const POKEMONS_SINNOH = [
       "HP": 90,
       "Attack": 120,
       "Defense": 100,
-      "Sp. Attack": 150,
-      "Sp. Defense": 120,
+      "Sp_Attack": 150,
+      "Sp_Defense": 120,
       "Speed": 100
     }
   },
@@ -1532,8 +1532,8 @@ export const POKEMONS_SINNOH = [
       "HP": 91,
       "Attack": 90,
       "Defense": 106,
-      "Sp. Attack": 130,
-      "Sp. Defense": 106,
+      "Sp_Attack": 130,
+      "Sp_Defense": 106,
       "Speed": 77
     }
   },
@@ -1547,8 +1547,8 @@ export const POKEMONS_SINNOH = [
       "HP": 110,
       "Attack": 160,
       "Defense": 110,
-      "Sp. Attack": 80,
-      "Sp. Defense": 110,
+      "Sp_Attack": 80,
+      "Sp_Defense": 110,
       "Speed": 100
     }
   },
@@ -1563,8 +1563,8 @@ export const POKEMONS_SINNOH = [
       "HP": 150,
       "Attack": 100,
       "Defense": 120,
-      "Sp. Attack": 100,
-      "Sp. Defense": 120,
+      "Sp_Attack": 100,
+      "Sp_Defense": 120,
       "Speed": 90
     }
   },
@@ -1578,8 +1578,8 @@ export const POKEMONS_SINNOH = [
       "HP": 120,
       "Attack": 70,
       "Defense": 120,
-      "Sp. Attack": 75,
-      "Sp. Defense": 130,
+      "Sp_Attack": 75,
+      "Sp_Defense": 130,
       "Speed": 85
     }
   },
@@ -1593,8 +1593,8 @@ export const POKEMONS_SINNOH = [
       "HP": 80,
       "Attack": 80,
       "Defense": 80,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
+      "Sp_Attack": 80,
+      "Sp_Defense": 80,
       "Speed": 80
     }
   },
@@ -1608,8 +1608,8 @@ export const POKEMONS_SINNOH = [
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "Sp_Attack": 100,
+      "Sp_Defense": 100,
       "Speed": 100
     }
   },
@@ -1623,8 +1623,8 @@ export const POKEMONS_SINNOH = [
       "HP": 70,
       "Attack": 90,
       "Defense": 90,
-      "Sp. Attack": 135,
-      "Sp. Defense": 90,
+      "Sp_Attack": 135,
+      "Sp_Defense": 90,
       "Speed": 125
     }
   },
@@ -1638,8 +1638,8 @@ export const POKEMONS_SINNOH = [
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "Sp_Attack": 100,
+      "Sp_Defense": 100,
       "Speed": 100
     }
   },
@@ -1653,8 +1653,8 @@ export const POKEMONS_SINNOH = [
       "HP": 120,
       "Attack": 120,
       "Defense": 120,
-      "Sp. Attack": 120,
-      "Sp. Defense": 120,
+      "Sp_Attack": 120,
+      "Sp_Defense": 120,
       "Speed": 120
     }
   },
@@ -1669,8 +1669,8 @@ export const POKEMONS_SINNOH = [
       "HP": 100,
       "Attack": 100,
       "Defense": 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "Sp_Attack": 100,
+      "Sp_Defense": 100,
       "Speed": 100
     }
   }

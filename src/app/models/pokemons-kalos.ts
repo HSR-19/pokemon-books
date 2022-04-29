@@ -10,8 +10,8 @@ export const POKEMONS_KALOS = [
       "HP": 56,
       "Attack": 61,
       "Defense": 65,
-      "Sp. Attack": 48,
-      "Sp. Defense": 45,
+      "Sp_Attack": 48,
+      "Sp_Defense": 45,
       "Speed": 38
     }
   },
@@ -25,8 +25,8 @@ export const POKEMONS_KALOS = [
       "HP": 61,
       "Attack": 78,
       "Defense": 95,
-      "Sp. Attack": 56,
-      "Sp. Defense": 58,
+      "Sp_Attack": 56,
+      "Sp_Defense": 58,
       "Speed": 57
     }
   },
@@ -41,8 +41,8 @@ export const POKEMONS_KALOS = [
       "HP": 88,
       "Attack": 107,
       "Defense": 122,
-      "Sp. Attack": 74,
-      "Sp. Defense": 75,
+      "Sp_Attack": 74,
+      "Sp_Defense": 75,
       "Speed": 64
     }
   },
@@ -56,8 +56,8 @@ export const POKEMONS_KALOS = [
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
-      "Sp. Attack": 62,
-      "Sp. Defense": 60,
+      "Sp_Attack": 62,
+      "Sp_Defense": 60,
       "Speed": 60
     }
   },
@@ -71,8 +71,8 @@ export const POKEMONS_KALOS = [
       "HP": 59,
       "Attack": 59,
       "Defense": 58,
-      "Sp. Attack": 90,
-      "Sp. Defense": 70,
+      "Sp_Attack": 90,
+      "Sp_Defense": 70,
       "Speed": 73
     }
   },
@@ -87,8 +87,8 @@ export const POKEMONS_KALOS = [
       "HP": 75,
       "Attack": 69,
       "Defense": 72,
-      "Sp. Attack": 114,
-      "Sp. Defense": 100,
+      "Sp_Attack": 114,
+      "Sp_Defense": 100,
       "Speed": 104
     }
   },
@@ -102,8 +102,8 @@ export const POKEMONS_KALOS = [
       "HP": 41,
       "Attack": 56,
       "Defense": 40,
-      "Sp. Attack": 62,
-      "Sp. Defense": 44,
+      "Sp_Attack": 62,
+      "Sp_Defense": 44,
       "Speed": 71
     }
   },
@@ -117,8 +117,8 @@ export const POKEMONS_KALOS = [
       "HP": 54,
       "Attack": 63,
       "Defense": 52,
-      "Sp. Attack": 83,
-      "Sp. Defense": 56,
+      "Sp_Attack": 83,
+      "Sp_Defense": 56,
       "Speed": 97
     }
   },
@@ -133,8 +133,8 @@ export const POKEMONS_KALOS = [
       "HP": 72,
       "Attack": 95,
       "Defense": 67,
-      "Sp. Attack": 103,
-      "Sp. Defense": 71,
+      "Sp_Attack": 103,
+      "Sp_Defense": 71,
       "Speed": 122
     }
   },
@@ -148,8 +148,8 @@ export const POKEMONS_KALOS = [
       "HP": 38,
       "Attack": 36,
       "Defense": 38,
-      "Sp. Attack": 32,
-      "Sp. Defense": 36,
+      "Sp_Attack": 32,
+      "Sp_Defense": 36,
       "Speed": 57
     }
   },
@@ -164,8 +164,8 @@ export const POKEMONS_KALOS = [
       "HP": 85,
       "Attack": 56,
       "Defense": 77,
-      "Sp. Attack": 50,
-      "Sp. Defense": 77,
+      "Sp_Attack": 50,
+      "Sp_Defense": 77,
       "Speed": 78
     }
   },
@@ -180,8 +180,8 @@ export const POKEMONS_KALOS = [
       "HP": 45,
       "Attack": 50,
       "Defense": 43,
-      "Sp. Attack": 40,
-      "Sp. Defense": 38,
+      "Sp_Attack": 40,
+      "Sp_Defense": 38,
       "Speed": 62
     }
   },
@@ -196,8 +196,8 @@ export const POKEMONS_KALOS = [
       "HP": 62,
       "Attack": 73,
       "Defense": 55,
-      "Sp. Attack": 56,
-      "Sp. Defense": 52,
+      "Sp_Attack": 56,
+      "Sp_Defense": 52,
       "Speed": 84
     }
   },
@@ -212,8 +212,8 @@ export const POKEMONS_KALOS = [
       "HP": 78,
       "Attack": 81,
       "Defense": 71,
-      "Sp. Attack": 74,
-      "Sp. Defense": 69,
+      "Sp_Attack": 74,
+      "Sp_Defense": 69,
       "Speed": 126
     }
   },
@@ -227,8 +227,8 @@ export const POKEMONS_KALOS = [
       "HP": 38,
       "Attack": 35,
       "Defense": 40,
-      "Sp. Attack": 27,
-      "Sp. Defense": 25,
+      "Sp_Attack": 27,
+      "Sp_Defense": 25,
       "Speed": 35
     }
   },
@@ -242,8 +242,8 @@ export const POKEMONS_KALOS = [
       "HP": 45,
       "Attack": 22,
       "Defense": 60,
-      "Sp. Attack": 27,
-      "Sp. Defense": 30,
+      "Sp_Attack": 27,
+      "Sp_Defense": 30,
       "Speed": 29
     }
   },
@@ -258,8 +258,8 @@ export const POKEMONS_KALOS = [
       "HP": 80,
       "Attack": 52,
       "Defense": 50,
-      "Sp. Attack": 90,
-      "Sp. Defense": 50,
+      "Sp_Attack": 90,
+      "Sp_Defense": 50,
       "Speed": 89
     }
   },
@@ -274,8 +274,8 @@ export const POKEMONS_KALOS = [
       "HP": 62,
       "Attack": 50,
       "Defense": 58,
-      "Sp. Attack": 73,
-      "Sp. Defense": 54,
+      "Sp_Attack": 73,
+      "Sp_Defense": 54,
       "Speed": 72
     }
   },
@@ -290,8 +290,8 @@ export const POKEMONS_KALOS = [
       "HP": 86,
       "Attack": 68,
       "Defense": 72,
-      "Sp. Attack": 109,
-      "Sp. Defense": 66,
+      "Sp_Attack": 109,
+      "Sp_Defense": 66,
       "Speed": 106
     }
   },
@@ -305,8 +305,8 @@ export const POKEMONS_KALOS = [
       "HP": 44,
       "Attack": 38,
       "Defense": 39,
-      "Sp. Attack": 61,
-      "Sp. Defense": 79,
+      "Sp_Attack": 61,
+      "Sp_Defense": 79,
       "Speed": 42
     }
   },
@@ -320,8 +320,8 @@ export const POKEMONS_KALOS = [
       "HP": 54,
       "Attack": 45,
       "Defense": 47,
-      "Sp. Attack": 75,
-      "Sp. Defense": 98,
+      "Sp_Attack": 75,
+      "Sp_Defense": 98,
       "Speed": 52
     }
   },
@@ -335,8 +335,8 @@ export const POKEMONS_KALOS = [
       "HP": 78,
       "Attack": 65,
       "Defense": 68,
-      "Sp. Attack": 112,
-      "Sp. Defense": 154,
+      "Sp_Attack": 112,
+      "Sp_Defense": 154,
       "Speed": 75
     }
   },
@@ -350,8 +350,8 @@ export const POKEMONS_KALOS = [
       "HP": 66,
       "Attack": 65,
       "Defense": 48,
-      "Sp. Attack": 62,
-      "Sp. Defense": 57,
+      "Sp_Attack": 62,
+      "Sp_Defense": 57,
       "Speed": 52
     }
   },
@@ -365,8 +365,8 @@ export const POKEMONS_KALOS = [
       "HP": 123,
       "Attack": 100,
       "Defense": 62,
-      "Sp. Attack": 97,
-      "Sp. Defense": 81,
+      "Sp_Attack": 97,
+      "Sp_Defense": 81,
       "Speed": 68
     }
   },
@@ -380,8 +380,8 @@ export const POKEMONS_KALOS = [
       "HP": 67,
       "Attack": 82,
       "Defense": 62,
-      "Sp. Attack": 46,
-      "Sp. Defense": 48,
+      "Sp_Attack": 46,
+      "Sp_Defense": 48,
       "Speed": 43
     }
   },
@@ -396,8 +396,8 @@ export const POKEMONS_KALOS = [
       "HP": 95,
       "Attack": 124,
       "Defense": 78,
-      "Sp. Attack": 69,
-      "Sp. Defense": 71,
+      "Sp_Attack": 69,
+      "Sp_Defense": 71,
       "Speed": 58
     }
   },
@@ -411,8 +411,8 @@ export const POKEMONS_KALOS = [
       "HP": 75,
       "Attack": 80,
       "Defense": 60,
-      "Sp. Attack": 65,
-      "Sp. Defense": 90,
+      "Sp_Attack": 65,
+      "Sp_Defense": 90,
       "Speed": 102
     }
   },
@@ -426,8 +426,8 @@ export const POKEMONS_KALOS = [
       "HP": 62,
       "Attack": 48,
       "Defense": 54,
-      "Sp. Attack": 63,
-      "Sp. Defense": 60,
+      "Sp_Attack": 63,
+      "Sp_Defense": 60,
       "Speed": 68
     }
   },
@@ -441,8 +441,8 @@ export const POKEMONS_KALOS = [
       "HP": 74,
       "Attack": 48,
       "Defense": 76,
-      "Sp. Attack": 83,
-      "Sp. Defense": 81,
+      "Sp_Attack": 83,
+      "Sp_Defense": 81,
       "Speed": 104
     }
   },
@@ -457,8 +457,8 @@ export const POKEMONS_KALOS = [
       "HP": 45,
       "Attack": 80,
       "Defense": 100,
-      "Sp. Attack": 35,
-      "Sp. Defense": 37,
+      "Sp_Attack": 35,
+      "Sp_Defense": 37,
       "Speed": 28
     }
   },
@@ -473,8 +473,8 @@ export const POKEMONS_KALOS = [
       "HP": 59,
       "Attack": 110,
       "Defense": 150,
-      "Sp. Attack": 45,
-      "Sp. Defense": 49,
+      "Sp_Attack": 45,
+      "Sp_Defense": 49,
       "Speed": 35
     }
   },
@@ -489,8 +489,8 @@ export const POKEMONS_KALOS = [
       "HP": 60,
       "Attack": 50,
       "Defense": 150,
-      "Sp. Attack": 50,
-      "Sp. Defense": 150,
+      "Sp_Attack": 50,
+      "Sp_Defense": 150,
       "Speed": 60
     }
   },
@@ -504,8 +504,8 @@ export const POKEMONS_KALOS = [
       "HP": 78,
       "Attack": 52,
       "Defense": 60,
-      "Sp. Attack": 63,
-      "Sp. Defense": 65,
+      "Sp_Attack": 63,
+      "Sp_Defense": 65,
       "Speed": 23
     }
   },
@@ -519,8 +519,8 @@ export const POKEMONS_KALOS = [
       "HP": 101,
       "Attack": 72,
       "Defense": 72,
-      "Sp. Attack": 99,
-      "Sp. Defense": 89,
+      "Sp_Attack": 99,
+      "Sp_Defense": 89,
       "Speed": 29
     }
   },
@@ -534,8 +534,8 @@ export const POKEMONS_KALOS = [
       "HP": 62,
       "Attack": 48,
       "Defense": 66,
-      "Sp. Attack": 59,
-      "Sp. Defense": 57,
+      "Sp_Attack": 59,
+      "Sp_Defense": 57,
       "Speed": 49
     }
   },
@@ -549,8 +549,8 @@ export const POKEMONS_KALOS = [
       "HP": 82,
       "Attack": 80,
       "Defense": 86,
-      "Sp. Attack": 85,
-      "Sp. Defense": 75,
+      "Sp_Attack": 85,
+      "Sp_Defense": 75,
       "Speed": 72
     }
   },
@@ -565,8 +565,8 @@ export const POKEMONS_KALOS = [
       "HP": 53,
       "Attack": 54,
       "Defense": 53,
-      "Sp. Attack": 37,
-      "Sp. Defense": 46,
+      "Sp_Attack": 37,
+      "Sp_Defense": 46,
       "Speed": 45
     }
   },
@@ -581,8 +581,8 @@ export const POKEMONS_KALOS = [
       "HP": 86,
       "Attack": 92,
       "Defense": 88,
-      "Sp. Attack": 68,
-      "Sp. Defense": 75,
+      "Sp_Attack": 68,
+      "Sp_Defense": 75,
       "Speed": 73
     }
   },
@@ -597,8 +597,8 @@ export const POKEMONS_KALOS = [
       "HP": 42,
       "Attack": 52,
       "Defense": 67,
-      "Sp. Attack": 39,
-      "Sp. Defense": 56,
+      "Sp_Attack": 39,
+      "Sp_Defense": 56,
       "Speed": 50
     }
   },
@@ -613,8 +613,8 @@ export const POKEMONS_KALOS = [
       "HP": 72,
       "Attack": 105,
       "Defense": 115,
-      "Sp. Attack": 54,
-      "Sp. Defense": 86,
+      "Sp_Attack": 54,
+      "Sp_Defense": 86,
       "Speed": 68
     }
   },
@@ -629,8 +629,8 @@ export const POKEMONS_KALOS = [
       "HP": 50,
       "Attack": 60,
       "Defense": 60,
-      "Sp. Attack": 60,
-      "Sp. Defense": 60,
+      "Sp_Attack": 60,
+      "Sp_Defense": 60,
       "Speed": 30
     }
   },
@@ -645,8 +645,8 @@ export const POKEMONS_KALOS = [
       "HP": 65,
       "Attack": 75,
       "Defense": 90,
-      "Sp. Attack": 97,
-      "Sp. Defense": 123,
+      "Sp_Attack": 97,
+      "Sp_Defense": 123,
       "Speed": 44
     }
   },
@@ -660,8 +660,8 @@ export const POKEMONS_KALOS = [
       "HP": 50,
       "Attack": 53,
       "Defense": 62,
-      "Sp. Attack": 58,
-      "Sp. Defense": 63,
+      "Sp_Attack": 58,
+      "Sp_Defense": 63,
       "Speed": 44
     }
   },
@@ -675,8 +675,8 @@ export const POKEMONS_KALOS = [
       "HP": 71,
       "Attack": 73,
       "Defense": 88,
-      "Sp. Attack": 120,
-      "Sp. Defense": 89,
+      "Sp_Attack": 120,
+      "Sp_Defense": 89,
       "Speed": 59
     }
   },
@@ -691,8 +691,8 @@ export const POKEMONS_KALOS = [
       "HP": 44,
       "Attack": 38,
       "Defense": 33,
-      "Sp. Attack": 61,
-      "Sp. Defense": 43,
+      "Sp_Attack": 61,
+      "Sp_Defense": 43,
       "Speed": 70
     }
   },
@@ -707,8 +707,8 @@ export const POKEMONS_KALOS = [
       "HP": 62,
       "Attack": 55,
       "Defense": 52,
-      "Sp. Attack": 109,
-      "Sp. Defense": 94,
+      "Sp_Attack": 109,
+      "Sp_Defense": 94,
       "Speed": 109
     }
   },
@@ -723,8 +723,8 @@ export const POKEMONS_KALOS = [
       "HP": 58,
       "Attack": 89,
       "Defense": 77,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "Sp_Attack": 45,
+      "Sp_Defense": 45,
       "Speed": 48
     }
   },
@@ -739,8 +739,8 @@ export const POKEMONS_KALOS = [
       "HP": 82,
       "Attack": 121,
       "Defense": 119,
-      "Sp. Attack": 69,
-      "Sp. Defense": 59,
+      "Sp_Attack": 69,
+      "Sp_Defense": 59,
       "Speed": 71
     }
   },
@@ -755,8 +755,8 @@ export const POKEMONS_KALOS = [
       "HP": 77,
       "Attack": 59,
       "Defense": 50,
-      "Sp. Attack": 67,
-      "Sp. Defense": 63,
+      "Sp_Attack": 67,
+      "Sp_Defense": 63,
       "Speed": 46
     }
   },
@@ -771,8 +771,8 @@ export const POKEMONS_KALOS = [
       "HP": 123,
       "Attack": 77,
       "Defense": 72,
-      "Sp. Attack": 99,
-      "Sp. Defense": 92,
+      "Sp_Attack": 99,
+      "Sp_Defense": 92,
       "Speed": 58
     }
   },
@@ -786,8 +786,8 @@ export const POKEMONS_KALOS = [
       "HP": 95,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 110,
-      "Sp. Defense": 130,
+      "Sp_Attack": 110,
+      "Sp_Defense": 130,
       "Speed": 60
     }
   },
@@ -802,8 +802,8 @@ export const POKEMONS_KALOS = [
       "HP": 78,
       "Attack": 92,
       "Defense": 75,
-      "Sp. Attack": 74,
-      "Sp. Defense": 63,
+      "Sp_Attack": 74,
+      "Sp_Defense": 63,
       "Speed": 118
     }
   },
@@ -818,8 +818,8 @@ export const POKEMONS_KALOS = [
       "HP": 67,
       "Attack": 58,
       "Defense": 57,
-      "Sp. Attack": 81,
-      "Sp. Defense": 67,
+      "Sp_Attack": 81,
+      "Sp_Defense": 67,
       "Speed": 101
     }
   },
@@ -834,8 +834,8 @@ export const POKEMONS_KALOS = [
       "HP": 50,
       "Attack": 50,
       "Defense": 150,
-      "Sp. Attack": 50,
-      "Sp. Defense": 150,
+      "Sp_Attack": 50,
+      "Sp_Defense": 150,
       "Speed": 50
     }
   },
@@ -849,8 +849,8 @@ export const POKEMONS_KALOS = [
       "HP": 45,
       "Attack": 50,
       "Defense": 35,
-      "Sp. Attack": 55,
-      "Sp. Defense": 75,
+      "Sp_Attack": 55,
+      "Sp_Defense": 75,
       "Speed": 40
     }
   },
@@ -864,8 +864,8 @@ export const POKEMONS_KALOS = [
       "HP": 68,
       "Attack": 75,
       "Defense": 53,
-      "Sp. Attack": 83,
-      "Sp. Defense": 113,
+      "Sp_Attack": 83,
+      "Sp_Defense": 113,
       "Speed": 60
     }
   },
@@ -879,8 +879,8 @@ export const POKEMONS_KALOS = [
       "HP": 90,
       "Attack": 100,
       "Defense": 70,
-      "Sp. Attack": 110,
-      "Sp. Defense": 150,
+      "Sp_Attack": 110,
+      "Sp_Defense": 150,
       "Speed": 80
     }
   },
@@ -895,8 +895,8 @@ export const POKEMONS_KALOS = [
       "HP": 57,
       "Attack": 80,
       "Defense": 91,
-      "Sp. Attack": 80,
-      "Sp. Defense": 87,
+      "Sp_Attack": 80,
+      "Sp_Defense": 87,
       "Speed": 75
     }
   },
@@ -911,8 +911,8 @@ export const POKEMONS_KALOS = [
       "HP": 43,
       "Attack": 70,
       "Defense": 48,
-      "Sp. Attack": 50,
-      "Sp. Defense": 60,
+      "Sp_Attack": 50,
+      "Sp_Defense": 60,
       "Speed": 38
     }
   },
@@ -927,8 +927,8 @@ export const POKEMONS_KALOS = [
       "HP": 85,
       "Attack": 110,
       "Defense": 76,
-      "Sp. Attack": 65,
-      "Sp. Defense": 82,
+      "Sp_Attack": 65,
+      "Sp_Defense": 82,
       "Speed": 56
     }
   },
@@ -943,8 +943,8 @@ export const POKEMONS_KALOS = [
       "HP": 59,
       "Attack": 66,
       "Defense": 70,
-      "Sp. Attack": 44,
-      "Sp. Defense": 55,
+      "Sp_Attack": 44,
+      "Sp_Defense": 55,
       "Speed": 41
     }
   },
@@ -959,8 +959,8 @@ export const POKEMONS_KALOS = [
       "HP": 85,
       "Attack": 100,
       "Defense": 122,
-      "Sp. Attack": 58,
-      "Sp. Defense": 75,
+      "Sp_Attack": 58,
+      "Sp_Defense": 75,
       "Speed": 54
     }
   },
@@ -974,8 +974,8 @@ export const POKEMONS_KALOS = [
       "HP": 55,
       "Attack": 69,
       "Defense": 85,
-      "Sp. Attack": 32,
-      "Sp. Defense": 35,
+      "Sp_Attack": 32,
+      "Sp_Defense": 35,
       "Speed": 28
     }
   },
@@ -989,8 +989,8 @@ export const POKEMONS_KALOS = [
       "HP": 95,
       "Attack": 117,
       "Defense": 184,
-      "Sp. Attack": 44,
-      "Sp. Defense": 46,
+      "Sp_Attack": 44,
+      "Sp_Defense": 46,
       "Speed": 28
     }
   },
@@ -1005,8 +1005,8 @@ export const POKEMONS_KALOS = [
       "HP": 40,
       "Attack": 30,
       "Defense": 35,
-      "Sp. Attack": 45,
-      "Sp. Defense": 40,
+      "Sp_Attack": 45,
+      "Sp_Defense": 40,
       "Speed": 55
     }
   },
@@ -1021,8 +1021,8 @@ export const POKEMONS_KALOS = [
       "HP": 85,
       "Attack": 70,
       "Defense": 80,
-      "Sp. Attack": 97,
-      "Sp. Defense": 80,
+      "Sp_Attack": 97,
+      "Sp_Defense": 80,
       "Speed": 123
     }
   },
@@ -1036,8 +1036,8 @@ export const POKEMONS_KALOS = [
       "HP": 126,
       "Attack": 131,
       "Defense": 95,
-      "Sp. Attack": 131,
-      "Sp. Defense": 98,
+      "Sp_Attack": 131,
+      "Sp_Defense": 98,
       "Speed": 99
     }
   },
@@ -1052,8 +1052,8 @@ export const POKEMONS_KALOS = [
       "HP": 126,
       "Attack": 131,
       "Defense": 95,
-      "Sp. Attack": 131,
-      "Sp. Defense": 98,
+      "Sp_Attack": 131,
+      "Sp_Defense": 98,
       "Speed": 99
     }
   },
@@ -1068,8 +1068,8 @@ export const POKEMONS_KALOS = [
       "HP": 108,
       "Attack": 100,
       "Defense": 121,
-      "Sp. Attack": 81,
-      "Sp. Defense": 95,
+      "Sp_Attack": 81,
+      "Sp_Defense": 95,
       "Speed": 95
     }
   },
@@ -1084,8 +1084,8 @@ export const POKEMONS_KALOS = [
       "HP": 50,
       "Attack": 100,
       "Defense": 150,
-      "Sp. Attack": 100,
-      "Sp. Defense": 150,
+      "Sp_Attack": 100,
+      "Sp_Defense": 150,
       "Speed": 50
     }
   },
@@ -1100,8 +1100,8 @@ export const POKEMONS_KALOS = [
       "HP": 80,
       "Attack": 110,
       "Defense": 60,
-      "Sp. Attack": 150,
-      "Sp. Defense": 130,
+      "Sp_Attack": 150,
+      "Sp_Defense": 130,
       "Speed": 70
     }
   },
@@ -1116,8 +1116,8 @@ export const POKEMONS_KALOS = [
       "HP": 80,
       "Attack": 110,
       "Defense": 120,
-      "Sp. Attack": 130,
-      "Sp. Defense": 90,
+      "Sp_Attack": 130,
+      "Sp_Defense": 90,
       "Speed": 70
     }
   }

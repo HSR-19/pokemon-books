@@ -10,8 +10,8 @@ export const POKEMONS_UNOVA = [
       "HP": 45,
       "Attack": 45,
       "Defense": 55,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "Sp_Attack": 45,
+      "Sp_Defense": 55,
       "Speed": 63
     }
   },
@@ -25,8 +25,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 60,
       "Defense": 75,
-      "Sp. Attack": 60,
-      "Sp. Defense": 75,
+      "Sp_Attack": 60,
+      "Sp_Defense": 75,
       "Speed": 83
     }
   },
@@ -40,8 +40,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 75,
       "Defense": 95,
-      "Sp. Attack": 75,
-      "Sp. Defense": 95,
+      "Sp_Attack": 75,
+      "Sp_Defense": 95,
       "Speed": 113
     }
   },
@@ -55,8 +55,8 @@ export const POKEMONS_UNOVA = [
       "HP": 65,
       "Attack": 63,
       "Defense": 45,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "Sp_Attack": 45,
+      "Sp_Defense": 45,
       "Speed": 45
     }
   },
@@ -71,8 +71,8 @@ export const POKEMONS_UNOVA = [
       "HP": 90,
       "Attack": 93,
       "Defense": 55,
-      "Sp. Attack": 70,
-      "Sp. Defense": 55,
+      "Sp_Attack": 70,
+      "Sp_Defense": 55,
       "Speed": 55
     }
   },
@@ -87,8 +87,8 @@ export const POKEMONS_UNOVA = [
       "HP": 110,
       "Attack": 123,
       "Defense": 65,
-      "Sp. Attack": 100,
-      "Sp. Defense": 65,
+      "Sp_Attack": 100,
+      "Sp_Defense": 65,
       "Speed": 65
     }
   },
@@ -102,8 +102,8 @@ export const POKEMONS_UNOVA = [
       "HP": 55,
       "Attack": 55,
       "Defense": 45,
-      "Sp. Attack": 63,
-      "Sp. Defense": 45,
+      "Sp_Attack": 63,
+      "Sp_Defense": 45,
       "Speed": 45
     }
   },
@@ -117,8 +117,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 75,
       "Defense": 60,
-      "Sp. Attack": 83,
-      "Sp. Defense": 60,
+      "Sp_Attack": 83,
+      "Sp_Defense": 60,
       "Speed": 60
     }
   },
@@ -132,8 +132,8 @@ export const POKEMONS_UNOVA = [
       "HP": 95,
       "Attack": 100,
       "Defense": 85,
-      "Sp. Attack": 108,
-      "Sp. Defense": 70,
+      "Sp_Attack": 108,
+      "Sp_Defense": 70,
       "Speed": 70
     }
   },
@@ -147,8 +147,8 @@ export const POKEMONS_UNOVA = [
       "HP": 45,
       "Attack": 55,
       "Defense": 39,
-      "Sp. Attack": 35,
-      "Sp. Defense": 39,
+      "Sp_Attack": 35,
+      "Sp_Defense": 39,
       "Speed": 42
     }
   },
@@ -162,8 +162,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 85,
       "Defense": 69,
-      "Sp. Attack": 60,
-      "Sp. Defense": 69,
+      "Sp_Attack": 60,
+      "Sp_Defense": 69,
       "Speed": 77
     }
   },
@@ -177,8 +177,8 @@ export const POKEMONS_UNOVA = [
       "HP": 45,
       "Attack": 60,
       "Defense": 45,
-      "Sp. Attack": 25,
-      "Sp. Defense": 45,
+      "Sp_Attack": 25,
+      "Sp_Defense": 45,
       "Speed": 55
     }
   },
@@ -192,8 +192,8 @@ export const POKEMONS_UNOVA = [
       "HP": 65,
       "Attack": 80,
       "Defense": 65,
-      "Sp. Attack": 35,
-      "Sp. Defense": 65,
+      "Sp_Attack": 35,
+      "Sp_Defense": 65,
       "Speed": 60
     }
   },
@@ -207,8 +207,8 @@ export const POKEMONS_UNOVA = [
       "HP": 85,
       "Attack": 110,
       "Defense": 90,
-      "Sp. Attack": 45,
-      "Sp. Defense": 90,
+      "Sp_Attack": 45,
+      "Sp_Defense": 90,
       "Speed": 80
     }
   },
@@ -222,8 +222,8 @@ export const POKEMONS_UNOVA = [
       "HP": 41,
       "Attack": 50,
       "Defense": 37,
-      "Sp. Attack": 50,
-      "Sp. Defense": 37,
+      "Sp_Attack": 50,
+      "Sp_Defense": 37,
       "Speed": 66
     }
   },
@@ -237,8 +237,8 @@ export const POKEMONS_UNOVA = [
       "HP": 64,
       "Attack": 88,
       "Defense": 50,
-      "Sp. Attack": 88,
-      "Sp. Defense": 50,
+      "Sp_Attack": 88,
+      "Sp_Defense": 50,
       "Speed": 106
     }
   },
@@ -252,8 +252,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 53,
       "Defense": 48,
-      "Sp. Attack": 53,
-      "Sp. Defense": 48,
+      "Sp_Attack": 53,
+      "Sp_Defense": 48,
       "Speed": 64
     }
   },
@@ -267,8 +267,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 98,
       "Defense": 63,
-      "Sp. Attack": 98,
-      "Sp. Defense": 63,
+      "Sp_Attack": 98,
+      "Sp_Defense": 63,
       "Speed": 101
     }
   },
@@ -282,8 +282,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 53,
       "Defense": 48,
-      "Sp. Attack": 53,
-      "Sp. Defense": 48,
+      "Sp_Attack": 53,
+      "Sp_Defense": 48,
       "Speed": 64
     }
   },
@@ -297,8 +297,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 98,
       "Defense": 63,
-      "Sp. Attack": 98,
-      "Sp. Defense": 63,
+      "Sp_Attack": 98,
+      "Sp_Defense": 63,
       "Speed": 101
     }
   },
@@ -312,8 +312,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 53,
       "Defense": 48,
-      "Sp. Attack": 53,
-      "Sp. Defense": 48,
+      "Sp_Attack": 53,
+      "Sp_Defense": 48,
       "Speed": 64
     }
   },
@@ -327,8 +327,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 98,
       "Defense": 63,
-      "Sp. Attack": 98,
-      "Sp. Defense": 63,
+      "Sp_Attack": 98,
+      "Sp_Defense": 63,
       "Speed": 101
     }
   },
@@ -342,8 +342,8 @@ export const POKEMONS_UNOVA = [
       "HP": 76,
       "Attack": 25,
       "Defense": 45,
-      "Sp. Attack": 67,
-      "Sp. Defense": 55,
+      "Sp_Attack": 67,
+      "Sp_Defense": 55,
       "Speed": 24
     }
   },
@@ -357,8 +357,8 @@ export const POKEMONS_UNOVA = [
       "HP": 116,
       "Attack": 55,
       "Defense": 85,
-      "Sp. Attack": 107,
-      "Sp. Defense": 95,
+      "Sp_Attack": 107,
+      "Sp_Defense": 95,
       "Speed": 29
     }
   },
@@ -373,8 +373,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 55,
       "Defense": 50,
-      "Sp. Attack": 36,
-      "Sp. Defense": 30,
+      "Sp_Attack": 36,
+      "Sp_Defense": 30,
       "Speed": 43
     }
   },
@@ -389,8 +389,8 @@ export const POKEMONS_UNOVA = [
       "HP": 62,
       "Attack": 77,
       "Defense": 62,
-      "Sp. Attack": 50,
-      "Sp. Defense": 42,
+      "Sp_Attack": 50,
+      "Sp_Defense": 42,
       "Speed": 65
     }
   },
@@ -405,8 +405,8 @@ export const POKEMONS_UNOVA = [
       "HP": 80,
       "Attack": 115,
       "Defense": 80,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "Sp_Attack": 65,
+      "Sp_Defense": 55,
       "Speed": 93
     }
   },
@@ -420,8 +420,8 @@ export const POKEMONS_UNOVA = [
       "HP": 45,
       "Attack": 60,
       "Defense": 32,
-      "Sp. Attack": 50,
-      "Sp. Defense": 32,
+      "Sp_Attack": 50,
+      "Sp_Defense": 32,
       "Speed": 76
     }
   },
@@ -435,8 +435,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 100,
       "Defense": 63,
-      "Sp. Attack": 80,
-      "Sp. Defense": 63,
+      "Sp_Attack": 80,
+      "Sp_Defense": 63,
       "Speed": 116
     }
   },
@@ -450,8 +450,8 @@ export const POKEMONS_UNOVA = [
       "HP": 55,
       "Attack": 75,
       "Defense": 85,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "Sp_Attack": 25,
+      "Sp_Defense": 25,
       "Speed": 15
     }
   },
@@ -465,8 +465,8 @@ export const POKEMONS_UNOVA = [
       "HP": 70,
       "Attack": 105,
       "Defense": 105,
-      "Sp. Attack": 50,
-      "Sp. Defense": 40,
+      "Sp_Attack": 50,
+      "Sp_Defense": 40,
       "Speed": 20
     }
   },
@@ -480,8 +480,8 @@ export const POKEMONS_UNOVA = [
       "HP": 85,
       "Attack": 135,
       "Defense": 130,
-      "Sp. Attack": 60,
-      "Sp. Defense": 80,
+      "Sp_Attack": 60,
+      "Sp_Defense": 80,
       "Speed": 25
     }
   },
@@ -496,8 +496,8 @@ export const POKEMONS_UNOVA = [
       "HP": 65,
       "Attack": 45,
       "Defense": 43,
-      "Sp. Attack": 55,
-      "Sp. Defense": 43,
+      "Sp_Attack": 55,
+      "Sp_Defense": 43,
       "Speed": 72
     }
   },
@@ -512,8 +512,8 @@ export const POKEMONS_UNOVA = [
       "HP": 67,
       "Attack": 57,
       "Defense": 55,
-      "Sp. Attack": 77,
-      "Sp. Defense": 55,
+      "Sp_Attack": 77,
+      "Sp_Defense": 55,
       "Speed": 114
     }
   },
@@ -527,8 +527,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 85,
       "Defense": 40,
-      "Sp. Attack": 30,
-      "Sp. Defense": 45,
+      "Sp_Attack": 30,
+      "Sp_Defense": 45,
       "Speed": 68
     }
   },
@@ -543,8 +543,8 @@ export const POKEMONS_UNOVA = [
       "HP": 110,
       "Attack": 135,
       "Defense": 60,
-      "Sp. Attack": 50,
-      "Sp. Defense": 65,
+      "Sp_Attack": 50,
+      "Sp_Defense": 65,
       "Speed": 88
     }
   },
@@ -558,8 +558,8 @@ export const POKEMONS_UNOVA = [
       "HP": 103,
       "Attack": 60,
       "Defense": 86,
-      "Sp. Attack": 60,
-      "Sp. Defense": 86,
+      "Sp_Attack": 60,
+      "Sp_Defense": 86,
       "Speed": 50
     }
   },
@@ -573,8 +573,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 80,
       "Defense": 55,
-      "Sp. Attack": 25,
-      "Sp. Defense": 35,
+      "Sp_Attack": 25,
+      "Sp_Defense": 35,
       "Speed": 35
     }
   },
@@ -588,8 +588,8 @@ export const POKEMONS_UNOVA = [
       "HP": 85,
       "Attack": 105,
       "Defense": 85,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "Sp_Attack": 40,
+      "Sp_Defense": 50,
       "Speed": 40
     }
   },
@@ -603,8 +603,8 @@ export const POKEMONS_UNOVA = [
       "HP": 105,
       "Attack": 140,
       "Defense": 95,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "Sp_Attack": 55,
+      "Sp_Defense": 65,
       "Speed": 45
     }
   },
@@ -618,8 +618,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 50,
       "Defense": 40,
-      "Sp. Attack": 50,
-      "Sp. Defense": 40,
+      "Sp_Attack": 50,
+      "Sp_Defense": 40,
       "Speed": 64
     }
   },
@@ -634,8 +634,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 65,
       "Defense": 55,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "Sp_Attack": 65,
+      "Sp_Defense": 55,
       "Speed": 69
     }
   },
@@ -650,8 +650,8 @@ export const POKEMONS_UNOVA = [
       "HP": 105,
       "Attack": 95,
       "Defense": 75,
-      "Sp. Attack": 85,
-      "Sp. Defense": 75,
+      "Sp_Attack": 85,
+      "Sp_Defense": 75,
       "Speed": 74
     }
   },
@@ -665,8 +665,8 @@ export const POKEMONS_UNOVA = [
       "HP": 120,
       "Attack": 100,
       "Defense": 85,
-      "Sp. Attack": 30,
-      "Sp. Defense": 85,
+      "Sp_Attack": 30,
+      "Sp_Defense": 85,
       "Speed": 45
     }
   },
@@ -680,8 +680,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 125,
       "Defense": 75,
-      "Sp. Attack": 30,
-      "Sp. Defense": 75,
+      "Sp_Attack": 30,
+      "Sp_Defense": 75,
       "Speed": 85
     }
   },
@@ -696,8 +696,8 @@ export const POKEMONS_UNOVA = [
       "HP": 45,
       "Attack": 53,
       "Defense": 70,
-      "Sp. Attack": 40,
-      "Sp. Defense": 60,
+      "Sp_Attack": 40,
+      "Sp_Defense": 60,
       "Speed": 42
     }
   },
@@ -712,8 +712,8 @@ export const POKEMONS_UNOVA = [
       "HP": 55,
       "Attack": 63,
       "Defense": 90,
-      "Sp. Attack": 50,
-      "Sp. Defense": 80,
+      "Sp_Attack": 50,
+      "Sp_Defense": 80,
       "Speed": 42
     }
   },
@@ -728,8 +728,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 103,
       "Defense": 80,
-      "Sp. Attack": 70,
-      "Sp. Defense": 80,
+      "Sp_Attack": 70,
+      "Sp_Defense": 80,
       "Speed": 92
     }
   },
@@ -744,8 +744,8 @@ export const POKEMONS_UNOVA = [
       "HP": 30,
       "Attack": 45,
       "Defense": 59,
-      "Sp. Attack": 30,
-      "Sp. Defense": 39,
+      "Sp_Attack": 30,
+      "Sp_Defense": 39,
       "Speed": 57
     }
   },
@@ -760,8 +760,8 @@ export const POKEMONS_UNOVA = [
       "HP": 40,
       "Attack": 55,
       "Defense": 99,
-      "Sp. Attack": 40,
-      "Sp. Defense": 79,
+      "Sp_Attack": 40,
+      "Sp_Defense": 79,
       "Speed": 47
     }
   },
@@ -776,8 +776,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 100,
       "Defense": 89,
-      "Sp. Attack": 55,
-      "Sp. Defense": 69,
+      "Sp_Attack": 55,
+      "Sp_Defense": 69,
       "Speed": 112
     }
   },
@@ -792,8 +792,8 @@ export const POKEMONS_UNOVA = [
       "HP": 40,
       "Attack": 27,
       "Defense": 60,
-      "Sp. Attack": 37,
-      "Sp. Defense": 50,
+      "Sp_Attack": 37,
+      "Sp_Defense": 50,
       "Speed": 66
     }
   },
@@ -808,8 +808,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 67,
       "Defense": 85,
-      "Sp. Attack": 77,
-      "Sp. Defense": 75,
+      "Sp_Attack": 77,
+      "Sp_Defense": 75,
       "Speed": 116
     }
   },
@@ -823,8 +823,8 @@ export const POKEMONS_UNOVA = [
       "HP": 45,
       "Attack": 35,
       "Defense": 50,
-      "Sp. Attack": 70,
-      "Sp. Defense": 50,
+      "Sp_Attack": 70,
+      "Sp_Defense": 50,
       "Speed": 30
     }
   },
@@ -838,8 +838,8 @@ export const POKEMONS_UNOVA = [
       "HP": 70,
       "Attack": 60,
       "Defense": 75,
-      "Sp. Attack": 110,
-      "Sp. Defense": 75,
+      "Sp_Attack": 110,
+      "Sp_Defense": 75,
       "Speed": 90
     }
   },
@@ -853,8 +853,8 @@ export const POKEMONS_UNOVA = [
       "HP": 70,
       "Attack": 92,
       "Defense": 65,
-      "Sp. Attack": 80,
-      "Sp. Defense": 55,
+      "Sp_Attack": 80,
+      "Sp_Defense": 55,
       "Speed": 98
     }
   },
@@ -869,8 +869,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 72,
       "Defense": 35,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "Sp_Attack": 35,
+      "Sp_Defense": 35,
       "Speed": 65
     }
   },
@@ -885,8 +885,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 82,
       "Defense": 45,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "Sp_Attack": 45,
+      "Sp_Defense": 45,
       "Speed": 74
     }
   },
@@ -901,8 +901,8 @@ export const POKEMONS_UNOVA = [
       "HP": 95,
       "Attack": 117,
       "Defense": 80,
-      "Sp. Attack": 65,
-      "Sp. Defense": 70,
+      "Sp_Attack": 65,
+      "Sp_Defense": 70,
       "Speed": 92
     }
   },
@@ -916,8 +916,8 @@ export const POKEMONS_UNOVA = [
       "HP": 70,
       "Attack": 90,
       "Defense": 45,
-      "Sp. Attack": 15,
-      "Sp. Defense": 45,
+      "Sp_Attack": 15,
+      "Sp_Defense": 45,
       "Speed": 50
     }
   },
@@ -931,8 +931,8 @@ export const POKEMONS_UNOVA = [
       "HP": 105,
       "Attack": 140,
       "Defense": 55,
-      "Sp. Attack": 30,
-      "Sp. Defense": 55,
+      "Sp_Attack": 30,
+      "Sp_Defense": 55,
       "Speed": 95
     }
   },
@@ -946,8 +946,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 86,
       "Defense": 67,
-      "Sp. Attack": 106,
-      "Sp. Defense": 67,
+      "Sp_Attack": 106,
+      "Sp_Defense": 67,
       "Speed": 60
     }
   },
@@ -962,8 +962,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 65,
       "Defense": 85,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "Sp_Attack": 35,
+      "Sp_Defense": 35,
       "Speed": 55
     }
   },
@@ -978,8 +978,8 @@ export const POKEMONS_UNOVA = [
       "HP": 70,
       "Attack": 105,
       "Defense": 125,
-      "Sp. Attack": 65,
-      "Sp. Defense": 75,
+      "Sp_Attack": 65,
+      "Sp_Defense": 75,
       "Speed": 45
     }
   },
@@ -994,8 +994,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 75,
       "Defense": 70,
-      "Sp. Attack": 35,
-      "Sp. Defense": 70,
+      "Sp_Attack": 35,
+      "Sp_Defense": 70,
       "Speed": 48
     }
   },
@@ -1010,8 +1010,8 @@ export const POKEMONS_UNOVA = [
       "HP": 65,
       "Attack": 90,
       "Defense": 115,
-      "Sp. Attack": 45,
-      "Sp. Defense": 115,
+      "Sp_Attack": 45,
+      "Sp_Defense": 115,
       "Speed": 58
     }
   },
@@ -1026,8 +1026,8 @@ export const POKEMONS_UNOVA = [
       "HP": 72,
       "Attack": 58,
       "Defense": 80,
-      "Sp. Attack": 103,
-      "Sp. Defense": 80,
+      "Sp_Attack": 103,
+      "Sp_Defense": 80,
       "Speed": 97
     }
   },
@@ -1041,8 +1041,8 @@ export const POKEMONS_UNOVA = [
       "HP": 38,
       "Attack": 30,
       "Defense": 85,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "Sp_Attack": 55,
+      "Sp_Defense": 65,
       "Speed": 30
     }
   },
@@ -1056,8 +1056,8 @@ export const POKEMONS_UNOVA = [
       "HP": 58,
       "Attack": 50,
       "Defense": 145,
-      "Sp. Attack": 95,
-      "Sp. Defense": 105,
+      "Sp_Attack": 95,
+      "Sp_Defense": 105,
       "Speed": 30
     }
   },
@@ -1072,8 +1072,8 @@ export const POKEMONS_UNOVA = [
       "HP": 54,
       "Attack": 78,
       "Defense": 103,
-      "Sp. Attack": 53,
-      "Sp. Defense": 45,
+      "Sp_Attack": 53,
+      "Sp_Defense": 45,
       "Speed": 22
     }
   },
@@ -1088,8 +1088,8 @@ export const POKEMONS_UNOVA = [
       "HP": 74,
       "Attack": 108,
       "Defense": 133,
-      "Sp. Attack": 83,
-      "Sp. Defense": 65,
+      "Sp_Attack": 83,
+      "Sp_Defense": 65,
       "Speed": 32
     }
   },
@@ -1104,8 +1104,8 @@ export const POKEMONS_UNOVA = [
       "HP": 55,
       "Attack": 112,
       "Defense": 45,
-      "Sp. Attack": 74,
-      "Sp. Defense": 45,
+      "Sp_Attack": 74,
+      "Sp_Defense": 45,
       "Speed": 70
     }
   },
@@ -1120,8 +1120,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 140,
       "Defense": 65,
-      "Sp. Attack": 112,
-      "Sp. Defense": 65,
+      "Sp_Attack": 112,
+      "Sp_Defense": 65,
       "Speed": 110
     }
   },
@@ -1135,8 +1135,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 50,
       "Defense": 62,
-      "Sp. Attack": 40,
-      "Sp. Defense": 62,
+      "Sp_Attack": 40,
+      "Sp_Defense": 62,
       "Speed": 65
     }
   },
@@ -1150,8 +1150,8 @@ export const POKEMONS_UNOVA = [
       "HP": 80,
       "Attack": 95,
       "Defense": 82,
-      "Sp. Attack": 60,
-      "Sp. Defense": 82,
+      "Sp_Attack": 60,
+      "Sp_Defense": 82,
       "Speed": 75
     }
   },
@@ -1165,8 +1165,8 @@ export const POKEMONS_UNOVA = [
       "HP": 40,
       "Attack": 65,
       "Defense": 40,
-      "Sp. Attack": 80,
-      "Sp. Defense": 40,
+      "Sp_Attack": 80,
+      "Sp_Defense": 40,
       "Speed": 65
     }
   },
@@ -1180,8 +1180,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 105,
       "Defense": 60,
-      "Sp. Attack": 120,
-      "Sp. Defense": 60,
+      "Sp_Attack": 120,
+      "Sp_Defense": 60,
       "Speed": 105
     }
   },
@@ -1195,8 +1195,8 @@ export const POKEMONS_UNOVA = [
       "HP": 55,
       "Attack": 50,
       "Defense": 40,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "Sp_Attack": 40,
+      "Sp_Defense": 40,
       "Speed": 75
     }
   },
@@ -1210,8 +1210,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 95,
       "Defense": 60,
-      "Sp. Attack": 65,
-      "Sp. Defense": 60,
+      "Sp_Attack": 65,
+      "Sp_Defense": 60,
       "Speed": 115
     }
   },
@@ -1225,8 +1225,8 @@ export const POKEMONS_UNOVA = [
       "HP": 45,
       "Attack": 30,
       "Defense": 50,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "Sp_Attack": 55,
+      "Sp_Defense": 65,
       "Speed": 45
     }
   },
@@ -1240,8 +1240,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 45,
       "Defense": 70,
-      "Sp. Attack": 75,
-      "Sp. Defense": 85,
+      "Sp_Attack": 75,
+      "Sp_Defense": 85,
       "Speed": 55
     }
   },
@@ -1255,8 +1255,8 @@ export const POKEMONS_UNOVA = [
       "HP": 70,
       "Attack": 55,
       "Defense": 95,
-      "Sp. Attack": 95,
-      "Sp. Defense": 110,
+      "Sp_Attack": 95,
+      "Sp_Defense": 110,
       "Speed": 65
     }
   },
@@ -1270,8 +1270,8 @@ export const POKEMONS_UNOVA = [
       "HP": 45,
       "Attack": 30,
       "Defense": 40,
-      "Sp. Attack": 105,
-      "Sp. Defense": 50,
+      "Sp_Attack": 105,
+      "Sp_Defense": 50,
       "Speed": 20
     }
   },
@@ -1285,8 +1285,8 @@ export const POKEMONS_UNOVA = [
       "HP": 65,
       "Attack": 40,
       "Defense": 50,
-      "Sp. Attack": 125,
-      "Sp. Defense": 60,
+      "Sp_Attack": 125,
+      "Sp_Defense": 60,
       "Speed": 30
     }
   },
@@ -1300,8 +1300,8 @@ export const POKEMONS_UNOVA = [
       "HP": 110,
       "Attack": 65,
       "Defense": 75,
-      "Sp. Attack": 125,
-      "Sp. Defense": 85,
+      "Sp_Attack": 125,
+      "Sp_Defense": 85,
       "Speed": 30
     }
   },
@@ -1316,8 +1316,8 @@ export const POKEMONS_UNOVA = [
       "HP": 62,
       "Attack": 44,
       "Defense": 50,
-      "Sp. Attack": 44,
-      "Sp. Defense": 50,
+      "Sp_Attack": 44,
+      "Sp_Defense": 50,
       "Speed": 55
     }
   },
@@ -1332,8 +1332,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 87,
       "Defense": 63,
-      "Sp. Attack": 87,
-      "Sp. Defense": 63,
+      "Sp_Attack": 87,
+      "Sp_Defense": 63,
       "Speed": 98
     }
   },
@@ -1347,8 +1347,8 @@ export const POKEMONS_UNOVA = [
       "HP": 36,
       "Attack": 50,
       "Defense": 50,
-      "Sp. Attack": 65,
-      "Sp. Defense": 60,
+      "Sp_Attack": 65,
+      "Sp_Defense": 60,
       "Speed": 44
     }
   },
@@ -1362,8 +1362,8 @@ export const POKEMONS_UNOVA = [
       "HP": 51,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 80,
-      "Sp. Defense": 75,
+      "Sp_Attack": 80,
+      "Sp_Defense": 75,
       "Speed": 59
     }
   },
@@ -1377,8 +1377,8 @@ export const POKEMONS_UNOVA = [
       "HP": 71,
       "Attack": 95,
       "Defense": 85,
-      "Sp. Attack": 110,
-      "Sp. Defense": 95,
+      "Sp_Attack": 110,
+      "Sp_Defense": 95,
       "Speed": 79
     }
   },
@@ -1393,8 +1393,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 60,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "Sp_Attack": 40,
+      "Sp_Defense": 50,
       "Speed": 75
     }
   },
@@ -1409,8 +1409,8 @@ export const POKEMONS_UNOVA = [
       "HP": 80,
       "Attack": 100,
       "Defense": 70,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "Sp_Attack": 60,
+      "Sp_Defense": 70,
       "Speed": 95
     }
   },
@@ -1425,8 +1425,8 @@ export const POKEMONS_UNOVA = [
       "HP": 55,
       "Attack": 75,
       "Defense": 60,
-      "Sp. Attack": 75,
-      "Sp. Defense": 60,
+      "Sp_Attack": 75,
+      "Sp_Defense": 60,
       "Speed": 103
     }
   },
@@ -1440,8 +1440,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 75,
       "Defense": 45,
-      "Sp. Attack": 40,
-      "Sp. Defense": 45,
+      "Sp_Attack": 40,
+      "Sp_Defense": 45,
       "Speed": 60
     }
   },
@@ -1456,8 +1456,8 @@ export const POKEMONS_UNOVA = [
       "HP": 70,
       "Attack": 135,
       "Defense": 105,
-      "Sp. Attack": 60,
-      "Sp. Defense": 105,
+      "Sp_Attack": 60,
+      "Sp_Defense": 105,
       "Speed": 20
     }
   },
@@ -1472,8 +1472,8 @@ export const POKEMONS_UNOVA = [
       "HP": 69,
       "Attack": 55,
       "Defense": 45,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
+      "Sp_Attack": 55,
+      "Sp_Defense": 55,
       "Speed": 15
     }
   },
@@ -1488,8 +1488,8 @@ export const POKEMONS_UNOVA = [
       "HP": 114,
       "Attack": 85,
       "Defense": 70,
-      "Sp. Attack": 85,
-      "Sp. Defense": 80,
+      "Sp_Attack": 85,
+      "Sp_Defense": 80,
       "Speed": 30
     }
   },
@@ -1504,8 +1504,8 @@ export const POKEMONS_UNOVA = [
       "HP": 55,
       "Attack": 40,
       "Defense": 50,
-      "Sp. Attack": 65,
-      "Sp. Defense": 85,
+      "Sp_Attack": 65,
+      "Sp_Defense": 85,
       "Speed": 40
     }
   },
@@ -1520,8 +1520,8 @@ export const POKEMONS_UNOVA = [
       "HP": 100,
       "Attack": 60,
       "Defense": 70,
-      "Sp. Attack": 85,
-      "Sp. Defense": 105,
+      "Sp_Attack": 85,
+      "Sp_Defense": 105,
       "Speed": 60
     }
   },
@@ -1535,8 +1535,8 @@ export const POKEMONS_UNOVA = [
       "HP": 165,
       "Attack": 75,
       "Defense": 80,
-      "Sp. Attack": 40,
-      "Sp. Defense": 45,
+      "Sp_Attack": 40,
+      "Sp_Defense": 45,
       "Speed": 65
     }
   },
@@ -1551,8 +1551,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 47,
       "Defense": 50,
-      "Sp. Attack": 57,
-      "Sp. Defense": 50,
+      "Sp_Attack": 57,
+      "Sp_Defense": 50,
       "Speed": 65
     }
   },
@@ -1567,8 +1567,8 @@ export const POKEMONS_UNOVA = [
       "HP": 70,
       "Attack": 77,
       "Defense": 60,
-      "Sp. Attack": 97,
-      "Sp. Defense": 60,
+      "Sp_Attack": 97,
+      "Sp_Defense": 60,
       "Speed": 108
     }
   },
@@ -1583,8 +1583,8 @@ export const POKEMONS_UNOVA = [
       "HP": 44,
       "Attack": 50,
       "Defense": 91,
-      "Sp. Attack": 24,
-      "Sp. Defense": 86,
+      "Sp_Attack": 24,
+      "Sp_Defense": 86,
       "Speed": 10
     }
   },
@@ -1599,8 +1599,8 @@ export const POKEMONS_UNOVA = [
       "HP": 74,
       "Attack": 94,
       "Defense": 131,
-      "Sp. Attack": 54,
-      "Sp. Defense": 116,
+      "Sp_Attack": 54,
+      "Sp_Defense": 116,
       "Speed": 20
     }
   },
@@ -1614,8 +1614,8 @@ export const POKEMONS_UNOVA = [
       "HP": 40,
       "Attack": 55,
       "Defense": 70,
-      "Sp. Attack": 45,
-      "Sp. Defense": 60,
+      "Sp_Attack": 45,
+      "Sp_Defense": 60,
       "Speed": 30
     }
   },
@@ -1629,8 +1629,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 80,
       "Defense": 95,
-      "Sp. Attack": 70,
-      "Sp. Defense": 85,
+      "Sp_Attack": 70,
+      "Sp_Defense": 85,
       "Speed": 50
     }
   },
@@ -1644,8 +1644,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 100,
       "Defense": 115,
-      "Sp. Attack": 70,
-      "Sp. Defense": 85,
+      "Sp_Attack": 70,
+      "Sp_Defense": 85,
       "Speed": 90
     }
   },
@@ -1659,8 +1659,8 @@ export const POKEMONS_UNOVA = [
       "HP": 35,
       "Attack": 55,
       "Defense": 40,
-      "Sp. Attack": 45,
-      "Sp. Defense": 40,
+      "Sp_Attack": 45,
+      "Sp_Defense": 40,
       "Speed": 60
     }
   },
@@ -1674,8 +1674,8 @@ export const POKEMONS_UNOVA = [
       "HP": 65,
       "Attack": 85,
       "Defense": 70,
-      "Sp. Attack": 75,
-      "Sp. Defense": 70,
+      "Sp_Attack": 75,
+      "Sp_Defense": 70,
       "Speed": 40
     }
   },
@@ -1689,8 +1689,8 @@ export const POKEMONS_UNOVA = [
       "HP": 85,
       "Attack": 115,
       "Defense": 80,
-      "Sp. Attack": 105,
-      "Sp. Defense": 80,
+      "Sp_Attack": 105,
+      "Sp_Defense": 80,
       "Speed": 50
     }
   },
@@ -1704,8 +1704,8 @@ export const POKEMONS_UNOVA = [
       "HP": 55,
       "Attack": 55,
       "Defense": 55,
-      "Sp. Attack": 85,
-      "Sp. Defense": 55,
+      "Sp_Attack": 85,
+      "Sp_Defense": 55,
       "Speed": 30
     }
   },
@@ -1719,8 +1719,8 @@ export const POKEMONS_UNOVA = [
       "HP": 75,
       "Attack": 75,
       "Defense": 75,
-      "Sp. Attack": 125,
-      "Sp. Defense": 95,
+      "Sp_Attack": 125,
+      "Sp_Defense": 95,
       "Speed": 40
     }
   },
@@ -1735,8 +1735,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 30,
       "Defense": 55,
-      "Sp. Attack": 65,
-      "Sp. Defense": 55,
+      "Sp_Attack": 65,
+      "Sp_Defense": 55,
       "Speed": 20
     }
   },
@@ -1751,8 +1751,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 40,
       "Defense": 60,
-      "Sp. Attack": 95,
-      "Sp. Defense": 60,
+      "Sp_Attack": 95,
+      "Sp_Defense": 60,
       "Speed": 55
     }
   },
@@ -1767,8 +1767,8 @@ export const POKEMONS_UNOVA = [
       "HP": 60,
       "Attack": 55,
       "Defense": 90,
-      "Sp. Attack": 145,
-      "Sp. Defense": 90,
+      "Sp_Attack": 145,
+      "Sp_Defense": 90,
       "Speed": 80
     }
   },
@@ -1782,8 +1782,8 @@ export const POKEMONS_UNOVA = [
       "HP": 46,
       "Attack": 87,
       "Defense": 60,
-      "Sp. Attack": 30,
-      "Sp. Defense": 40,
+      "Sp_Attack": 30,
+      "Sp_Defense": 40,
       "Speed": 57
     }
   },
@@ -1797,8 +1797,8 @@ export const POKEMONS_UNOVA = [
       "HP": 66,
       "Attack": 117,
       "Defense": 70,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "Sp_Attack": 40,
+      "Sp_Defense": 50,
       "Speed": 67
     }
   },
@@ -1812,8 +1812,8 @@ export const POKEMONS_UNOVA = [
       "HP": 76,
       "Attack": 147,
       "Defense": 90,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "Sp_Attack": 60,
+      "Sp_Defense": 70,
       "Speed": 97
     }
   },
@@ -1827,8 +1827,8 @@ export const POKEMONS_UNOVA = [
       "HP": 55,
       "Attack": 70,
       "Defense": 40,
-      "Sp. Attack": 60,
-      "Sp. Defense": 40,
+      "Sp_Attack": 60,
+      "Sp_Defense": 40,
       "Speed": 40
     }
   },
@@ -1842,8 +1842,8 @@ export const POKEMONS_UNOVA = [
       "HP": 95,
       "Attack": 130,
       "Defense": 80,
-      "Sp. Attack": 70,
-      "Sp. Defense": 80,
+      "Sp_Attack": 70,
+      "Sp_Defense": 80,
       "Speed": 50
     }
   },
@@ -1857,8 +1857,8 @@ export const POKEMONS_UNOVA = [
       "HP": 80,
       "Attack": 50,
       "Defense": 50,
-      "Sp. Attack": 95,
-      "Sp. Defense": 135,
+      "Sp_Attack": 95,
+      "Sp_Defense": 135,
       "Speed": 105
     }
   },
@@ -1872,8 +1872,8 @@ export const POKEMONS_UNOVA = [
       "HP": 50,
       "Attack": 40,
       "Defense": 85,
-      "Sp. Attack": 40,
-      "Sp. Defense": 65,
+      "Sp_Attack": 40,
+      "Sp_Defense": 65,
       "Speed": 25
     }
   },
@@ -1887,8 +1887,8 @@ export const POKEMONS_UNOVA = [
       "HP": 80,
       "Attack": 70,
       "Defense": 40,
-      "Sp. Attack": 100,
-      "Sp. Defense": 60,
+      "Sp_Attack": 100,
+      "Sp_Defense": 60,
       "Speed": 145
     }
   },
@@ -1903,8 +1903,8 @@ export const POKEMONS_UNOVA = [
       "HP": 109,
       "Attack": 66,
       "Defense": 84,
-      "Sp. Attack": 81,
-      "Sp. Defense": 99,
+      "Sp_Attack": 81,
+      "Sp_Defense": 99,
       "Speed": 32
     }
   },
@@ -1918,8 +1918,8 @@ export const POKEMONS_UNOVA = [
       "HP": 45,
       "Attack": 85,
       "Defense": 50,
-      "Sp. Attack": 55,
-      "Sp. Defense": 50,
+      "Sp_Attack": 55,
+      "Sp_Defense": 50,
       "Speed": 65
     }
   },
@@ -1933,8 +1933,8 @@ export const POKEMONS_UNOVA = [
       "HP": 65,
       "Attack": 125,
       "Defense": 60,
-      "Sp. Attack": 95,
-      "Sp. Defense": 60,
+      "Sp_Attack": 95,
+      "Sp_Defense": 60,
       "Speed": 105
     }
   },
@@ -1948,8 +1948,8 @@ export const POKEMONS_UNOVA = [
       "HP": 77,
       "Attack": 120,
       "Defense": 90,
-      "Sp. Attack": 60,
-      "Sp. Defense": 90,
+      "Sp_Attack": 60,
+      "Sp_Defense": 90,
       "Speed": 48
     }
   },
@@ -1964,8 +1964,8 @@ export const POKEMONS_UNOVA = [
       "HP": 59,
       "Attack": 74,
       "Defense": 50,
-      "Sp. Attack": 35,
-      "Sp. Defense": 50,
+      "Sp_Attack": 35,
+      "Sp_Defense": 50,
       "Speed": 35
     }
   },
@@ -1980,8 +1980,8 @@ export const POKEMONS_UNOVA = [
       "HP": 89,
       "Attack": 124,
       "Defense": 80,
-      "Sp. Attack": 55,
-      "Sp. Defense": 80,
+      "Sp_Attack": 55,
+      "Sp_Defense": 80,
       "Speed": 55
     }
   },
@@ -1996,8 +1996,8 @@ export const POKEMONS_UNOVA = [
       "HP": 45,
       "Attack": 85,
       "Defense": 70,
-      "Sp. Attack": 40,
-      "Sp. Defense": 40,
+      "Sp_Attack": 40,
+      "Sp_Defense": 40,
       "Speed": 60
     }
   },
@@ -2012,8 +2012,8 @@ export const POKEMONS_UNOVA = [
       "HP": 65,
       "Attack": 125,
       "Defense": 100,
-      "Sp. Attack": 60,
-      "Sp. Defense": 70,
+      "Sp_Attack": 60,
+      "Sp_Defense": 70,
       "Speed": 70
     }
   },
@@ -2027,8 +2027,8 @@ export const POKEMONS_UNOVA = [
       "HP": 95,
       "Attack": 110,
       "Defense": 95,
-      "Sp. Attack": 40,
-      "Sp. Defense": 95,
+      "Sp_Attack": 40,
+      "Sp_Defense": 95,
       "Speed": 55
     }
   },
@@ -2043,8 +2043,8 @@ export const POKEMONS_UNOVA = [
       "HP": 70,
       "Attack": 83,
       "Defense": 50,
-      "Sp. Attack": 37,
-      "Sp. Defense": 50,
+      "Sp_Attack": 37,
+      "Sp_Defense": 50,
       "Speed": 60
     }
   },
@@ -2059,8 +2059,8 @@ export const POKEMONS_UNOVA = [
       "HP": 100,
       "Attack": 123,
       "Defense": 75,
-      "Sp. Attack": 57,
-      "Sp. Defense": 75,
+      "Sp_Attack": 57,
+      "Sp_Defense": 75,
       "Speed": 80
     }
   },
@@ -2075,8 +2075,8 @@ export const POKEMONS_UNOVA = [
       "HP": 70,
       "Attack": 55,
       "Defense": 75,
-      "Sp. Attack": 45,
-      "Sp. Defense": 65,
+      "Sp_Attack": 45,
+      "Sp_Defense": 65,
       "Speed": 60
     }
   },
@@ -2091,8 +2091,8 @@ export const POKEMONS_UNOVA = [
       "HP": 110,
       "Attack": 65,
       "Defense": 105,
-      "Sp. Attack": 55,
-      "Sp. Defense": 95,
+      "Sp_Attack": 55,
+      "Sp_Defense": 95,
       "Speed": 80
     }
   },
@@ -2106,8 +2106,8 @@ export const POKEMONS_UNOVA = [
       "HP": 85,
       "Attack": 97,
       "Defense": 66,
-      "Sp. Attack": 105,
-      "Sp. Defense": 66,
+      "Sp_Attack": 105,
+      "Sp_Defense": 66,
       "Speed": 65
     }
   },
@@ -2122,8 +2122,8 @@ export const POKEMONS_UNOVA = [
       "HP": 58,
       "Attack": 109,
       "Defense": 112,
-      "Sp. Attack": 48,
-      "Sp. Defense": 48,
+      "Sp_Attack": 48,
+      "Sp_Defense": 48,
       "Speed": 109
     }
   },
@@ -2138,8 +2138,8 @@ export const POKEMONS_UNOVA = [
       "HP": 52,
       "Attack": 65,
       "Defense": 50,
-      "Sp. Attack": 45,
-      "Sp. Defense": 50,
+      "Sp_Attack": 45,
+      "Sp_Defense": 50,
       "Speed": 38
     }
   },
@@ -2154,8 +2154,8 @@ export const POKEMONS_UNOVA = [
       "HP": 72,
       "Attack": 85,
       "Defense": 70,
-      "Sp. Attack": 65,
-      "Sp. Defense": 70,
+      "Sp_Attack": 65,
+      "Sp_Defense": 70,
       "Speed": 58
     }
   },
@@ -2170,8 +2170,8 @@ export const POKEMONS_UNOVA = [
       "HP": 92,
       "Attack": 105,
       "Defense": 90,
-      "Sp. Attack": 125,
-      "Sp. Defense": 90,
+      "Sp_Attack": 125,
+      "Sp_Defense": 90,
       "Speed": 98
     }
   },
@@ -2186,8 +2186,8 @@ export const POKEMONS_UNOVA = [
       "HP": 55,
       "Attack": 85,
       "Defense": 55,
-      "Sp. Attack": 50,
-      "Sp. Defense": 55,
+      "Sp_Attack": 50,
+      "Sp_Defense": 55,
       "Speed": 60
     }
   },
@@ -2202,8 +2202,8 @@ export const POKEMONS_UNOVA = [
       "HP": 85,
       "Attack": 60,
       "Defense": 65,
-      "Sp. Attack": 135,
-      "Sp. Defense": 105,
+      "Sp_Attack": 135,
+      "Sp_Defense": 105,
       "Speed": 100
     }
   },
@@ -2218,8 +2218,8 @@ export const POKEMONS_UNOVA = [
       "HP": 91,
       "Attack": 90,
       "Defense": 129,
-      "Sp. Attack": 90,
-      "Sp. Defense": 72,
+      "Sp_Attack": 90,
+      "Sp_Defense": 72,
       "Speed": 108
     }
   },
@@ -2234,8 +2234,8 @@ export const POKEMONS_UNOVA = [
       "HP": 91,
       "Attack": 129,
       "Defense": 90,
-      "Sp. Attack": 72,
-      "Sp. Defense": 90,
+      "Sp_Attack": 72,
+      "Sp_Defense": 90,
       "Speed": 108
     }
   },
@@ -2250,8 +2250,8 @@ export const POKEMONS_UNOVA = [
       "HP": 91,
       "Attack": 90,
       "Defense": 72,
-      "Sp. Attack": 90,
-      "Sp. Defense": 129,
+      "Sp_Attack": 90,
+      "Sp_Defense": 129,
       "Speed": 108
     }
   },
@@ -2265,8 +2265,8 @@ export const POKEMONS_UNOVA = [
       "HP": 79,
       "Attack": 115,
       "Defense": 70,
-      "Sp. Attack": 125,
-      "Sp. Defense": 80,
+      "Sp_Attack": 125,
+      "Sp_Defense": 80,
       "Speed": 111
     }
   },
@@ -2281,8 +2281,8 @@ export const POKEMONS_UNOVA = [
       "HP": 79,
       "Attack": 115,
       "Defense": 70,
-      "Sp. Attack": 125,
-      "Sp. Defense": 80,
+      "Sp_Attack": 125,
+      "Sp_Defense": 80,
       "Speed": 111
     }
   },
@@ -2297,8 +2297,8 @@ export const POKEMONS_UNOVA = [
       "HP": 100,
       "Attack": 120,
       "Defense": 100,
-      "Sp. Attack": 150,
-      "Sp. Defense": 120,
+      "Sp_Attack": 150,
+      "Sp_Defense": 120,
       "Speed": 90
     }
   },
@@ -2313,8 +2313,8 @@ export const POKEMONS_UNOVA = [
       "HP": 100,
       "Attack": 150,
       "Defense": 120,
-      "Sp. Attack": 120,
-      "Sp. Defense": 100,
+      "Sp_Attack": 120,
+      "Sp_Defense": 100,
       "Speed": 90
     }
   },
@@ -2329,8 +2329,8 @@ export const POKEMONS_UNOVA = [
       "HP": 89,
       "Attack": 125,
       "Defense": 90,
-      "Sp. Attack": 115,
-      "Sp. Defense": 80,
+      "Sp_Attack": 115,
+      "Sp_Defense": 80,
       "Speed": 101
     }
   },
@@ -2345,8 +2345,8 @@ export const POKEMONS_UNOVA = [
       "HP": 125,
       "Attack": 130,
       "Defense": 90,
-      "Sp. Attack": 130,
-      "Sp. Defense": 90,
+      "Sp_Attack": 130,
+      "Sp_Defense": 90,
       "Speed": 95
     }
   },
@@ -2361,8 +2361,8 @@ export const POKEMONS_UNOVA = [
       "HP": 91,
       "Attack": 72,
       "Defense": 90,
-      "Sp. Attack": 129,
-      "Sp. Defense": 90,
+      "Sp_Attack": 129,
+      "Sp_Defense": 90,
       "Speed": 108
     }
   },
@@ -2377,8 +2377,8 @@ export const POKEMONS_UNOVA = [
       "HP": 100,
       "Attack": 77,
       "Defense": 77,
-      "Sp. Attack": 128,
-      "Sp. Defense": 128,
+      "Sp_Attack": 128,
+      "Sp_Defense": 128,
       "Speed": 90
     }
   },
@@ -2393,8 +2393,8 @@ export const POKEMONS_UNOVA = [
       "HP": 71,
       "Attack": 120,
       "Defense": 95,
-      "Sp. Attack": 120,
-      "Sp. Defense": 95,
+      "Sp_Attack": 120,
+      "Sp_Defense": 95,
       "Speed": 99
     }
   }

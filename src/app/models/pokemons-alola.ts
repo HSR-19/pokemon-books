@@ -11,8 +11,8 @@ export const POKEMONS_ALOLA = [
       "HP": 68,
       "Attack": 55,
       "Defense": 55,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "Sp_Attack": 50,
+      "Sp_Defense": 50,
       "Speed": 42
     }
   },
@@ -27,8 +27,8 @@ export const POKEMONS_ALOLA = [
       "HP": 78,
       "Attack": 75,
       "Defense": 75,
-      "Sp. Attack": 70,
-      "Sp. Defense": 70,
+      "Sp_Attack": 70,
+      "Sp_Defense": 70,
       "Speed": 52
     }
   },
@@ -43,8 +43,8 @@ export const POKEMONS_ALOLA = [
       "HP": 78,
       "Attack": 107,
       "Defense": 75,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "Sp_Attack": 100,
+      "Sp_Defense": 100,
       "Speed": 70
     }
   },
@@ -58,8 +58,8 @@ export const POKEMONS_ALOLA = [
       "HP": 45,
       "Attack": 65,
       "Defense": 40,
-      "Sp. Attack": 60,
-      "Sp. Defense": 40,
+      "Sp_Attack": 60,
+      "Sp_Defense": 40,
       "Speed": 70
     }
   },
@@ -73,8 +73,8 @@ export const POKEMONS_ALOLA = [
       "HP": 65,
       "Attack": 85,
       "Defense": 50,
-      "Sp. Attack": 80,
-      "Sp. Defense": 50,
+      "Sp_Attack": 80,
+      "Sp_Defense": 50,
       "Speed": 90
     }
   },
@@ -89,8 +89,8 @@ export const POKEMONS_ALOLA = [
       "HP": 95,
       "Attack": 115,
       "Defense": 90,
-      "Sp. Attack": 80,
-      "Sp. Defense": 90,
+      "Sp_Attack": 80,
+      "Sp_Defense": 90,
       "Speed": 60
     }
   },
@@ -104,8 +104,8 @@ export const POKEMONS_ALOLA = [
       "HP": 50,
       "Attack": 54,
       "Defense": 54,
-      "Sp. Attack": 66,
-      "Sp. Defense": 56,
+      "Sp_Attack": 66,
+      "Sp_Defense": 56,
       "Speed": 40
     }
   },
@@ -119,8 +119,8 @@ export const POKEMONS_ALOLA = [
       "HP": 60,
       "Attack": 69,
       "Defense": 69,
-      "Sp. Attack": 91,
-      "Sp. Defense": 81,
+      "Sp_Attack": 91,
+      "Sp_Defense": 81,
       "Speed": 50
     }
   },
@@ -135,8 +135,8 @@ export const POKEMONS_ALOLA = [
       "HP": 80,
       "Attack": 74,
       "Defense": 74,
-      "Sp. Attack": 126,
-      "Sp. Defense": 116,
+      "Sp_Attack": 126,
+      "Sp_Defense": 116,
       "Speed": 60
     }
   },
@@ -151,8 +151,8 @@ export const POKEMONS_ALOLA = [
       "HP": 35,
       "Attack": 75,
       "Defense": 30,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "Sp_Attack": 30,
+      "Sp_Defense": 30,
       "Speed": 65
     }
   },
@@ -167,8 +167,8 @@ export const POKEMONS_ALOLA = [
       "HP": 55,
       "Attack": 85,
       "Defense": 50,
-      "Sp. Attack": 40,
-      "Sp. Defense": 50,
+      "Sp_Attack": 40,
+      "Sp_Defense": 50,
       "Speed": 75
     }
   },
@@ -183,8 +183,8 @@ export const POKEMONS_ALOLA = [
       "HP": 80,
       "Attack": 120,
       "Defense": 75,
-      "Sp. Attack": 75,
-      "Sp. Defense": 75,
+      "Sp_Attack": 75,
+      "Sp_Defense": 75,
       "Speed": 60
     }
   },
@@ -198,8 +198,8 @@ export const POKEMONS_ALOLA = [
       "HP": 48,
       "Attack": 70,
       "Defense": 30,
-      "Sp. Attack": 30,
-      "Sp. Defense": 30,
+      "Sp_Attack": 30,
+      "Sp_Defense": 30,
       "Speed": 45
     }
   },
@@ -213,8 +213,8 @@ export const POKEMONS_ALOLA = [
       "HP": 88,
       "Attack": 110,
       "Defense": 60,
-      "Sp. Attack": 55,
-      "Sp. Defense": 60,
+      "Sp_Attack": 55,
+      "Sp_Defense": 60,
       "Speed": 45
     }
   },
@@ -228,8 +228,8 @@ export const POKEMONS_ALOLA = [
       "HP": 47,
       "Attack": 62,
       "Defense": 45,
-      "Sp. Attack": 55,
-      "Sp. Defense": 45,
+      "Sp_Attack": 55,
+      "Sp_Defense": 45,
       "Speed": 46
     }
   },
@@ -244,8 +244,8 @@ export const POKEMONS_ALOLA = [
       "HP": 57,
       "Attack": 82,
       "Defense": 95,
-      "Sp. Attack": 55,
-      "Sp. Defense": 75,
+      "Sp_Attack": 55,
+      "Sp_Defense": 75,
       "Speed": 36
     }
   },
@@ -260,8 +260,8 @@ export const POKEMONS_ALOLA = [
       "HP": 77,
       "Attack": 70,
       "Defense": 90,
-      "Sp. Attack": 145,
-      "Sp. Defense": 75,
+      "Sp_Attack": 145,
+      "Sp_Defense": 75,
       "Speed": 43
     }
   },
@@ -275,8 +275,8 @@ export const POKEMONS_ALOLA = [
       "HP": 47,
       "Attack": 82,
       "Defense": 57,
-      "Sp. Attack": 42,
-      "Sp. Defense": 47,
+      "Sp_Attack": 42,
+      "Sp_Defense": 47,
       "Speed": 63
     }
   },
@@ -291,8 +291,8 @@ export const POKEMONS_ALOLA = [
       "HP": 97,
       "Attack": 132,
       "Defense": 77,
-      "Sp. Attack": 62,
-      "Sp. Defense": 67,
+      "Sp_Attack": 62,
+      "Sp_Defense": 67,
       "Speed": 43
     }
   },
@@ -307,8 +307,8 @@ export const POKEMONS_ALOLA = [
       "HP": 75,
       "Attack": 70,
       "Defense": 70,
-      "Sp. Attack": 98,
-      "Sp. Defense": 70,
+      "Sp_Attack": 98,
+      "Sp_Defense": 70,
       "Speed": 93
     }
   },
@@ -323,8 +323,8 @@ export const POKEMONS_ALOLA = [
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
-      "Sp. Attack": 55,
-      "Sp. Defense": 40,
+      "Sp_Attack": 55,
+      "Sp_Defense": 40,
       "Speed": 84
     }
   },
@@ -339,8 +339,8 @@ export const POKEMONS_ALOLA = [
       "HP": 60,
       "Attack": 55,
       "Defense": 60,
-      "Sp. Attack": 95,
-      "Sp. Defense": 70,
+      "Sp_Attack": 95,
+      "Sp_Defense": 70,
       "Speed": 124
     }
   },
@@ -354,8 +354,8 @@ export const POKEMONS_ALOLA = [
       "HP": 45,
       "Attack": 65,
       "Defense": 40,
-      "Sp. Attack": 30,
-      "Sp. Defense": 40,
+      "Sp_Attack": 30,
+      "Sp_Defense": 40,
       "Speed": 60
     }
   },
@@ -369,8 +369,8 @@ export const POKEMONS_ALOLA = [
       "HP": 75,
       "Attack": 115,
       "Defense": 65,
-      "Sp. Attack": 55,
-      "Sp. Defense": 65,
+      "Sp_Attack": 55,
+      "Sp_Defense": 65,
       "Speed": 112
     }
   },
@@ -384,8 +384,8 @@ export const POKEMONS_ALOLA = [
       "HP": 45,
       "Attack": 20,
       "Defense": 20,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "Sp_Attack": 25,
+      "Sp_Defense": 25,
       "Speed": 40
     }
   },
@@ -400,8 +400,8 @@ export const POKEMONS_ALOLA = [
       "HP": 50,
       "Attack": 53,
       "Defense": 62,
-      "Sp. Attack": 43,
-      "Sp. Defense": 52,
+      "Sp_Attack": 43,
+      "Sp_Defense": 52,
       "Speed": 45
     }
   },
@@ -416,8 +416,8 @@ export const POKEMONS_ALOLA = [
       "HP": 50,
       "Attack": 63,
       "Defense": 152,
-      "Sp. Attack": 53,
-      "Sp. Defense": 142,
+      "Sp_Attack": 53,
+      "Sp_Defense": 142,
       "Speed": 35
     }
   },
@@ -431,8 +431,8 @@ export const POKEMONS_ALOLA = [
       "HP": 70,
       "Attack": 100,
       "Defense": 70,
-      "Sp. Attack": 45,
-      "Sp. Defense": 55,
+      "Sp_Attack": 45,
+      "Sp_Defense": 55,
       "Speed": 45
     }
   },
@@ -446,8 +446,8 @@ export const POKEMONS_ALOLA = [
       "HP": 100,
       "Attack": 125,
       "Defense": 100,
-      "Sp. Attack": 55,
-      "Sp. Defense": 85,
+      "Sp_Attack": 55,
+      "Sp_Defense": 85,
       "Speed": 35
     }
   },
@@ -462,8 +462,8 @@ export const POKEMONS_ALOLA = [
       "HP": 38,
       "Attack": 40,
       "Defense": 52,
-      "Sp. Attack": 40,
-      "Sp. Defense": 72,
+      "Sp_Attack": 40,
+      "Sp_Defense": 72,
       "Speed": 27
     }
   },
@@ -478,8 +478,8 @@ export const POKEMONS_ALOLA = [
       "HP": 68,
       "Attack": 70,
       "Defense": 92,
-      "Sp. Attack": 50,
-      "Sp. Defense": 132,
+      "Sp_Attack": 50,
+      "Sp_Defense": 132,
       "Speed": 42
     }
   },
@@ -493,8 +493,8 @@ export const POKEMONS_ALOLA = [
       "HP": 40,
       "Attack": 55,
       "Defense": 35,
-      "Sp. Attack": 50,
-      "Sp. Defense": 35,
+      "Sp_Attack": 50,
+      "Sp_Defense": 35,
       "Speed": 35
     }
   },
@@ -508,8 +508,8 @@ export const POKEMONS_ALOLA = [
       "HP": 70,
       "Attack": 105,
       "Defense": 90,
-      "Sp. Attack": 80,
-      "Sp. Defense": 90,
+      "Sp_Attack": 80,
+      "Sp_Defense": 90,
       "Speed": 45
     }
   },
@@ -524,8 +524,8 @@ export const POKEMONS_ALOLA = [
       "HP": 40,
       "Attack": 35,
       "Defense": 55,
-      "Sp. Attack": 65,
-      "Sp. Defense": 75,
+      "Sp_Attack": 65,
+      "Sp_Defense": 75,
       "Speed": 15
     }
   },
@@ -540,8 +540,8 @@ export const POKEMONS_ALOLA = [
       "HP": 60,
       "Attack": 45,
       "Defense": 80,
-      "Sp. Attack": 90,
-      "Sp. Defense": 100,
+      "Sp_Attack": 90,
+      "Sp_Defense": 100,
       "Speed": 30
     }
   },
@@ -556,8 +556,8 @@ export const POKEMONS_ALOLA = [
       "HP": 48,
       "Attack": 44,
       "Defense": 40,
-      "Sp. Attack": 71,
-      "Sp. Defense": 40,
+      "Sp_Attack": 71,
+      "Sp_Defense": 40,
       "Speed": 77
     }
   },
@@ -572,8 +572,8 @@ export const POKEMONS_ALOLA = [
       "HP": 68,
       "Attack": 64,
       "Defense": 60,
-      "Sp. Attack": 111,
-      "Sp. Defense": 60,
+      "Sp_Attack": 111,
+      "Sp_Defense": 60,
       "Speed": 117
     }
   },
@@ -588,8 +588,8 @@ export const POKEMONS_ALOLA = [
       "HP": 70,
       "Attack": 75,
       "Defense": 50,
-      "Sp. Attack": 45,
-      "Sp. Defense": 50,
+      "Sp_Attack": 45,
+      "Sp_Defense": 50,
       "Speed": 50
     }
   },
@@ -604,8 +604,8 @@ export const POKEMONS_ALOLA = [
       "HP": 120,
       "Attack": 125,
       "Defense": 80,
-      "Sp. Attack": 55,
-      "Sp. Defense": 60,
+      "Sp_Attack": 55,
+      "Sp_Defense": 60,
       "Speed": 60
     }
   },
@@ -619,8 +619,8 @@ export const POKEMONS_ALOLA = [
       "HP": 42,
       "Attack": 30,
       "Defense": 38,
-      "Sp. Attack": 30,
-      "Sp. Defense": 38,
+      "Sp_Attack": 30,
+      "Sp_Defense": 38,
       "Speed": 32
     }
   },
@@ -634,8 +634,8 @@ export const POKEMONS_ALOLA = [
       "HP": 52,
       "Attack": 40,
       "Defense": 48,
-      "Sp. Attack": 40,
-      "Sp. Defense": 48,
+      "Sp_Attack": 40,
+      "Sp_Defense": 48,
       "Speed": 62
     }
   },
@@ -649,8 +649,8 @@ export const POKEMONS_ALOLA = [
       "HP": 72,
       "Attack": 120,
       "Defense": 98,
-      "Sp. Attack": 50,
-      "Sp. Defense": 98,
+      "Sp_Attack": 50,
+      "Sp_Defense": 98,
       "Speed": 72
     }
   },
@@ -664,8 +664,8 @@ export const POKEMONS_ALOLA = [
       "HP": 51,
       "Attack": 52,
       "Defense": 90,
-      "Sp. Attack": 82,
-      "Sp. Defense": 110,
+      "Sp_Attack": 82,
+      "Sp_Defense": 110,
       "Speed": 100
     }
   },
@@ -680,8 +680,8 @@ export const POKEMONS_ALOLA = [
       "HP": 90,
       "Attack": 60,
       "Defense": 80,
-      "Sp. Attack": 90,
-      "Sp. Defense": 110,
+      "Sp_Attack": 90,
+      "Sp_Defense": 110,
       "Speed": 60
     }
   },
@@ -695,8 +695,8 @@ export const POKEMONS_ALOLA = [
       "HP": 100,
       "Attack": 120,
       "Defense": 90,
-      "Sp. Attack": 40,
-      "Sp. Defense": 60,
+      "Sp_Attack": 40,
+      "Sp_Defense": 60,
       "Speed": 80
     }
   },
@@ -711,8 +711,8 @@ export const POKEMONS_ALOLA = [
       "HP": 25,
       "Attack": 35,
       "Defense": 40,
-      "Sp. Attack": 20,
-      "Sp. Defense": 30,
+      "Sp_Attack": 20,
+      "Sp_Defense": 30,
       "Speed": 80
     }
   },
@@ -727,8 +727,8 @@ export const POKEMONS_ALOLA = [
       "HP": 75,
       "Attack": 125,
       "Defense": 140,
-      "Sp. Attack": 60,
-      "Sp. Defense": 90,
+      "Sp_Attack": 60,
+      "Sp_Defense": 90,
       "Speed": 40
     }
   },
@@ -743,8 +743,8 @@ export const POKEMONS_ALOLA = [
       "HP": 55,
       "Attack": 55,
       "Defense": 80,
-      "Sp. Attack": 70,
-      "Sp. Defense": 45,
+      "Sp_Attack": 70,
+      "Sp_Defense": 45,
       "Speed": 15
     }
   },
@@ -759,8 +759,8 @@ export const POKEMONS_ALOLA = [
       "HP": 85,
       "Attack": 75,
       "Defense": 110,
-      "Sp. Attack": 100,
-      "Sp. Defense": 75,
+      "Sp_Attack": 100,
+      "Sp_Defense": 75,
       "Speed": 35
     }
   },
@@ -774,8 +774,8 @@ export const POKEMONS_ALOLA = [
       "HP": 55,
       "Attack": 60,
       "Defense": 130,
-      "Sp. Attack": 30,
-      "Sp. Defense": 130,
+      "Sp_Attack": 30,
+      "Sp_Defense": 130,
       "Speed": 5
     }
   },
@@ -789,8 +789,8 @@ export const POKEMONS_ALOLA = [
       "HP": 95,
       "Attack": 95,
       "Defense": 95,
-      "Sp. Attack": 95,
-      "Sp. Defense": 95,
+      "Sp_Attack": 95,
+      "Sp_Defense": 95,
       "Speed": 59
     }
   },
@@ -804,8 +804,8 @@ export const POKEMONS_ALOLA = [
       "HP": 95,
       "Attack": 95,
       "Defense": 95,
-      "Sp. Attack": 95,
-      "Sp. Defense": 95,
+      "Sp_Attack": 95,
+      "Sp_Defense": 95,
       "Speed": 95
     }
   },
@@ -820,8 +820,8 @@ export const POKEMONS_ALOLA = [
       "HP": 60,
       "Attack": 60,
       "Defense": 100,
-      "Sp. Attack": 60,
-      "Sp. Defense": 100,
+      "Sp_Attack": 60,
+      "Sp_Defense": 100,
       "Speed": 60
     }
   },
@@ -835,8 +835,8 @@ export const POKEMONS_ALOLA = [
       "HP": 65,
       "Attack": 115,
       "Defense": 65,
-      "Sp. Attack": 75,
-      "Sp. Defense": 95,
+      "Sp_Attack": 75,
+      "Sp_Defense": 95,
       "Speed": 65
     }
   },
@@ -851,8 +851,8 @@ export const POKEMONS_ALOLA = [
       "HP": 60,
       "Attack": 78,
       "Defense": 135,
-      "Sp. Attack": 91,
-      "Sp. Defense": 85,
+      "Sp_Attack": 91,
+      "Sp_Defense": 85,
       "Speed": 36
     }
   },
@@ -867,8 +867,8 @@ export const POKEMONS_ALOLA = [
       "HP": 65,
       "Attack": 98,
       "Defense": 63,
-      "Sp. Attack": 40,
-      "Sp. Defense": 73,
+      "Sp_Attack": 40,
+      "Sp_Defense": 73,
       "Speed": 96
     }
   },
@@ -883,8 +883,8 @@ export const POKEMONS_ALOLA = [
       "HP": 55,
       "Attack": 90,
       "Defense": 80,
-      "Sp. Attack": 50,
-      "Sp. Defense": 105,
+      "Sp_Attack": 50,
+      "Sp_Defense": 105,
       "Speed": 96
     }
   },
@@ -899,8 +899,8 @@ export const POKEMONS_ALOLA = [
       "HP": 68,
       "Attack": 105,
       "Defense": 70,
-      "Sp. Attack": 70,
-      "Sp. Defense": 70,
+      "Sp_Attack": 70,
+      "Sp_Defense": 70,
       "Speed": 92
     }
   },
@@ -915,8 +915,8 @@ export const POKEMONS_ALOLA = [
       "HP": 78,
       "Attack": 60,
       "Defense": 85,
-      "Sp. Attack": 135,
-      "Sp. Defense": 91,
+      "Sp_Attack": 135,
+      "Sp_Defense": 91,
       "Speed": 36
     }
   },
@@ -931,8 +931,8 @@ export const POKEMONS_ALOLA = [
       "HP": 70,
       "Attack": 131,
       "Defense": 100,
-      "Sp. Attack": 86,
-      "Sp. Defense": 90,
+      "Sp_Attack": 86,
+      "Sp_Defense": 90,
       "Speed": 40
     }
   },
@@ -946,8 +946,8 @@ export const POKEMONS_ALOLA = [
       "HP": 45,
       "Attack": 55,
       "Defense": 65,
-      "Sp. Attack": 45,
-      "Sp. Defense": 45,
+      "Sp_Attack": 45,
+      "Sp_Defense": 45,
       "Speed": 45
     }
   },
@@ -962,8 +962,8 @@ export const POKEMONS_ALOLA = [
       "HP": 55,
       "Attack": 75,
       "Defense": 90,
-      "Sp. Attack": 65,
-      "Sp. Defense": 70,
+      "Sp_Attack": 65,
+      "Sp_Defense": 70,
       "Speed": 65
     }
   },
@@ -978,8 +978,8 @@ export const POKEMONS_ALOLA = [
       "HP": 75,
       "Attack": 110,
       "Defense": 125,
-      "Sp. Attack": 100,
-      "Sp. Defense": 105,
+      "Sp_Attack": 100,
+      "Sp_Defense": 105,
       "Speed": 85
     }
   },
@@ -994,8 +994,8 @@ export const POKEMONS_ALOLA = [
       "HP": 70,
       "Attack": 115,
       "Defense": 85,
-      "Sp. Attack": 95,
-      "Sp. Defense": 75,
+      "Sp_Attack": 95,
+      "Sp_Defense": 75,
       "Speed": 130
     }
   },
@@ -1010,8 +1010,8 @@ export const POKEMONS_ALOLA = [
       "HP": 70,
       "Attack": 85,
       "Defense": 75,
-      "Sp. Attack": 130,
-      "Sp. Defense": 115,
+      "Sp_Attack": 130,
+      "Sp_Defense": 115,
       "Speed": 95
     }
   },
@@ -1026,8 +1026,8 @@ export const POKEMONS_ALOLA = [
       "HP": 70,
       "Attack": 130,
       "Defense": 115,
-      "Sp. Attack": 85,
-      "Sp. Defense": 95,
+      "Sp_Attack": 85,
+      "Sp_Defense": 95,
       "Speed": 75
     }
   },
@@ -1042,8 +1042,8 @@ export const POKEMONS_ALOLA = [
       "HP": 70,
       "Attack": 75,
       "Defense": 115,
-      "Sp. Attack": 95,
-      "Sp. Defense": 130,
+      "Sp_Attack": 95,
+      "Sp_Defense": 130,
       "Speed": 85
     }
   },
@@ -1057,8 +1057,8 @@ export const POKEMONS_ALOLA = [
       "HP": 43,
       "Attack": 29,
       "Defense": 31,
-      "Sp. Attack": 29,
-      "Sp. Defense": 31,
+      "Sp_Attack": 29,
+      "Sp_Defense": 31,
       "Speed": 37
     }
   },
@@ -1072,8 +1072,8 @@ export const POKEMONS_ALOLA = [
       "HP": 43,
       "Attack": 29,
       "Defense": 131,
-      "Sp. Attack": 29,
-      "Sp. Defense": 131,
+      "Sp_Attack": 29,
+      "Sp_Defense": 131,
       "Speed": 37
     }
   },
@@ -1088,8 +1088,8 @@ export const POKEMONS_ALOLA = [
       "HP": 137,
       "Attack": 137,
       "Defense": 107,
-      "Sp. Attack": 113,
-      "Sp. Defense": 89,
+      "Sp_Attack": 113,
+      "Sp_Defense": 89,
       "Speed": 97
     }
   },
@@ -1104,8 +1104,8 @@ export const POKEMONS_ALOLA = [
       "HP": 137,
       "Attack": 113,
       "Defense": 89,
-      "Sp. Attack": 137,
-      "Sp. Defense": 107,
+      "Sp_Attack": 137,
+      "Sp_Defense": 107,
       "Speed": 97
     }
   },
@@ -1120,8 +1120,8 @@ export const POKEMONS_ALOLA = [
       "HP": 109,
       "Attack": 53,
       "Defense": 47,
-      "Sp. Attack": 127,
-      "Sp. Defense": 131,
+      "Sp_Attack": 127,
+      "Sp_Defense": 131,
       "Speed": 103
     }
   },
@@ -1136,8 +1136,8 @@ export const POKEMONS_ALOLA = [
       "HP": 107,
       "Attack": 139,
       "Defense": 139,
-      "Sp. Attack": 53,
-      "Sp. Defense": 53,
+      "Sp_Attack": 53,
+      "Sp_Defense": 53,
       "Speed": 79
     }
   },
@@ -1152,8 +1152,8 @@ export const POKEMONS_ALOLA = [
       "HP": 71,
       "Attack": 137,
       "Defense": 37,
-      "Sp. Attack": 137,
-      "Sp. Defense": 37,
+      "Sp_Attack": 137,
+      "Sp_Defense": 37,
       "Speed": 151
     }
   },
@@ -1167,8 +1167,8 @@ export const POKEMONS_ALOLA = [
       "HP": 83,
       "Attack": 89,
       "Defense": 71,
-      "Sp. Attack": 173,
-      "Sp. Defense": 71,
+      "Sp_Attack": 173,
+      "Sp_Defense": 71,
       "Speed": 83
     }
   },
@@ -1183,8 +1183,8 @@ export const POKEMONS_ALOLA = [
       "HP": 97,
       "Attack": 101,
       "Defense": 103,
-      "Sp. Attack": 107,
-      "Sp. Defense": 101,
+      "Sp_Attack": 107,
+      "Sp_Defense": 101,
       "Speed": 61
     }
   },
@@ -1199,8 +1199,8 @@ export const POKEMONS_ALOLA = [
       "HP": 59,
       "Attack": 181,
       "Defense": 131,
-      "Sp. Attack": 59,
-      "Sp. Defense": 31,
+      "Sp_Attack": 59,
+      "Sp_Defense": 31,
       "Speed": 109
     }
   },
@@ -1215,8 +1215,8 @@ export const POKEMONS_ALOLA = [
       "HP": 223,
       "Attack": 101,
       "Defense": 53,
-      "Sp. Attack": 97,
-      "Sp. Defense": 53,
+      "Sp_Attack": 97,
+      "Sp_Defense": 53,
       "Speed": 43
     }
   },
@@ -1230,8 +1230,8 @@ export const POKEMONS_ALOLA = [
       "HP": 97,
       "Attack": 107,
       "Defense": 101,
-      "Sp. Attack": 127,
-      "Sp. Defense": 89,
+      "Sp_Attack": 127,
+      "Sp_Defense": 89,
       "Speed": 79
     }
   },
@@ -1246,8 +1246,8 @@ export const POKEMONS_ALOLA = [
       "HP": 80,
       "Attack": 95,
       "Defense": 115,
-      "Sp. Attack": 130,
-      "Sp. Defense": 115,
+      "Sp_Attack": 130,
+      "Sp_Defense": 115,
       "Speed": 65
     }
   },
@@ -1262,8 +1262,8 @@ export const POKEMONS_ALOLA = [
       "HP": 90,
       "Attack": 125,
       "Defense": 80,
-      "Sp. Attack": 90,
-      "Sp. Defense": 90,
+      "Sp_Attack": 90,
+      "Sp_Defense": 90,
       "Speed": 125
     }
   },
@@ -1277,8 +1277,8 @@ export const POKEMONS_ALOLA = [
       "HP": 67,
       "Attack": 73,
       "Defense": 67,
-      "Sp. Attack": 73,
-      "Sp. Defense": 67,
+      "Sp_Attack": 73,
+      "Sp_Defense": 67,
       "Speed": 73
     }
   },
@@ -1293,8 +1293,8 @@ export const POKEMONS_ALOLA = [
       "HP": 73,
       "Attack": 73,
       "Defense": 73,
-      "Sp. Attack": 127,
-      "Sp. Defense": 73,
+      "Sp_Attack": 127,
+      "Sp_Defense": 73,
       "Speed": 121
     }
   },
@@ -1309,8 +1309,8 @@ export const POKEMONS_ALOLA = [
       "HP": 61,
       "Attack": 131,
       "Defense": 211,
-      "Sp. Attack": 53,
-      "Sp. Defense": 101,
+      "Sp_Attack": 53,
+      "Sp_Defense": 101,
       "Speed": 13
     }
   },
@@ -1325,8 +1325,8 @@ export const POKEMONS_ALOLA = [
       "HP": 53,
       "Attack": 127,
       "Defense": 53,
-      "Sp. Attack": 151,
-      "Sp. Defense": 79,
+      "Sp_Attack": 151,
+      "Sp_Defense": 79,
       "Speed": 107
     }
   },
@@ -1340,8 +1340,8 @@ export const POKEMONS_ALOLA = [
       "HP": 88,
       "Attack": 112,
       "Defense": 75,
-      "Sp. Attack": 102,
-      "Sp. Defense": 80,
+      "Sp_Attack": 102,
+      "Sp_Defense": 80,
       "Speed": 143
     }
   },
@@ -1355,8 +1355,8 @@ export const POKEMONS_ALOLA = [
       "HP": 46,
       "Attack": 65,
       "Defense": 65,
-      "Sp. Attack": 55,
-      "Sp. Defense": 35,
+      "Sp_Attack": 55,
+      "Sp_Defense": 35,
       "Speed": 34
     }
   },
@@ -1370,8 +1370,8 @@ export const POKEMONS_ALOLA = [
       "HP": 135,
       "Attack": 143,
       "Defense": 143,
-      "Sp. Attack": 80,
-      "Sp. Defense": 65,
+      "Sp_Attack": 80,
+      "Sp_Defense": 65,
       "Speed": 34
     }
   }
