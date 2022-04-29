@@ -1,5 +1,19 @@
 <mat-toolbar color="primary">
-  <a routerLink="/">ポケモン図鑑</a>
+  <a routerLink="/">ポケモンずかん</a>
+  <div class="spacer">
+    
+    <form class="search" action="/search" method="get">
+      <input type="search" class="search__input" name="q" autocomplete="off" placeholder="ポケモンを検索" [matAutocomplete]="auto">
+      <mat-autocomplete class="search__autocomplete" #auto="matAutocomplete">
+        <mat-option *ngFor="let pokemon of filteredPokemonName | async" [value]="pokemon">
+          {{pokemon}}
+        </mat-option>
+      </mat-autocomplete>
+      <button class="search__button" routerLink="/2">
+        <mat-icon class="mat-18">search</mat-icon>
+      </button>
+    </form>
+  </div>
 </mat-toolbar>
 
 

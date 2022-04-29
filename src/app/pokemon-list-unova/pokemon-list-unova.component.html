@@ -1,0 +1,8 @@
+<!-- divタグは、囲った部分をグループ化してまとめて扱うことができる。classで、そのグループに名前を付ける。 -->
+<div class="grid">
+    <mat-card *ngFor="let pokemon of pokemons" routerLink="/{{ pokemon.id }}"><!-- *ngForというforループで、pokemonsのポケモンを順番に呼び出し、変数pokemonに入れる。routerLinkは、このmat-cardがクリックされたときに遷移する遷移先のURL。ルート「/」がトップ画面で、その配下にpokemon.idごとにページを作る。 -->
+        <!-- <img src="/assets/thumbnails/{{ pokemon.id | number: '3.0' }}.png">pokemon.idの時点では、例えばフシギダネは「1」である。これを3桁にゼロ埋めしたいので、パイプを使い、number: '3.0'と書く。小数点の左側は整数部分の桁数、右側は小数部分の桁数。 -->
+        <img src="https://github.com/HSR-19/pokemon-books/blob/master/src/assets/thumbnails/{{ pokemon.id | number: '3.0' }}.png?raw=true">
+        <p>{{ pokemon.name }}</p><!-- ポケモンの名前を表示 -->
+    </mat-card>
+</div>

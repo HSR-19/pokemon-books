@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { POKEMONS_KANTO } from '../models/pokemons-kanto'; // pokemons-kanto.tsでexportしていたPOKEMONSをimport
+import { POKEMONS_KANTO } from '../models/pokemons-kanto'; // pokemons-kanto.tsでexportしていたPOKEMONS_KANTOをimport
 
 @Component({
   selector: 'pokemon-list-kanto',

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { POKEMONS_JOHTO } from '../models/pokemons-johto'; // pokemons-jhoto.tsでexportしていたPOKEMONSをimport
+import { POKEMONS_JOHTO } from '../models/pokemons-johto'; // pokemons-johto.tsでexportしていたPOKEMONS_JOHTOをimport
 
 @Component({
   selector: 'pokemon-list-johto',

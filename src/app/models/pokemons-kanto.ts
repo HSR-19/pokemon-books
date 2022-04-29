@@ -529,7 +529,7 @@ export const POKEMONS_KANTO = [
     "id": 35,
     "name": "ピッピ",
     "type": [
-      "Fairy"
+      "フェアリー"
     ],
     "base": {
       "HP": 70,
@@ -544,7 +544,7 @@ export const POKEMONS_KANTO = [
     "id": 36,
     "name": "ピクシー",
     "type": [
-      "Fairy"
+      "フェアリー"
     ],
     "base": {
       "HP": 95,
@@ -590,7 +590,7 @@ export const POKEMONS_KANTO = [
     "name": "プリン",
     "type": [
       "ノーマル",
-      "Fairy"
+      "フェアリー"
     ],
     "base": {
       "HP": 115,
@@ -606,7 +606,7 @@ export const POKEMONS_KANTO = [
     "name": "プクリン",
     "type": [
       "ノーマル",
-      "Fairy"
+      "フェアリー"
     ],
     "base": {
       "HP": 140,
@@ -1873,7 +1873,7 @@ export const POKEMONS_KANTO = [
     "name": "バリヤード",
     "type": [
       "エスパー",
-      "Fairy"
+      "フェアリー"
     ],
     "base": {
       "HP": 40,

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { POKEMONS_HOEEN } from '../models/pokemons-hoeen'; // pokemons-hoeen.tsでexportしていたPOKEMONSをimport
+import { POKEMONS_HOEEN } from '../models/pokemons-hoeen'; // pokemons-hoeen.tsでexportしていたPOKEMONS_HOEENをimport
 
 @Component({
   selector: 'pokemon-list-hoeen',

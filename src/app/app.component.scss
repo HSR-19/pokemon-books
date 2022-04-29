@@ -1,0 +1,27 @@
+.spacer {
+    margin-left: 5%;
+}
+
+.search {
+    background-color: white;
+    height: 32px;
+    border-radius: 16px;
+    display: flex;
+    &__input {
+        height: 32px;
+        border: none;
+        background: none;
+        outline: none;
+        padding-left: 16px;
+    }
+    &__button {
+        border: none;
+        background: none;
+    }
+}
+
+.mat-18 {
+    margin-top: 4px;
+    font-size: 22px;
+    color: gray;
+}
