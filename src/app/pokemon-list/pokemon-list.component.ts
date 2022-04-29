@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { POKEMONS_KANTO } from '../models/pokemons-kanto'; // pokemons-kanto.tsでexportしていたPOKEMONS_KANTOをimport
+import { POKEMONS } from '../models/pokemons'; // pokemons-kanto.tsでexportしていたPOKEMONS_KANTOをimport
 
 @Component({
   selector: 'pokemon-list-kanto',
@@ -8,7 +8,7 @@ import { POKEMONS_KANTO } from '../models/pokemons-kanto'; // pokemons-kanto.ts�
 })
 export class PokemonListComponent implements OnInit {
 
-  pokemons = POKEMONS_KANTO; // POKEMONS_KANTOをpokemonsに格納。pokemon-list.component.htmlで使えるようにするため。
+  pokemons = POKEMONS.kanto; // POKEMONS_KANTOをpokemonsに格納。pokemon-list.component.htmlで使えるようにするため。
 
   constructor() { }
 

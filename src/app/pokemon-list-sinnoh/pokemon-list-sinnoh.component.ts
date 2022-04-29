@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { POKEMONS_SINNOH } from '../models/pokemons-sinnoh'; // pokemons-sinnoh.tsでexportしていたPOKEMONS_SINNOHをimport
+import { POKEMONS } from '../models/pokemons'; // pokemons-sinnoh.tsでexportしていたPOKEMONS_SINNOHをimport
 
 @Component({
   selector: 'pokemon-list-sinnoh',
@@ -8,7 +8,7 @@ import { POKEMONS_SINNOH } from '../models/pokemons-sinnoh'; // pokemons-sinnoh.
 })
 export class PokemonListSinnohComponent implements OnInit {
 
-  pokemons = POKEMONS_SINNOH; // POKEMONS_SINNOHをpokemonsに格納。pokemon-list-sinnoh.component.htmlで使えるようにするため。
+  pokemons = POKEMONS.sinnoh; // POKEMONS_SINNOHをpokemonsに格納。pokemon-list-sinnoh.component.htmlで使えるようにするため。
 
   constructor() { }
 

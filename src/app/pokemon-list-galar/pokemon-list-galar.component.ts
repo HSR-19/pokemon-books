@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { POKEMONS_GALAR } from '../models/pokemons-galar'; // pokemons-galar.tsでexportしていたPOKEMONS_GALARをimport
+import { POKEMONS } from '../models/pokemons'; // pokemons-galar.tsでexportしていたPOKEMONS_GALARをimport
 
 @Component({
   selector: 'pokemon-list-galar',
@@ -8,7 +8,7 @@ import { POKEMONS_GALAR } from '../models/pokemons-galar'; // pokemons-galar.ts�
 })
 export class PokemonListGalarComponent implements OnInit {
 
-  pokemons = POKEMONS_GALAR; // POKEMONS_GALARをpokemonsに格納。pokemon-list-galar.component.htmlで使えるようにするため。
+  pokemons = POKEMONS.galar; // POKEMONS_GALARをpokemonsに格納。pokemon-list-galar.component.htmlで使えるようにするため。
 
   constructor() { }
 

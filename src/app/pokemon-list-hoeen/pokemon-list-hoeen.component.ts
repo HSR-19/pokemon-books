@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { POKEMONS_HOEEN } from '../models/pokemons-hoeen'; // pokemons-hoeen.tsでexportしていたPOKEMONS_HOEENをimport
+import { POKEMONS } from '../models/pokemons'; // pokemons-hoeen.tsでexportしていたPOKEMONS_HOEENをimport
 
 @Component({
   selector: 'pokemon-list-hoeen',
@@ -8,7 +8,7 @@ import { POKEMONS_HOEEN } from '../models/pokemons-hoeen'; // pokemons-hoeen.ts�
 })
 export class PokemonListHoeenComponent implements OnInit {
 
-  pokemons = POKEMONS_HOEEN; // POKEMONS_HOEENをpokemonsに格納。pokemon-list-hoeen.component.htmlで使えるようにするため。
+  pokemons = POKEMONS.hoeen; // POKEMONS_HOEENをpokemonsに格納。pokemon-list-hoeen.component.htmlで使えるようにするため。
 
   constructor() { }
 

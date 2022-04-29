@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { POKEMONS_ALOLA } from '../models/pokemons-alola'; // pokemons-alola.tsでexportしていたPOKEMONS_ALOLAをimport
+import { POKEMONS } from '../models/pokemons'; // pokemons-alola.tsでexportしていたPOKEMONS_ALOLAをimport
 
 @Component({
   selector: 'pokemon-list-alola',
@@ -8,7 +8,7 @@ import { POKEMONS_ALOLA } from '../models/pokemons-alola'; // pokemons-alola.ts�
 })
 export class PokemonListAlolaComponent implements OnInit {
 
-  pokemons = POKEMONS_ALOLA; // POKEMONS_JOHTOをpokemonsに格納。pokemon-list-alola.component.htmlで使えるようにするため。
+  pokemons = POKEMONS.alola; // POKEMONS_JOHTOをpokemonsに格納。pokemon-list-alola.component.htmlで使えるようにするため。
 
   constructor() { }
 

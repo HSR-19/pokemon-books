@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { POKEMONS_UNOVA } from '../models/pokemons-unova'; // pokemons-unova.tsでexportしていたPOKEMONS_UNOVAをimport
+import { POKEMONS } from '../models/pokemons'; // pokemons-unova.tsでexportしていたPOKEMONS_UNOVAをimport
 
 @Component({
   selector: 'pokemon-list-unova',
@@ -8,7 +8,7 @@ import { POKEMONS_UNOVA } from '../models/pokemons-unova'; // pokemons-unova.ts�
 })
 export class PokemonListUnovaComponent implements OnInit {
 
-  pokemons = POKEMONS_UNOVA; // POKEMONS_UNOVAをpokemonsに格納。pokemon-list-unova.component.htmlで使えるようにするため。
+  pokemons = POKEMONS.unova; // POKEMONS_UNOVAをpokemonsに格納。pokemon-list-unova.component.htmlで使えるようにするため。
 
   constructor() { }
 
