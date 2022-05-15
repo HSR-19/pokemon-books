@@ -13,7 +13,7 @@ export class AppComponent implements OnInit {
   title = 'ポケモン図鑑';
   control = new FormControl();
   tmp = POKEMONS.kanto
-  pokemons = this.tmp.concat(POKEMONS.johto, POKEMONS.hoeen, POKEMONS.sinnoh, POKEMONS.unova, POKEMONS.kalos, POKEMONS.alola, POKEMONS.galar);
+  pokemons = this.tmp.concat(POKEMONS.johto, POKEMONS.hoeen, POKEMONS.sinnoh, POKEMONS.unova, POKEMONS.kalos, POKEMONS.alola);
   pokemon_name: string[] = this.pokemons.map((obj) => obj.name);
   filteredPokemonName: Observable<string[]> | undefined;
 

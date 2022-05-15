@@ -12553,22 +12553,5 @@ export const POKEMONS = {
         "Speed": 34
       }
     }
-  ],
-  "galar": [
-    {
-      "id": 25,
-      "name": "ピカチュウ",
-      "type": [
-        "でんき"
-      ],
-      "base": {
-        "HP": 35,
-        "Attack": 55,
-        "Defense": 40,
-        "Sp_Attack": 50,
-        "Sp_Defense": 50,
-        "Speed": 90
-      }
-    }
   ]
 }

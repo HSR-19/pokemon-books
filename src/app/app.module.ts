@@ -20,7 +20,6 @@ import { PokemonListSinnohComponent } from './pokemon-list-sinnoh/pokemon-list-s
 import { PokemonListUnovaComponent } from './pokemon-list-unova/pokemon-list-unova.component';
 import { PokemonListKalosComponent } from './pokemon-list-kalos/pokemon-list-kalos.component';
 import { PokemonListAlolaComponent } from './pokemon-list-alola/pokemon-list-alola.component';
-import { PokemonListGalarComponent } from './pokemon-list-galar/pokemon-list-galar.component';
 import { initializeApp,provideFirebaseApp } from '@angular/fire/app';
 import { environment } from '../environments/environment';
 import { provideAnalytics,getAnalytics,ScreenTrackingService,UserTrackingService } from '@angular/fire/analytics';
@@ -42,7 +41,6 @@ import { provideStorage,getStorage } from '@angular/fire/storage';
     PokemonListUnovaComponent,
     PokemonListKalosComponent,
     PokemonListAlolaComponent,
-    PokemonListGalarComponent
   ],
   imports: [
     BrowserModule,

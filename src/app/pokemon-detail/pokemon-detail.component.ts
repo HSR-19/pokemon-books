@@ -11,7 +11,7 @@ import { POKEMONS } from '../models/pokemons'; // pokemons.tsでexportしてい�
 export class PokemonDetailComponent implements OnInit {
 
   tmp = POKEMONS.kanto
-  pokemons = this.tmp.concat(POKEMONS.johto, POKEMONS.hoeen, POKEMONS.sinnoh, POKEMONS.unova, POKEMONS.kalos, POKEMONS.alola, POKEMONS.galar); // POKEMONSをpokemonsに格納。このpokemon-detail.component.tsやpokemon-detail.component.htmlで使えるようにするため。
+  pokemons = this.tmp.concat(POKEMONS.johto, POKEMONS.hoeen, POKEMONS.sinnoh, POKEMONS.unova, POKEMONS.kalos, POKEMONS.alola); // POKEMONSをpokemonsに格納。このpokemon-detail.component.tsやpokemon-detail.component.htmlで使えるようにするため。
   pokemon!: {
     id: number;
     name: string;

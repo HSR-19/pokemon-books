@@ -1,5 +1,5 @@
 <mat-card *ngIf="pokemon" class='pokemon'><!--pokemonが存在したらこのmat-cardを表示。-->
-    <img src="https://github.com/HSR-19/pokemon-books/blob/master/src/assets/images/{{ pokemon.id | number: '3.0'}}.png?raw=true">
+    <img src="https://github.com/HSR-19/pokemon-books/blob/master/src/assets/thumbnails/{{ pokemon.id | number: '3.0'}}.png?raw=true">
     <p>{{ pokemon.name }}</p>
     <p>{{ pokemon.type }}</p>
     <p>たいりょく：{{ pokemon.base.HP }}</p>
