@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "pokemon-books-2f21d"
+  },
+  "targets": {
+    "pokemon-books-2f21d": {
+      "hosting": {
+        "pokemon-books": [
+          "pokemon-books-2f21d"
+        ]
+      }
+    }
   }
 }

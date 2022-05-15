@@ -107,7 +107,14 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "pokemon-books:build:production",
+            "firebaseProject": "pokemon-books-2f21d",
+            "firebaseHostingSite": "pokemon-books-2f21d"
+          }
         }
       }
     }

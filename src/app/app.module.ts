@@ -15,11 +15,19 @@ import {MatTabsModule} from '@angular/material/tabs';
 import {MatSidenavModule} from '@angular/material/sidenav';
 import {MatIconModule} from '@angular/material/icon';
 import {MatAutocompleteModule} from '@angular/material/autocomplete';
+// import { AngularFireStorageModule } from '@angular/fire/storage';
 import { PokemonListSinnohComponent } from './pokemon-list-sinnoh/pokemon-list-sinnoh.component';
 import { PokemonListUnovaComponent } from './pokemon-list-unova/pokemon-list-unova.component';
 import { PokemonListKalosComponent } from './pokemon-list-kalos/pokemon-list-kalos.component';
 import { PokemonListAlolaComponent } from './pokemon-list-alola/pokemon-list-alola.component';
 import { PokemonListGalarComponent } from './pokemon-list-galar/pokemon-list-galar.component';
+import { initializeApp,provideFirebaseApp } from '@angular/fire/app';
+import { environment } from '../environments/environment';
+import { provideAnalytics,getAnalytics,ScreenTrackingService,UserTrackingService } from '@angular/fire/analytics';
+import { provideAuth,getAuth } from '@angular/fire/auth';
+import { provideDatabase,getDatabase } from '@angular/fire/database';
+import { provideFirestore,getFirestore } from '@angular/fire/firestore';
+import { provideStorage,getStorage } from '@angular/fire/storage';
 
 
 @NgModule({
@@ -45,9 +53,18 @@ import { PokemonListGalarComponent } from './pokemon-list-galar/pokemon-list-gal
     MatTabsModule,
     MatSidenavModule,
     MatIconModule,
-    MatAutocompleteModule
+    MatAutocompleteModule,
+    provideFirebaseApp(() => initializeApp(environment.firebase)),
+    provideAnalytics(() => getAnalytics()),
+    provideAuth(() => getAuth()),
+    provideDatabase(() => getDatabase()),
+    provideFirestore(() => getFirestore()),
+    provideStorage(() => getStorage()),
+    // AngularFireStorageModule
   ],
-  providers: [],
+  providers: [
+    ScreenTrackingService,UserTrackingService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
