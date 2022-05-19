@@ -24,6 +24,7 @@ export class PokemonDetailComponent implements OnInit {
       Sp_Defense: number;
       Speed: number;
     };
+    thumbnail: string;
   };
 
   constructor(

@@ -11,5 +11,4 @@ export class SelectPokemonComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
 }

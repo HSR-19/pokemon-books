@@ -15,7 +15,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 65,
         "Speed": 45
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F001.png?alt=media&token=215ae239-2c4d-4878-9d3d-1e9471915f3b"
     },
     {
       "id": 2,
@@ -31,7 +32,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 80,
         "Speed": 60
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F002.png?alt=media&token=5d2ae7bd-e690-49f3-bdd2-6457f31770d8"
     },
     {
       "id": 3,
@@ -47,7 +49,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 100,
         "Speed": 80
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F003.png?alt=media&token=8a5919f6-de91-488d-a1f0-c486376c63b1"
     },
     {
       "id": 4,
@@ -62,7 +65,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 50,
         "Speed": 65
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F004.png?alt=media&token=ae74e533-3b28-4bc5-a4f6-6fc6c12ea3f4"
     },
     {
       "id": 5,
@@ -77,7 +81,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 65,
         "Speed": 80
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F005.png?alt=media&token=8f306e08-19ca-4251-bc74-c5728822021e"
     },
     {
       "id": 6,
@@ -93,7 +98,8 @@ export const POKEMONS = {
         "Sp_Attack": 109,
         "Sp_Defense": 85,
         "Speed": 100
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F006.png?alt=media&token=755bd8e4-6546-4557-aa41-943f9e08cf0b"
     },
     {
       "id": 7,
@@ -108,7 +114,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 64,
         "Speed": 43
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F007.png?alt=media&token=a5aa2ecd-bdf4-47ff-bcea-2ecbdc49788d"
     },
     {
       "id": 8,
@@ -123,7 +130,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 80,
         "Speed": 58
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F008.png?alt=media&token=a863159b-e933-4d19-8949-9bd13f5048fc"
     },
     {
       "id": 9,
@@ -138,7 +146,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 105,
         "Speed": 78
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F009.png?alt=media&token=666645be-4198-4bc6-8437-a9fdaef0293a"
     },
     {
       "id": 10,
@@ -153,7 +162,8 @@ export const POKEMONS = {
         "Sp_Attack": 20,
         "Sp_Defense": 20,
         "Speed": 45
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F010.png?alt=media&token=d5335b72-dbf6-451f-a8d1-0e996fd0c9bc"
     },
     {
       "id": 11,
@@ -168,7 +178,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 25,
         "Speed": 30
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F011.png?alt=media&token=c4f85e6d-4820-4c2b-9870-e6f1782e1ae8"
     },
     {
       "id": 12,
@@ -184,7 +195,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 80,
         "Speed": 70
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F012.png?alt=media&token=4376f2f4-75a4-42ff-96f3-5cca8f79ee9a"
     },
     {
       "id": 13,
@@ -200,7 +212,8 @@ export const POKEMONS = {
         "Sp_Attack": 20,
         "Sp_Defense": 20,
         "Speed": 50
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F013.png?alt=media&token=ef1ce2a6-345e-4289-8a18-119a61d6fca1"
     },
     {
       "id": 14,
@@ -216,7 +229,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 25,
         "Speed": 35
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F014.png?alt=media&token=e86c07a2-c9c5-498d-bc73-1d410fbb1909"
     },
     {
       "id": 15,
@@ -232,7 +246,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 80,
         "Speed": 75
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F015.png?alt=media&token=940eff24-dde0-4cf2-b108-45cff2899b4e"
     },
     {
       "id": 16,
@@ -248,7 +263,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 35,
         "Speed": 56
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F016.png?alt=media&token=a8d17dd2-b2cb-4991-80ce-b2b1b2edaa92"
     },
     {
       "id": 17,
@@ -264,7 +280,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 71
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F017.png?alt=media&token=1d26765c-75fa-4e94-9772-7f5e9acae731"
     },
     {
       "id": 18,
@@ -280,7 +297,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 70,
         "Speed": 101
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F018.png?alt=media&token=08a51488-1cec-4d4e-885c-75b35c50b598"
     },
     {
       "id": 19,
@@ -295,7 +313,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 35,
         "Speed": 72
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F019.png?alt=media&token=3acef9f2-60e9-44a2-8dde-1f02e32a2aaf"
     },
     {
       "id": 20,
@@ -310,7 +329,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 70,
         "Speed": 97
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F020.png?alt=media&token=a67403a3-85c7-4909-a994-8a9c7d46444c"
     },
     {
       "id": 21,
@@ -326,7 +346,8 @@ export const POKEMONS = {
         "Sp_Attack": 31,
         "Sp_Defense": 31,
         "Speed": 70
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F021.png?alt=media&token=e8bd51ec-0540-48b4-b958-17b5b30ccd66"
     },
     {
       "id": 22,
@@ -342,7 +363,8 @@ export const POKEMONS = {
         "Sp_Attack": 61,
         "Sp_Defense": 61,
         "Speed": 100
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F022.png?alt=media&token=99bbd3f5-f5e2-40d0-a1b7-bddc2e0c85d1"
     },
     {
       "id": 23,
@@ -357,7 +379,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 54,
         "Speed": 55
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F023.png?alt=media&token=31d654d9-3928-415d-868b-dc12f69030c9"
     },
     {
       "id": 24,
@@ -372,7 +395,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 79,
         "Speed": 80
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F024.png?alt=media&token=8481af16-aadd-47d2-8b82-ae788436ec23"
     },
     {
       "id": 25,
@@ -387,7 +411,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 90
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F025.png?alt=media&token=7f29c587-e945-4d52-bbad-f8c097449a43"
     },
     {
       "id": 26,
@@ -402,7 +427,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 80,
         "Speed": 110
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F026.png?alt=media&token=4c2eca70-f664-48d2-8221-685e25a8348e"
     },
     {
       "id": 27,
@@ -417,7 +443,8 @@ export const POKEMONS = {
         "Sp_Attack": 20,
         "Sp_Defense": 30,
         "Speed": 40
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F027.png?alt=media&token=a9e2d7c9-ca58-4d4b-83ff-8efba4aff680"
     },
     {
       "id": 28,
@@ -432,7 +459,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 55,
         "Speed": 65
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F028.png?alt=media&token=00c2739c-e677-4ccd-a341-d681ea551088"
     },
     {
       "id": 29,
@@ -447,7 +475,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 41
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F029.png?alt=media&token=e3583437-a498-463b-9923-74b4aebe5320"
     },
     {
       "id": 30,
@@ -462,7 +491,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 55,
         "Speed": 56
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F030.png?alt=media&token=ee3d5360-b0a4-4506-b6f4-dccb28cfd43d"
     },
     {
       "id": 31,
@@ -478,7 +508,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 85,
         "Speed": 76
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F031.png?alt=media&token=4b08883c-5b15-410b-a803-3cc1ae45065d"
     },
     {
       "id": 32,
@@ -493,7 +524,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 50
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F032.png?alt=media&token=f80c1ff2-2652-4786-87cb-3f46d280529b"
     },
     {
       "id": 33,
@@ -508,7 +540,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 55,
         "Speed": 65
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F033.png?alt=media&token=45e92d9d-bd17-425b-a625-902154d70750"
     },
     {
       "id": 34,
@@ -524,7 +557,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 75,
         "Speed": 85
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F034.png?alt=media&token=29d0f6cf-5288-47ac-897a-1b80dfc82873"
     },
     {
       "id": 35,
@@ -539,7 +573,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 65,
         "Speed": 35
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F035.png?alt=media&token=7355f8bc-73eb-42a0-8a44-ce6d2a080295"
     },
     {
       "id": 36,
@@ -554,7 +589,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 90,
         "Speed": 60
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F036.png?alt=media&token=d414c747-1a8d-414d-9cb5-dc34488e950e"
     },
     {
       "id": 37,
@@ -569,7 +605,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 65,
         "Speed": 65
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F037.png?alt=media&token=3d729873-71bd-4958-9f79-a0644f21f096"
     },
     {
       "id": 38,
@@ -584,7 +621,8 @@ export const POKEMONS = {
         "Sp_Attack": 81,
         "Sp_Defense": 100,
         "Speed": 100
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F038.png?alt=media&token=db486cfb-d587-4540-ad85-e318203b36d0"
     },
     {
       "id": 39,
@@ -600,7 +638,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 25,
         "Speed": 20
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F039.png?alt=media&token=85ab2679-016f-4ab3-aefc-7508f93d9ae4"
     },
     {
       "id": 40,
@@ -616,7 +655,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 50,
         "Speed": 45
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F040.png?alt=media&token=23a7841e-8fdc-4b76-9656-012e6d4de52d"
     },
     {
       "id": 41,
@@ -632,7 +672,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 40,
         "Speed": 55
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F041.png?alt=media&token=330aa41e-e074-4d30-bc1a-41fe0ef5fad9"
     },
     {
       "id": 42,
@@ -648,7 +689,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 75,
         "Speed": 90
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F042.png?alt=media&token=f7f4b227-07cc-4544-916a-228fc8bb39b3"
     },
     {
       "id": 43,
@@ -664,7 +706,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 65,
         "Speed": 30
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F043.png?alt=media&token=3e0c356c-8c20-47d8-b75a-e75ab0f49800"
     },
     {
       "id": 44,
@@ -680,7 +723,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 75,
         "Speed": 40
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F044.png?alt=media&token=8bf55a3d-b900-49b1-96e8-57caa7ebfacc"
     },
     {
       "id": 45,
@@ -696,7 +740,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 90,
         "Speed": 50
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F045.png?alt=media&token=3d7b60c4-90e0-4c2f-a8df-830cfaf1fc1f"
     },
     {
       "id": 46,
@@ -712,7 +757,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 55,
         "Speed": 25
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F046.png?alt=media&token=cf5da201-add6-4a74-919d-dc6dd86cf70e"
     },
     {
       "id": 47,
@@ -728,7 +774,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 80,
         "Speed": 30
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F047.png?alt=media&token=98f9af25-36d6-4a10-9c2c-afa8d9cd46d0"
     },
     {
       "id": 48,
@@ -744,7 +791,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 55,
         "Speed": 45
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F047.png?alt=media&token=98f9af25-36d6-4a10-9c2c-afa8d9cd46d0"
     },
     {
       "id": 49,
@@ -760,7 +808,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 75,
         "Speed": 90
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F049.png?alt=media&token=9cc5384c-02a0-4efd-b6a0-a70890b39ecf"
     },
     {
       "id": 50,
@@ -775,7 +824,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 45,
         "Speed": 95
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F050.png?alt=media&token=fe6821e0-0526-463d-9cea-f537fdc76a44"
     },
     {
       "id": 51,
@@ -790,7 +840,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 70,
         "Speed": 120
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F051.png?alt=media&token=f71c0f49-5e4d-4ef4-a0b8-9a817ac273b1"
     },
     {
       "id": 52,
@@ -805,7 +856,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 90
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F052.png?alt=media&token=56382438-dd44-4175-9f11-80524898823e"
     },
     {
       "id": 53,
@@ -820,7 +872,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 65,
         "Speed": 115
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F053.png?alt=media&token=4618a9a9-2437-4460-b18e-5b71ee85ba40"
     },
     {
       "id": 54,
@@ -835,7 +888,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 50,
         "Speed": 55
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F054.png?alt=media&token=4b09c5d8-9468-42f4-802b-d6cbb59ea553"
     },
     {
       "id": 55,
@@ -850,7 +904,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 80,
         "Speed": 85
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F055.png?alt=media&token=e9c31425-bfb2-443c-b8e1-9783b38abc65"
     },
     {
       "id": 56,
@@ -865,7 +920,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 45,
         "Speed": 70
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F056.png?alt=media&token=e86ff3ca-d191-43e1-a5aa-3ce5d0f30030"
     },
     {
       "id": 57,
@@ -880,7 +936,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 70,
         "Speed": 95
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F057.png?alt=media&token=a7e3ed62-fc52-4b50-a53e-3d8b46b90aaf"
     },
     {
       "id": 58,
@@ -895,7 +952,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 50,
         "Speed": 60
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F058.png?alt=media&token=5157440d-65fd-4de0-af58-a3d98c376abb"
     },
     {
       "id": 59,
@@ -910,7 +968,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 80,
         "Speed": 95
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F059.png?alt=media&token=9e72dc75-1c73-458c-8dba-81d728ac1323"
     },
     {
       "id": 60,
@@ -925,7 +984,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 90
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F060.png?alt=media&token=42344f29-bf45-4158-9d46-36b09a677ec1"
     },
     {
       "id": 61,
@@ -940,7 +1000,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 90
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F061.png?alt=media&token=042f7faf-0e04-4ca7-8570-d77e220d137e"
     },
     {
       "id": 62,
@@ -956,7 +1017,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 90,
         "Speed": 70
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F062.png?alt=media&token=65386041-60bb-4ea2-97fe-18627a2d96ce"
     },
     {
       "id": 63,
@@ -971,7 +1033,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 55,
         "Speed": 90
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F063.png?alt=media&token=21391df5-e948-4035-9d40-c844f384bda1"
     },
     {
       "id": 64,
@@ -986,7 +1049,8 @@ export const POKEMONS = {
         "Sp_Attack": 120,
         "Sp_Defense": 70,
         "Speed": 105
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F064.png?alt=media&token=7c9f3f73-2a5a-4d34-95c6-16fee528c227"
     },
     {
       "id": 65,
@@ -1001,7 +1065,8 @@ export const POKEMONS = {
         "Sp_Attack": 135,
         "Sp_Defense": 95,
         "Speed": 120
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F065.png?alt=media&token=8e6bf9d1-d5f0-4e9b-b5dc-dd86e5f5c323"
     },
     {
       "id": 66,
@@ -1016,7 +1081,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 35,
         "Speed": 35
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F066.png?alt=media&token=5c29a180-9acd-47a4-b858-d3015c30c3d9"
     },
     {
       "id": 67,
@@ -1031,7 +1097,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 60,
         "Speed": 45
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F067.png?alt=media&token=a821052f-f9b8-4238-8638-531dc6590b81"
     },
     {
       "id": 68,
@@ -1046,7 +1113,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 85,
         "Speed": 55
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F068.png?alt=media&token=cbe0d051-1ac5-468a-a3d2-59b4d6f24596"
     },
     {
       "id": 69,
@@ -1062,7 +1130,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 30,
         "Speed": 40
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F069.png?alt=media&token=ff9686ca-0002-46ed-b7c4-ffc530453d03"
     },
     {
       "id": 70,
@@ -1078,7 +1147,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 45,
         "Speed": 55
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F070.png?alt=media&token=94776914-c3e4-45b6-bb87-93aad5a810eb"
     },
     {
       "id": 71,
@@ -1094,7 +1164,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 70,
         "Speed": 70
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F071.png?alt=media&token=e14d27d1-2768-48fc-9af2-8a9ebf2d64a4"
     },
     {
       "id": 72,
@@ -1110,7 +1181,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 100,
         "Speed": 70
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F072.png?alt=media&token=fbe917c4-9b69-49d1-b59b-f4c48c86c935"
     },
     {
       "id": 73,
@@ -1126,7 +1198,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 120,
         "Speed": 100
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F073.png?alt=media&token=3c2786dd-f0af-44ba-be7b-909f9702bcbc"
     },
     {
       "id": 74,
@@ -1142,7 +1215,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 20
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F074.png?alt=media&token=6aa46efd-4974-4a3f-9d98-ea3d7ffcb294"
     },
     {
       "id": 75,
@@ -1158,7 +1232,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 45,
         "Speed": 35
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F075.png?alt=media&token=f97a45c1-cda0-49fe-95f9-12d4704a71ea"
     },
     {
       "id": 76,
@@ -1174,7 +1249,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 65,
         "Speed": 45
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F076.png?alt=media&token=c4f3f1ad-5b6c-4a8b-b03c-7092e907d632"
     },
     {
       "id": 77,
@@ -1189,7 +1265,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 65,
         "Speed": 90
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F077.png?alt=media&token=0fa3bf2e-cb4a-4a0b-91ba-a203ab904d5d"
     },
     {
       "id": 78,
@@ -1204,7 +1281,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 80,
         "Speed": 105
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F078.png?alt=media&token=3491bd0f-a4dd-43ad-9614-80e6724bfd80"
     },
     {
       "id": 79,
@@ -1220,7 +1298,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 15
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F079.png?alt=media&token=c165c1dd-724d-4b21-81db-4267789434f9"
     },
     {
       "id": 80,
@@ -1236,7 +1315,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 80,
         "Speed": 30
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F080.png?alt=media&token=3ce24672-d83f-43f1-92b6-960adfc8fe8f"
     },
     {
       "id": 81,
@@ -1252,7 +1332,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 55,
         "Speed": 45
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F081.png?alt=media&token=e902089e-d730-4fc6-a120-23219018c0b9"
     },
     {
       "id": 82,
@@ -1268,7 +1349,8 @@ export const POKEMONS = {
         "Sp_Attack": 120,
         "Sp_Defense": 70,
         "Speed": 70
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F082.png?alt=media&token=3302cf21-58b6-4725-91fd-0e90b3dc3165"
     },
     {
       "id": 83,
@@ -1284,7 +1366,8 @@ export const POKEMONS = {
         "Sp_Attack": 58,
         "Sp_Defense": 62,
         "Speed": 60
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F083.png?alt=media&token=aae38824-4bd2-43f5-9e86-9ae9dd6aa4d7"
     },
     {
       "id": 84,
@@ -1300,7 +1383,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 35,
         "Speed": 75
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F084.png?alt=media&token=7f863fa7-5548-4520-a8d0-863db6bcf45c"
     },
     {
       "id": 85,
@@ -1316,7 +1400,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 60,
         "Speed": 110
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F085.png?alt=media&token=a7a251ef-4e23-409a-99e6-9fefc9ddf567"
     },
     {
       "id": 86,
@@ -1331,7 +1416,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 70,
         "Speed": 45
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F086.png?alt=media&token=209b3be8-58f1-4609-9646-786ae90467d1"
     },
     {
       "id": 87,
@@ -1347,7 +1433,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 95,
         "Speed": 70
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F087.png?alt=media&token=70f4ae07-d672-4be2-a65e-54b8119c7623"
     },
     {
       "id": 88,
@@ -1362,7 +1449,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 50,
         "Speed": 25
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F088.png?alt=media&token=71d82926-ca5d-4b05-95e2-8c07844e9de4"
     },
     {
       "id": 89,
@@ -1377,7 +1465,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 100,
         "Speed": 50
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F089.png?alt=media&token=5c751f93-6d3a-43a0-8226-72efef363b5e"
     },
     {
       "id": 90,
@@ -1392,7 +1481,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 25,
         "Speed": 40
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F090.png?alt=media&token=a84328df-da9b-431d-bd6e-8b1d8c29139d"
     },
     {
       "id": 91,
@@ -1408,7 +1498,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 45,
         "Speed": 70
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F091.png?alt=media&token=4be8720b-a2ce-4147-8d7c-7532ae36f5b6"
     },
     {
       "id": 92,
@@ -1424,7 +1515,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 35,
         "Speed": 80
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F092.png?alt=media&token=240d76b4-a130-4291-8436-f6ba835d207f"
     },
     {
       "id": 93,
@@ -1440,7 +1532,8 @@ export const POKEMONS = {
         "Sp_Attack": 115,
         "Sp_Defense": 55,
         "Speed": 95
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F093.png?alt=media&token=3d9b6067-a1e3-45ce-9c90-511925edad3f"
     },
     {
       "id": 94,
@@ -1456,7 +1549,8 @@ export const POKEMONS = {
         "Sp_Attack": 130,
         "Sp_Defense": 75,
         "Speed": 110
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F094.png?alt=media&token=7424f4ef-fa25-40b8-9101-acb3f8be080c"
     },
     {
       "id": 95,
@@ -1472,7 +1566,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 45,
         "Speed": 70
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F095.png?alt=media&token=edc590f1-1208-4f08-88e9-f6c1526e663c"
     },
     {
       "id": 96,
@@ -1487,7 +1582,8 @@ export const POKEMONS = {
         "Sp_Attack": 43,
         "Sp_Defense": 90,
         "Speed": 42
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F096.png?alt=media&token=9226515e-ae07-4592-ba4d-b0ac79aee8f1"
     },
     {
       "id": 97,
@@ -1502,7 +1598,8 @@ export const POKEMONS = {
         "Sp_Attack": 73,
         "Sp_Defense": 115,
         "Speed": 67
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F097.png?alt=media&token=6463f735-f6f3-4a73-9c20-c0b6d28acf77"
     },
     {
       "id": 98,
@@ -1517,7 +1614,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 25,
         "Speed": 50
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F098.png?alt=media&token=2be75295-6715-4cbc-8d01-7c3fb5f9e4fd"
     },
     {
       "id": 99,
@@ -1532,7 +1630,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 75
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F099.png?alt=media&token=b3430ebd-ab37-4396-9ff3-b49e56086bd4"
     },
     {
       "id": 100,
@@ -1547,7 +1646,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 55,
         "Speed": 100
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F100.png?alt=media&token=a592127a-70f5-4584-b0f8-b4cd931c1bb3"
     },
     {
       "id": 101,
@@ -1562,7 +1662,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 80,
         "Speed": 150
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F101.png?alt=media&token=42e7e0ee-53eb-409a-94fd-5b0a029b46c4"
     },
     {
       "id": 102,
@@ -1578,7 +1679,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 45,
         "Speed": 40
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F102.png?alt=media&token=e1014b55-b74e-40cf-a4c6-0eea5647f9d2"
     },
     {
       "id": 103,
@@ -1594,7 +1696,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 75,
         "Speed": 55
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F103.png?alt=media&token=677004dd-7763-400a-9cff-0c92d05efc39"
     },
     {
       "id": 104,
@@ -1609,7 +1712,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 50,
         "Speed": 35
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F104.png?alt=media&token=b35cefb5-d1ab-4bf3-aa27-d8ccca3b44e2"
     },
     {
       "id": 105,
@@ -1624,7 +1728,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 80,
         "Speed": 45
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F105.png?alt=media&token=9d520cfc-8666-46e8-86ca-b4510ff60588"
     },
     {
       "id": 106,
@@ -1639,7 +1744,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 110,
         "Speed": 87
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F106.png?alt=media&token=f109e388-2310-4e69-b1b9-bd9839fc9a3a"
     },
     {
       "id": 107,
@@ -1654,7 +1760,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 110,
         "Speed": 76
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F107.png?alt=media&token=3525e1f4-5e5e-4ba2-a5b2-01723edae0c3"
     },
     {
       "id": 108,
@@ -1669,7 +1776,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 75,
         "Speed": 30
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F108.png?alt=media&token=b7641326-7d20-4fcb-ba74-3042f1d0c2a8"
     },
     {
       "id": 109,
@@ -1684,7 +1792,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 45,
         "Speed": 35
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F109.png?alt=media&token=141e7de0-dd0e-49cc-9570-fae4d1ddbb6a"
     },
     {
       "id": 110,
@@ -1699,7 +1808,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 70,
         "Speed": 60
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F110.png?alt=media&token=af41b9de-c2a5-4c0e-a8bb-21834c3c3b96"
     },
     {
       "id": 111,
@@ -1715,7 +1825,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 25
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F111.png?alt=media&token=c7799e87-0582-4b1e-894d-c70fa3346b88"
     },
     {
       "id": 112,
@@ -1731,7 +1842,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 45,
         "Speed": 40
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F112.png?alt=media&token=633a2cb3-984c-4b69-a4a1-7ba913c623e6"
     },
     {
       "id": 113,
@@ -1746,7 +1858,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 105,
         "Speed": 50
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F113.png?alt=media&token=5b37c983-630b-40ba-9b4b-8cb6623069be"
     },
     {
       "id": 114,
@@ -1761,7 +1874,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 40,
         "Speed": 60
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F114.png?alt=media&token=31a66be4-c041-48ba-a7e8-46da522b2db2"
     },
     {
       "id": 115,
@@ -1776,7 +1890,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 80,
         "Speed": 90
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F115.png?alt=media&token=5586954d-ca01-4c40-a0ff-bfff7fad19ce"
     },
     {
       "id": 116,
@@ -1791,7 +1906,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 25,
         "Speed": 60
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F116.png?alt=media&token=c23c6b63-3ef9-4765-b072-4d7e8ab26087"
     },
     {
       "id": 117,
@@ -1806,7 +1922,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 45,
         "Speed": 85
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F117.png?alt=media&token=e90965ff-7ec3-4882-a8bc-5bc611527a59"
     },
     {
       "id": 118,
@@ -1821,7 +1938,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 50,
         "Speed": 63
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F118.png?alt=media&token=85f83bf1-ca50-4655-bb89-fb6e8dd0c81d"
     },
     {
       "id": 119,
@@ -1836,7 +1954,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 80,
         "Speed": 68
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F119.png?alt=media&token=3288b123-b449-47e6-b043-6fb492b2e1c0"
     },
     {
       "id": 120,
@@ -1851,7 +1970,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 55,
         "Speed": 85
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F120.png?alt=media&token=b34a4ae6-86af-4e83-84de-d4709c9fd18d"
     },
     {
       "id": 121,
@@ -1867,7 +1987,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 85,
         "Speed": 115
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F121.png?alt=media&token=2f2133af-8bee-4fc6-b6e0-765c3e16fd50"
     },
     {
       "id": 122,
@@ -1883,7 +2004,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 120,
         "Speed": 90
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F122.png?alt=media&token=bdd42f18-a2a7-4d2e-b59d-d18c193b1d69"
     },
     {
       "id": 123,
@@ -1899,7 +2021,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 80,
         "Speed": 105
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F123.png?alt=media&token=25a6ba87-d348-4df6-b395-8b7e3b227452"
     },
     {
       "id": 124,
@@ -1915,7 +2038,8 @@ export const POKEMONS = {
         "Sp_Attack": 115,
         "Sp_Defense": 95,
         "Speed": 95
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F124.png?alt=media&token=b1878177-a27c-416b-aad7-4bf517822096"
     },
     {
       "id": 125,
@@ -1930,7 +2054,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 85,
         "Speed": 105
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F125.png?alt=media&token=31199cf9-da2e-4851-a7ec-a11bc9ec4c34"
     },
     {
       "id": 126,
@@ -1945,7 +2070,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 85,
         "Speed": 93
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F126.png?alt=media&token=9da9c9f2-5c43-4414-afbc-4ea1a5d47dca"
     },
     {
       "id": 127,
@@ -1960,7 +2086,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 70,
         "Speed": 85
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F127.png?alt=media&token=0b254420-759e-431f-a8c1-50a911824eee"
     },
     {
       "id": 128,
@@ -1975,7 +2102,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 70,
         "Speed": 110
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F128.png?alt=media&token=ddcb0e98-53c9-4adc-af21-0587369ac724"
     },
     {
       "id": 129,
@@ -1990,7 +2118,8 @@ export const POKEMONS = {
         "Sp_Attack": 15,
         "Sp_Defense": 20,
         "Speed": 80
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F129.png?alt=media&token=76cf908c-51ab-4e0c-9e75-bb78ed2a9b44"
     },
     {
       "id": 130,
@@ -2006,7 +2135,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 100,
         "Speed": 81
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F130.png?alt=media&token=e398a7bb-7e41-44c9-ac5a-cc477261dffa"
     },
     {
       "id": 131,
@@ -2022,7 +2152,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 95,
         "Speed": 60
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F131.png?alt=media&token=3ee0a211-5b1d-44c8-a420-0e42c157aa59"
     },
     {
       "id": 132,
@@ -2037,7 +2168,8 @@ export const POKEMONS = {
         "Sp_Attack": 48,
         "Sp_Defense": 48,
         "Speed": 48
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F132.png?alt=media&token=cb188d70-fa1b-4497-b6a8-4385f99acf01"
     },
     {
       "id": 133,
@@ -2052,7 +2184,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 65,
         "Speed": 55
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F133.png?alt=media&token=1f4bb7c4-913e-438c-a8ff-8f83fe63a9d1"
     },
     {
       "id": 134,
@@ -2067,7 +2200,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 95,
         "Speed": 65
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F134.png?alt=media&token=fe491d64-6fb0-4cf9-882f-728a09ebf823"
     },
     {
       "id": 135,
@@ -2082,7 +2216,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 95,
         "Speed": 130
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F135.png?alt=media&token=bcd330e6-533f-4b13-ba6d-6bda839db0d2"
     },
     {
       "id": 136,
@@ -2097,7 +2232,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 110,
         "Speed": 65
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F136.png?alt=media&token=9992119e-53c2-46b7-989e-97eb22deb5e2"
     },
     {
       "id": 137,
@@ -2112,7 +2248,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 75,
         "Speed": 40
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F137.png?alt=media&token=0bec222c-3e07-42a6-b030-069b72258d82"
     },
     {
       "id": 138,
@@ -2128,7 +2265,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 55,
         "Speed": 35
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F138.png?alt=media&token=71b86b9f-9506-45a3-9464-759966bddd60"
     },
     {
       "id": 139,
@@ -2144,7 +2282,8 @@ export const POKEMONS = {
         "Sp_Attack": 115,
         "Sp_Defense": 70,
         "Speed": 55
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F139.png?alt=media&token=659f4f1e-4456-449a-a2ba-9ec1b24ab4aa"
     },
     {
       "id": 140,
@@ -2160,7 +2299,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 45,
         "Speed": 55
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F140.png?alt=media&token=a41a5b0d-c8df-416c-a899-a512cacc883e"
     },
     {
       "id": 141,
@@ -2176,7 +2316,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 70,
         "Speed": 80
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F141.png?alt=media&token=772e22a0-2737-43c0-9133-817c33fdf1ea"
     },
     {
       "id": 142,
@@ -2192,7 +2333,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 75,
         "Speed": 130
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F142.png?alt=media&token=76c8f6cc-9276-4908-9a0e-1ca7bc8c9cde"
     },
     {
       "id": 143,
@@ -2207,7 +2349,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 110,
         "Speed": 30
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F143.png?alt=media&token=1198ea76-845e-43c4-af90-e79ecc6c4a5f"
     },
     {
       "id": 144,
@@ -2223,7 +2366,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 125,
         "Speed": 85
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F144.png?alt=media&token=b0a12dc3-5b44-4908-b398-5068db28f8a5"
     },
     {
       "id": 145,
@@ -2239,7 +2383,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 90,
         "Speed": 100
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F145.png?alt=media&token=65a8d880-7c19-4ffa-97f0-6a7758d16975"
     },
     {
       "id": 146,
@@ -2255,7 +2400,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 85,
         "Speed": 90
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F146.png?alt=media&token=5868c9e0-703e-4d13-b25d-39f50f7baeb4"
     },
     {
       "id": 147,
@@ -2270,7 +2416,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 50
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F147.png?alt=media&token=52dfb6b0-1005-4ba4-9e4b-1479c57325f4"
     },
     {
       "id": 148,
@@ -2285,7 +2432,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 70,
         "Speed": 70
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F148.png?alt=media&token=436ba072-137c-4810-bb7a-2e7fbf07c969"
     },
     {
       "id": 149,
@@ -2301,7 +2449,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 100,
         "Speed": 80
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F149.png?alt=media&token=9d135310-64bb-4c4c-8e55-5db76343c189"
     },
     {
       "id": 150,
@@ -2316,7 +2465,8 @@ export const POKEMONS = {
         "Sp_Attack": 154,
         "Sp_Defense": 90,
         "Speed": 130
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F150.png?alt=media&token=08999acc-2b7b-4a68-8afa-78593429f43d"
     },
     {
       "id": 151,
@@ -2331,7 +2481,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 100,
         "Speed": 100
-      }
+      },
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pokemon-books-2f21d.appspot.com/o/thumbnails%2F151.png?alt=media&token=6b275c53-dde7-482d-b21c-8f24bcdf8384"
     }
   ],
   "johto": [
@@ -2348,7 +2499,8 @@ export const POKEMONS = {
         "Sp_Attack": 49,
         "Sp_Defense": 65,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 153,
@@ -2363,7 +2515,8 @@ export const POKEMONS = {
         "Sp_Attack": 63,
         "Sp_Defense": 80,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 154,
@@ -2378,7 +2531,8 @@ export const POKEMONS = {
         "Sp_Attack": 83,
         "Sp_Defense": 100,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 155,
@@ -2393,7 +2547,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 50,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 156,
@@ -2408,7 +2563,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 65,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 157,
@@ -2423,7 +2579,8 @@ export const POKEMONS = {
         "Sp_Attack": 109,
         "Sp_Defense": 85,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 158,
@@ -2438,7 +2595,8 @@ export const POKEMONS = {
         "Sp_Attack": 44,
         "Sp_Defense": 48,
         "Speed": 43
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 159,
@@ -2453,7 +2611,8 @@ export const POKEMONS = {
         "Sp_Attack": 59,
         "Sp_Defense": 63,
         "Speed": 58
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 160,
@@ -2468,7 +2627,8 @@ export const POKEMONS = {
         "Sp_Attack": 79,
         "Sp_Defense": 83,
         "Speed": 78
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 161,
@@ -2483,7 +2643,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 45,
         "Speed": 20
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 162,
@@ -2498,7 +2659,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 55,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 163,
@@ -2514,7 +2676,8 @@ export const POKEMONS = {
         "Sp_Attack": 36,
         "Sp_Defense": 56,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 164,
@@ -2530,7 +2693,8 @@ export const POKEMONS = {
         "Sp_Attack": 86,
         "Sp_Defense": 96,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 165,
@@ -2546,7 +2710,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 80,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 166,
@@ -2562,7 +2727,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 110,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 167,
@@ -2578,7 +2744,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 168,
@@ -2594,7 +2761,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 70,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 169,
@@ -2610,7 +2778,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 80,
         "Speed": 130
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 170,
@@ -2626,7 +2795,8 @@ export const POKEMONS = {
         "Sp_Attack": 56,
         "Sp_Defense": 56,
         "Speed": 67
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 171,
@@ -2642,7 +2812,8 @@ export const POKEMONS = {
         "Sp_Attack": 76,
         "Sp_Defense": 76,
         "Speed": 67
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 172,
@@ -2657,7 +2828,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 35,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 173,
@@ -2672,7 +2844,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 55,
         "Speed": 15
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 174,
@@ -2688,7 +2861,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 20,
         "Speed": 15
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 175,
@@ -2703,7 +2877,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 65,
         "Speed": 20
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 176,
@@ -2719,7 +2894,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 105,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 177,
@@ -2735,7 +2911,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 45,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 178,
@@ -2751,7 +2928,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 70,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 179,
@@ -2766,7 +2944,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 45,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 180,
@@ -2781,7 +2960,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 60,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 181,
@@ -2796,7 +2976,8 @@ export const POKEMONS = {
         "Sp_Attack": 115,
         "Sp_Defense": 90,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 182,
@@ -2811,7 +2992,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 100,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 183,
@@ -2827,7 +3009,8 @@ export const POKEMONS = {
         "Sp_Attack": 20,
         "Sp_Defense": 50,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 184,
@@ -2843,7 +3026,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 80,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 185,
@@ -2858,7 +3042,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 65,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 186,
@@ -2873,7 +3058,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 100,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 187,
@@ -2889,7 +3075,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 55,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 188,
@@ -2905,7 +3092,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 65,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 189,
@@ -2921,7 +3109,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 95,
         "Speed": 110
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 190,
@@ -2936,7 +3125,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 55,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 191,
@@ -2951,7 +3141,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 192,
@@ -2966,7 +3157,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 85,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 193,
@@ -2982,7 +3174,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 45,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 194,
@@ -2998,7 +3191,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 25,
         "Speed": 15
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 195,
@@ -3014,7 +3208,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 65,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 196,
@@ -3029,7 +3224,8 @@ export const POKEMONS = {
         "Sp_Attack": 130,
         "Sp_Defense": 95,
         "Speed": 110
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 197,
@@ -3044,7 +3240,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 130,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 198,
@@ -3060,7 +3257,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 42,
         "Speed": 91
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 199,
@@ -3076,7 +3274,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 110,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 200,
@@ -3091,7 +3290,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 85,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 201,
@@ -3106,7 +3306,8 @@ export const POKEMONS = {
         "Sp_Attack": 72,
         "Sp_Defense": 48,
         "Speed": 48
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 202,
@@ -3121,7 +3322,8 @@ export const POKEMONS = {
         "Sp_Attack": 33,
         "Sp_Defense": 58,
         "Speed": 33
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 203,
@@ -3137,7 +3339,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 65,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 204,
@@ -3152,7 +3355,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 35,
         "Speed": 15
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 205,
@@ -3168,7 +3372,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 60,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 206,
@@ -3183,7 +3388,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 65,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 207,
@@ -3199,7 +3405,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 65,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 208,
@@ -3215,7 +3422,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 65,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 209,
@@ -3230,7 +3438,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 210,
@@ -3245,7 +3454,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 60,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 211,
@@ -3261,7 +3471,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 55,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 212,
@@ -3277,7 +3488,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 80,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 213,
@@ -3293,7 +3505,8 @@ export const POKEMONS = {
         "Sp_Attack": 10,
         "Sp_Defense": 230,
         "Speed": 5
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 214,
@@ -3309,7 +3522,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 95,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 215,
@@ -3325,7 +3539,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 75,
         "Speed": 115
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 216,
@@ -3340,7 +3555,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 217,
@@ -3355,7 +3571,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 75,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 218,
@@ -3370,7 +3587,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 40,
         "Speed": 20
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 219,
@@ -3386,7 +3604,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 80,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 220,
@@ -3402,7 +3621,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 221,
@@ -3418,7 +3638,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 60,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 222,
@@ -3434,7 +3655,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 95,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 223,
@@ -3449,7 +3671,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 35,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 224,
@@ -3464,7 +3687,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 75,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 225,
@@ -3480,7 +3704,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 45,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 226,
@@ -3496,7 +3721,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 140,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 227,
@@ -3512,7 +3738,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 70,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 228,
@@ -3528,7 +3755,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 50,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 229,
@@ -3544,7 +3772,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 80,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 230,
@@ -3560,7 +3789,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 95,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 231,
@@ -3575,7 +3805,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 232,
@@ -3590,7 +3821,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 60,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 233,
@@ -3605,7 +3837,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 95,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 234,
@@ -3620,7 +3853,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 65,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 235,
@@ -3635,7 +3869,8 @@ export const POKEMONS = {
         "Sp_Attack": 20,
         "Sp_Defense": 45,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 236,
@@ -3650,7 +3885,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 35,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 237,
@@ -3665,7 +3901,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 110,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 238,
@@ -3681,7 +3918,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 65,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 239,
@@ -3696,7 +3934,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 55,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 240,
@@ -3711,7 +3950,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 55,
         "Speed": 83
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 241,
@@ -3726,7 +3966,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 70,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 242,
@@ -3741,7 +3982,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 135,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 243,
@@ -3756,7 +3998,8 @@ export const POKEMONS = {
         "Sp_Attack": 115,
         "Sp_Defense": 100,
         "Speed": 115
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 244,
@@ -3771,7 +4014,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 75,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 245,
@@ -3786,7 +4030,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 115,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 246,
@@ -3802,7 +4047,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 50,
         "Speed": 41
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 247,
@@ -3818,7 +4064,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 70,
         "Speed": 51
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 248,
@@ -3834,7 +4081,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 100,
         "Speed": 61
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 249,
@@ -3850,7 +4098,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 154,
         "Speed": 110
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 250,
@@ -3866,7 +4115,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 154,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 251,
@@ -3882,7 +4132,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 100,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     }
   ],
   "hoeen": [
@@ -3899,7 +4150,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 55,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 253,
@@ -3914,7 +4166,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 65,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 254,
@@ -3929,7 +4182,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 85,
         "Speed": 120
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 255,
@@ -3944,7 +4198,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 50,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 256,
@@ -3960,7 +4215,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 60,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 257,
@@ -3976,7 +4232,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 70,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 258,
@@ -3991,7 +4248,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 259,
@@ -4007,7 +4265,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 70,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 260,
@@ -4023,7 +4282,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 90,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 261,
@@ -4038,7 +4298,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 262,
@@ -4053,7 +4314,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 60,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 263,
@@ -4068,7 +4330,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 41,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 264,
@@ -4083,7 +4346,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 61,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 265,
@@ -4098,7 +4362,8 @@ export const POKEMONS = {
         "Sp_Attack": 20,
         "Sp_Defense": 30,
         "Speed": 20
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 266,
@@ -4113,7 +4378,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 25,
         "Speed": 15
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 267,
@@ -4129,7 +4395,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 50,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 268,
@@ -4144,7 +4411,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 25,
         "Speed": 15
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 269,
@@ -4160,7 +4428,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 90,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 270,
@@ -4176,7 +4445,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 50,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 271,
@@ -4192,7 +4462,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 70,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 272,
@@ -4208,7 +4479,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 100,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 273,
@@ -4223,7 +4495,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 274,
@@ -4239,7 +4512,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 40,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 275,
@@ -4255,7 +4529,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 60,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 276,
@@ -4271,7 +4546,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 277,
@@ -4287,7 +4563,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 50,
         "Speed": 125
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 278,
@@ -4303,7 +4580,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 30,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 279,
@@ -4319,7 +4597,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 70,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 280,
@@ -4335,7 +4614,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 35,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 281,
@@ -4351,7 +4631,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 55,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 282,
@@ -4367,7 +4648,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 115,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 283,
@@ -4383,7 +4665,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 52,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 284,
@@ -4399,7 +4682,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 82,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 285,
@@ -4414,7 +4698,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 60,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 286,
@@ -4430,7 +4715,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 60,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 287,
@@ -4445,7 +4731,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 35,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 288,
@@ -4460,7 +4747,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 55,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 289,
@@ -4475,7 +4763,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 65,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 290,
@@ -4491,7 +4780,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 291,
@@ -4507,7 +4797,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 160
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 292,
@@ -4523,7 +4814,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 293,
@@ -4538,7 +4830,8 @@ export const POKEMONS = {
         "Sp_Attack": 51,
         "Sp_Defense": 23,
         "Speed": 28
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 294,
@@ -4553,7 +4846,8 @@ export const POKEMONS = {
         "Sp_Attack": 71,
         "Sp_Defense": 43,
         "Speed": 48
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 295,
@@ -4568,7 +4862,8 @@ export const POKEMONS = {
         "Sp_Attack": 91,
         "Sp_Defense": 73,
         "Speed": 68
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 296,
@@ -4583,7 +4878,8 @@ export const POKEMONS = {
         "Sp_Attack": 20,
         "Sp_Defense": 30,
         "Speed": 25
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 297,
@@ -4598,7 +4894,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 60,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 298,
@@ -4614,7 +4911,8 @@ export const POKEMONS = {
         "Sp_Attack": 20,
         "Sp_Defense": 40,
         "Speed": 20
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 299,
@@ -4629,7 +4927,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 90,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 300,
@@ -4644,7 +4943,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 35,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 301,
@@ -4659,7 +4959,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 55,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 302,
@@ -4675,7 +4976,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 65,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 303,
@@ -4691,7 +4993,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 55,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 304,
@@ -4707,7 +5010,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 305,
@@ -4723,7 +5027,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 306,
@@ -4739,7 +5044,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 60,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 307,
@@ -4755,7 +5061,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 55,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 308,
@@ -4771,7 +5078,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 75,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 309,
@@ -4786,7 +5094,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 40,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 310,
@@ -4801,7 +5110,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 60,
         "Speed": 105
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 311,
@@ -4816,7 +5126,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 75,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 312,
@@ -4831,7 +5142,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 85,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 313,
@@ -4846,7 +5158,8 @@ export const POKEMONS = {
         "Sp_Attack": 47,
         "Sp_Defense": 85,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 314,
@@ -4861,7 +5174,8 @@ export const POKEMONS = {
         "Sp_Attack": 73,
         "Sp_Defense": 85,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 315,
@@ -4877,7 +5191,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 80,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 316,
@@ -4892,7 +5207,8 @@ export const POKEMONS = {
         "Sp_Attack": 43,
         "Sp_Defense": 53,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 317,
@@ -4907,7 +5223,8 @@ export const POKEMONS = {
         "Sp_Attack": 73,
         "Sp_Defense": 83,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 318,
@@ -4923,7 +5240,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 20,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 319,
@@ -4939,7 +5257,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 40,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 320,
@@ -4954,7 +5273,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 35,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 321,
@@ -4969,7 +5289,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 45,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 322,
@@ -4985,7 +5306,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 45,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 323,
@@ -5001,7 +5323,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 75,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 324,
@@ -5016,7 +5339,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 70,
         "Speed": 20
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 325,
@@ -5031,7 +5355,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 80,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 326,
@@ -5046,7 +5371,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 110,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 327,
@@ -5061,7 +5387,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 60,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 328,
@@ -5076,7 +5403,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 45,
         "Speed": 10
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 329,
@@ -5092,7 +5420,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 330,
@@ -5108,7 +5437,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 80,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 331,
@@ -5123,7 +5453,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 40,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 332,
@@ -5139,7 +5470,8 @@ export const POKEMONS = {
         "Sp_Attack": 115,
         "Sp_Defense": 60,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 333,
@@ -5155,7 +5487,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 75,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 334,
@@ -5171,7 +5504,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 105,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 335,
@@ -5186,7 +5520,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 60,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 336,
@@ -5201,7 +5536,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 60,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 337,
@@ -5217,7 +5553,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 85,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 338,
@@ -5233,7 +5570,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 65,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 339,
@@ -5249,7 +5587,8 @@ export const POKEMONS = {
         "Sp_Attack": 46,
         "Sp_Defense": 41,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 340,
@@ -5265,7 +5604,8 @@ export const POKEMONS = {
         "Sp_Attack": 76,
         "Sp_Defense": 71,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 341,
@@ -5280,7 +5620,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 35,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 342,
@@ -5296,7 +5637,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 55,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 343,
@@ -5312,7 +5654,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 70,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 344,
@@ -5328,7 +5671,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 120,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 345,
@@ -5344,7 +5688,8 @@ export const POKEMONS = {
         "Sp_Attack": 61,
         "Sp_Defense": 87,
         "Speed": 23
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 346,
@@ -5360,7 +5705,8 @@ export const POKEMONS = {
         "Sp_Attack": 81,
         "Sp_Defense": 107,
         "Speed": 43
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 347,
@@ -5376,7 +5722,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 50,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 348,
@@ -5392,7 +5739,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 80,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 349,
@@ -5407,7 +5755,8 @@ export const POKEMONS = {
         "Sp_Attack": 10,
         "Sp_Defense": 55,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 350,
@@ -5422,7 +5771,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 125,
         "Speed": 81
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 351,
@@ -5437,7 +5787,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 70,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 352,
@@ -5452,7 +5803,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 120,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 353,
@@ -5467,7 +5819,8 @@ export const POKEMONS = {
         "Sp_Attack": 63,
         "Sp_Defense": 33,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 354,
@@ -5482,7 +5835,8 @@ export const POKEMONS = {
         "Sp_Attack": 83,
         "Sp_Defense": 63,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 355,
@@ -5497,7 +5851,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 90,
         "Speed": 25
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 356,
@@ -5512,7 +5867,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 130,
         "Speed": 25
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 357,
@@ -5528,7 +5884,8 @@ export const POKEMONS = {
         "Sp_Attack": 72,
         "Sp_Defense": 87,
         "Speed": 51
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 358,
@@ -5543,7 +5900,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 90,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 359,
@@ -5558,7 +5916,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 60,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 360,
@@ -5573,7 +5932,8 @@ export const POKEMONS = {
         "Sp_Attack": 23,
         "Sp_Defense": 48,
         "Speed": 23
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 361,
@@ -5588,7 +5948,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 362,
@@ -5603,7 +5964,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 80,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 363,
@@ -5619,7 +5981,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 50,
         "Speed": 25
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 364,
@@ -5635,7 +5998,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 70,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 365,
@@ -5651,7 +6015,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 90,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 366,
@@ -5666,7 +6031,8 @@ export const POKEMONS = {
         "Sp_Attack": 74,
         "Sp_Defense": 55,
         "Speed": 32
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 367,
@@ -5681,7 +6047,8 @@ export const POKEMONS = {
         "Sp_Attack": 94,
         "Sp_Defense": 75,
         "Speed": 52
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 368,
@@ -5696,7 +6063,8 @@ export const POKEMONS = {
         "Sp_Attack": 114,
         "Sp_Defense": 75,
         "Speed": 52
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 369,
@@ -5712,7 +6080,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 65,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 370,
@@ -5727,7 +6096,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 65,
         "Speed": 97
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 371,
@@ -5742,7 +6112,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 30,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 372,
@@ -5757,7 +6128,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 50,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 373,
@@ -5773,7 +6145,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 80,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 374,
@@ -5789,7 +6162,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 60,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 375,
@@ -5805,7 +6179,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 80,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 376,
@@ -5821,7 +6196,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 90,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 377,
@@ -5836,7 +6212,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 100,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 378,
@@ -5851,7 +6228,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 200,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 379,
@@ -5866,7 +6244,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 150,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 380,
@@ -5882,7 +6261,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 130,
         "Speed": 110
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 381,
@@ -5898,7 +6278,8 @@ export const POKEMONS = {
         "Sp_Attack": 130,
         "Sp_Defense": 110,
         "Speed": 110
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 382,
@@ -5913,7 +6294,8 @@ export const POKEMONS = {
         "Sp_Attack": 150,
         "Sp_Defense": 140,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 383,
@@ -5928,7 +6310,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 90,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 384,
@@ -5944,7 +6327,8 @@ export const POKEMONS = {
         "Sp_Attack": 150,
         "Sp_Defense": 90,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 385,
@@ -5960,7 +6344,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 100,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 386,
@@ -5975,7 +6360,8 @@ export const POKEMONS = {
         "Sp_Attack": 150,
         "Sp_Defense": 50,
         "Speed": 150
-      }
+      },
+      "thumbnail": "a"
     },
   ],
   "sinnoh": [
@@ -5992,7 +6378,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 55,
         "Speed": 31
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 388,
@@ -6007,7 +6394,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 65,
         "Speed": 36
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 389,
@@ -6023,7 +6411,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 85,
         "Speed": 56
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 390,
@@ -6038,7 +6427,8 @@ export const POKEMONS = {
         "Sp_Attack": 58,
         "Sp_Defense": 44,
         "Speed": 61
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 391,
@@ -6054,7 +6444,8 @@ export const POKEMONS = {
         "Sp_Attack": 78,
         "Sp_Defense": 52,
         "Speed": 81
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 392,
@@ -6070,7 +6461,8 @@ export const POKEMONS = {
         "Sp_Attack": 104,
         "Sp_Defense": 71,
         "Speed": 108
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 393,
@@ -6085,7 +6477,8 @@ export const POKEMONS = {
         "Sp_Attack": 61,
         "Sp_Defense": 56,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 394,
@@ -6100,7 +6493,8 @@ export const POKEMONS = {
         "Sp_Attack": 81,
         "Sp_Defense": 76,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 395,
@@ -6116,7 +6510,8 @@ export const POKEMONS = {
         "Sp_Attack": 111,
         "Sp_Defense": 101,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 396,
@@ -6132,7 +6527,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 397,
@@ -6148,7 +6544,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 398,
@@ -6164,7 +6561,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 60,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 399,
@@ -6179,7 +6577,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 40,
         "Speed": 31
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 400,
@@ -6195,7 +6594,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 60,
         "Speed": 71
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 401,
@@ -6210,7 +6610,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 41,
         "Speed": 25
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 402,
@@ -6225,7 +6626,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 51,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 403,
@@ -6240,7 +6642,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 34,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 404,
@@ -6255,7 +6658,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 49,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 405,
@@ -6270,7 +6674,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 79,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 406,
@@ -6286,7 +6691,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 70,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 407,
@@ -6302,7 +6708,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 105,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 408,
@@ -6317,7 +6724,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 58
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 409,
@@ -6332,7 +6740,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 50,
         "Speed": 58
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 410,
@@ -6348,7 +6757,8 @@ export const POKEMONS = {
         "Sp_Attack": 42,
         "Sp_Defense": 88,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 411,
@@ -6364,7 +6774,8 @@ export const POKEMONS = {
         "Sp_Attack": 47,
         "Sp_Defense": 138,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 412,
@@ -6379,7 +6790,8 @@ export const POKEMONS = {
         "Sp_Attack": 29,
         "Sp_Defense": 45,
         "Speed": 36
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 413,
@@ -6395,7 +6807,8 @@ export const POKEMONS = {
         "Sp_Attack": 79,
         "Sp_Defense": 105,
         "Speed": 36
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 414,
@@ -6411,7 +6824,8 @@ export const POKEMONS = {
         "Sp_Attack": 94,
         "Sp_Defense": 50,
         "Speed": 66
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 415,
@@ -6427,7 +6841,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 42,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 416,
@@ -6443,7 +6858,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 102,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 417,
@@ -6458,7 +6874,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 90,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 418,
@@ -6473,7 +6890,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 30,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 419,
@@ -6488,7 +6906,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 50,
         "Speed": 115
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 420,
@@ -6503,7 +6922,8 @@ export const POKEMONS = {
         "Sp_Attack": 62,
         "Sp_Defense": 53,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 421,
@@ -6518,7 +6938,8 @@ export const POKEMONS = {
         "Sp_Attack": 87,
         "Sp_Defense": 78,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 422,
@@ -6533,7 +6954,8 @@ export const POKEMONS = {
         "Sp_Attack": 57,
         "Sp_Defense": 62,
         "Speed": 34
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 423,
@@ -6549,7 +6971,8 @@ export const POKEMONS = {
         "Sp_Attack": 92,
         "Sp_Defense": 82,
         "Speed": 39
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 424,
@@ -6564,7 +6987,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 66,
         "Speed": 115
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 425,
@@ -6580,7 +7004,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 44,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 426,
@@ -6596,7 +7021,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 54,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 427,
@@ -6611,7 +7037,8 @@ export const POKEMONS = {
         "Sp_Attack": 44,
         "Sp_Defense": 56,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 428,
@@ -6626,7 +7053,8 @@ export const POKEMONS = {
         "Sp_Attack": 54,
         "Sp_Defense": 96,
         "Speed": 105
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 429,
@@ -6641,7 +7069,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 105,
         "Speed": 105
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 430,
@@ -6657,7 +7086,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 52,
         "Speed": 71
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 431,
@@ -6672,7 +7102,8 @@ export const POKEMONS = {
         "Sp_Attack": 42,
         "Sp_Defense": 37,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 432,
@@ -6687,7 +7118,8 @@ export const POKEMONS = {
         "Sp_Attack": 64,
         "Sp_Defense": 59,
         "Speed": 112
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 433,
@@ -6702,7 +7134,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 50,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 434,
@@ -6718,7 +7151,8 @@ export const POKEMONS = {
         "Sp_Attack": 41,
         "Sp_Defense": 41,
         "Speed": 74
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 435,
@@ -6734,7 +7168,8 @@ export const POKEMONS = {
         "Sp_Attack": 71,
         "Sp_Defense": 61,
         "Speed": 84
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 436,
@@ -6750,7 +7185,8 @@ export const POKEMONS = {
         "Sp_Attack": 24,
         "Sp_Defense": 86,
         "Speed": 23
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 437,
@@ -6766,7 +7202,8 @@ export const POKEMONS = {
         "Sp_Attack": 79,
         "Sp_Defense": 116,
         "Speed": 33
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 438,
@@ -6781,7 +7218,8 @@ export const POKEMONS = {
         "Sp_Attack": 10,
         "Sp_Defense": 45,
         "Speed": 10
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 439,
@@ -6797,7 +7235,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 90,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 440,
@@ -6812,7 +7251,8 @@ export const POKEMONS = {
         "Sp_Attack": 15,
         "Sp_Defense": 65,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 441,
@@ -6828,7 +7268,8 @@ export const POKEMONS = {
         "Sp_Attack": 92,
         "Sp_Defense": 42,
         "Speed": 91
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 442,
@@ -6844,7 +7285,8 @@ export const POKEMONS = {
         "Sp_Attack": 92,
         "Sp_Defense": 108,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 443,
@@ -6860,7 +7302,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 45,
         "Speed": 42
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 444,
@@ -6876,7 +7319,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 55,
         "Speed": 82
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 445,
@@ -6892,7 +7336,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 85,
         "Speed": 102
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 446,
@@ -6907,7 +7352,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 85,
         "Speed": 5
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 447,
@@ -6922,7 +7368,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 40,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 448,
@@ -6938,7 +7385,8 @@ export const POKEMONS = {
         "Sp_Attack": 115,
         "Sp_Defense": 70,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 449,
@@ -6953,7 +7401,8 @@ export const POKEMONS = {
         "Sp_Attack": 38,
         "Sp_Defense": 42,
         "Speed": 32
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 450,
@@ -6968,7 +7417,8 @@ export const POKEMONS = {
         "Sp_Attack": 68,
         "Sp_Defense": 72,
         "Speed": 47
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 451,
@@ -6984,7 +7434,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 55,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 452,
@@ -7000,7 +7451,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 75,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 453,
@@ -7016,7 +7468,8 @@ export const POKEMONS = {
         "Sp_Attack": 61,
         "Sp_Defense": 40,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 454,
@@ -7032,7 +7485,8 @@ export const POKEMONS = {
         "Sp_Attack": 86,
         "Sp_Defense": 65,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 455,
@@ -7047,7 +7501,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 72,
         "Speed": 46
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 456,
@@ -7062,7 +7517,8 @@ export const POKEMONS = {
         "Sp_Attack": 49,
         "Sp_Defense": 61,
         "Speed": 66
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 457,
@@ -7077,7 +7533,8 @@ export const POKEMONS = {
         "Sp_Attack": 69,
         "Sp_Defense": 86,
         "Speed": 91
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 458,
@@ -7093,7 +7550,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 120,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 459,
@@ -7109,7 +7567,8 @@ export const POKEMONS = {
         "Sp_Attack": 62,
         "Sp_Defense": 60,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 460,
@@ -7125,7 +7584,8 @@ export const POKEMONS = {
         "Sp_Attack": 92,
         "Sp_Defense": 85,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 461,
@@ -7141,7 +7601,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 85,
         "Speed": 125
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 462,
@@ -7157,7 +7618,8 @@ export const POKEMONS = {
         "Sp_Attack": 130,
         "Sp_Defense": 90,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 463,
@@ -7172,7 +7634,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 95,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 464,
@@ -7188,7 +7651,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 55,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 465,
@@ -7203,7 +7667,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 50,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 466,
@@ -7218,7 +7683,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 85,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 467,
@@ -7233,7 +7699,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 95,
         "Speed": 83
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 468,
@@ -7249,7 +7716,8 @@ export const POKEMONS = {
         "Sp_Attack": 120,
         "Sp_Defense": 115,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 469,
@@ -7265,7 +7733,8 @@ export const POKEMONS = {
         "Sp_Attack": 116,
         "Sp_Defense": 56,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 470,
@@ -7280,7 +7749,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 65,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 471,
@@ -7295,7 +7765,8 @@ export const POKEMONS = {
         "Sp_Attack": 130,
         "Sp_Defense": 95,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 472,
@@ -7311,7 +7782,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 75,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 473,
@@ -7327,7 +7799,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 60,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 474,
@@ -7342,7 +7815,8 @@ export const POKEMONS = {
         "Sp_Attack": 135,
         "Sp_Defense": 75,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 475,
@@ -7358,7 +7832,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 115,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 476,
@@ -7374,7 +7849,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 150,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 477,
@@ -7389,7 +7865,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 135,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 478,
@@ -7405,7 +7882,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 70,
         "Speed": 110
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 479,
@@ -7421,7 +7899,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 77,
         "Speed": 91
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 480,
@@ -7436,7 +7915,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 130,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 481,
@@ -7451,7 +7931,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 105,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 482,
@@ -7466,7 +7947,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 70,
         "Speed": 115
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 483,
@@ -7482,7 +7964,8 @@ export const POKEMONS = {
         "Sp_Attack": 150,
         "Sp_Defense": 100,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 484,
@@ -7498,7 +7981,8 @@ export const POKEMONS = {
         "Sp_Attack": 150,
         "Sp_Defense": 120,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 485,
@@ -7514,7 +7998,8 @@ export const POKEMONS = {
         "Sp_Attack": 130,
         "Sp_Defense": 106,
         "Speed": 77
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 486,
@@ -7529,7 +8014,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 110,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 487,
@@ -7545,7 +8031,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 120,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 488,
@@ -7560,7 +8047,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 130,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 489,
@@ -7575,7 +8063,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 80,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 490,
@@ -7590,7 +8079,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 100,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 491,
@@ -7605,7 +8095,8 @@ export const POKEMONS = {
         "Sp_Attack": 135,
         "Sp_Defense": 90,
         "Speed": 125
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 492,
@@ -7620,7 +8111,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 100,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 493,
@@ -7635,7 +8127,8 @@ export const POKEMONS = {
         "Sp_Attack": 120,
         "Sp_Defense": 120,
         "Speed": 120
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 494,
@@ -7651,7 +8144,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 100,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
   ],
   "unova": [
@@ -7668,7 +8162,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 55,
         "Speed": 63
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 496,
@@ -7683,7 +8178,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 75,
         "Speed": 83
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 497,
@@ -7698,7 +8194,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 95,
         "Speed": 113
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 498,
@@ -7713,7 +8210,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 45,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 499,
@@ -7729,7 +8227,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 55,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 500,
@@ -7745,7 +8244,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 65,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 501,
@@ -7760,7 +8260,8 @@ export const POKEMONS = {
         "Sp_Attack": 63,
         "Sp_Defense": 45,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 502,
@@ -7775,7 +8276,8 @@ export const POKEMONS = {
         "Sp_Attack": 83,
         "Sp_Defense": 60,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 503,
@@ -7790,7 +8292,8 @@ export const POKEMONS = {
         "Sp_Attack": 108,
         "Sp_Defense": 70,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 504,
@@ -7805,7 +8308,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 39,
         "Speed": 42
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 505,
@@ -7820,7 +8324,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 69,
         "Speed": 77
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 506,
@@ -7835,7 +8340,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 45,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 507,
@@ -7850,7 +8356,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 65,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 508,
@@ -7865,7 +8372,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 90,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 509,
@@ -7880,7 +8388,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 37,
         "Speed": 66
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 510,
@@ -7895,7 +8404,8 @@ export const POKEMONS = {
         "Sp_Attack": 88,
         "Sp_Defense": 50,
         "Speed": 106
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 511,
@@ -7910,7 +8420,8 @@ export const POKEMONS = {
         "Sp_Attack": 53,
         "Sp_Defense": 48,
         "Speed": 64
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 512,
@@ -7925,7 +8436,8 @@ export const POKEMONS = {
         "Sp_Attack": 98,
         "Sp_Defense": 63,
         "Speed": 101
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 513,
@@ -7940,7 +8452,8 @@ export const POKEMONS = {
         "Sp_Attack": 53,
         "Sp_Defense": 48,
         "Speed": 64
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 514,
@@ -7955,7 +8468,8 @@ export const POKEMONS = {
         "Sp_Attack": 98,
         "Sp_Defense": 63,
         "Speed": 101
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 515,
@@ -7970,7 +8484,8 @@ export const POKEMONS = {
         "Sp_Attack": 53,
         "Sp_Defense": 48,
         "Speed": 64
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 516,
@@ -7985,7 +8500,8 @@ export const POKEMONS = {
         "Sp_Attack": 98,
         "Sp_Defense": 63,
         "Speed": 101
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 517,
@@ -8000,7 +8516,8 @@ export const POKEMONS = {
         "Sp_Attack": 67,
         "Sp_Defense": 55,
         "Speed": 24
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 518,
@@ -8015,7 +8532,8 @@ export const POKEMONS = {
         "Sp_Attack": 107,
         "Sp_Defense": 95,
         "Speed": 29
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 519,
@@ -8031,7 +8549,8 @@ export const POKEMONS = {
         "Sp_Attack": 36,
         "Sp_Defense": 30,
         "Speed": 43
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 520,
@@ -8047,7 +8566,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 42,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 521,
@@ -8063,7 +8583,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 55,
         "Speed": 93
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 522,
@@ -8078,7 +8599,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 32,
         "Speed": 76
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 523,
@@ -8093,7 +8615,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 63,
         "Speed": 116
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 524,
@@ -8108,7 +8631,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 25,
         "Speed": 15
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 525,
@@ -8123,7 +8647,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 40,
         "Speed": 20
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 526,
@@ -8138,7 +8663,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 80,
         "Speed": 25
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 527,
@@ -8154,7 +8680,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 43,
         "Speed": 72
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 528,
@@ -8170,7 +8697,8 @@ export const POKEMONS = {
         "Sp_Attack": 77,
         "Sp_Defense": 55,
         "Speed": 114
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 529,
@@ -8185,7 +8713,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 45,
         "Speed": 68
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 530,
@@ -8201,7 +8730,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 65,
         "Speed": 88
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 531,
@@ -8216,7 +8746,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 86,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 532,
@@ -8231,7 +8762,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 35,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 533,
@@ -8246,7 +8778,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 50,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 534,
@@ -8261,7 +8794,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 65,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 535,
@@ -8276,7 +8810,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 40,
         "Speed": 64
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 536,
@@ -8292,7 +8827,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 55,
         "Speed": 69
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 537,
@@ -8308,7 +8844,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 75,
         "Speed": 74
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 538,
@@ -8323,7 +8860,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 85,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 539,
@@ -8338,7 +8876,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 75,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 540,
@@ -8354,7 +8893,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 60,
         "Speed": 42
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 541,
@@ -8370,7 +8910,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 80,
         "Speed": 42
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 542,
@@ -8386,7 +8927,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 80,
         "Speed": 92
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 543,
@@ -8402,7 +8944,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 39,
         "Speed": 57
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 544,
@@ -8418,7 +8961,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 79,
         "Speed": 47
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 545,
@@ -8434,7 +8978,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 69,
         "Speed": 112
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 546,
@@ -8450,7 +8995,8 @@ export const POKEMONS = {
         "Sp_Attack": 37,
         "Sp_Defense": 50,
         "Speed": 66
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 547,
@@ -8466,7 +9012,8 @@ export const POKEMONS = {
         "Sp_Attack": 77,
         "Sp_Defense": 75,
         "Speed": 116
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 548,
@@ -8481,7 +9028,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 50,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 549,
@@ -8496,7 +9044,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 75,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 550,
@@ -8511,7 +9060,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 55,
         "Speed": 98
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 551,
@@ -8527,7 +9077,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 35,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 552,
@@ -8543,7 +9094,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 45,
         "Speed": 74
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 553,
@@ -8559,7 +9111,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 70,
         "Speed": 92
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 554,
@@ -8574,7 +9127,8 @@ export const POKEMONS = {
         "Sp_Attack": 15,
         "Sp_Defense": 45,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 555,
@@ -8589,7 +9143,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 55,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 556,
@@ -8604,7 +9159,8 @@ export const POKEMONS = {
         "Sp_Attack": 106,
         "Sp_Defense": 67,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 557,
@@ -8620,7 +9176,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 35,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 558,
@@ -8636,7 +9193,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 75,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 559,
@@ -8652,7 +9210,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 70,
         "Speed": 48
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 560,
@@ -8668,7 +9227,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 115,
         "Speed": 58
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 561,
@@ -8684,7 +9244,8 @@ export const POKEMONS = {
         "Sp_Attack": 103,
         "Sp_Defense": 80,
         "Speed": 97
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 562,
@@ -8699,7 +9260,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 65,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 563,
@@ -8714,7 +9276,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 105,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 564,
@@ -8730,7 +9293,8 @@ export const POKEMONS = {
         "Sp_Attack": 53,
         "Sp_Defense": 45,
         "Speed": 22
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 565,
@@ -8746,7 +9310,8 @@ export const POKEMONS = {
         "Sp_Attack": 83,
         "Sp_Defense": 65,
         "Speed": 32
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 566,
@@ -8762,7 +9327,8 @@ export const POKEMONS = {
         "Sp_Attack": 74,
         "Sp_Defense": 45,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 567,
@@ -8778,7 +9344,8 @@ export const POKEMONS = {
         "Sp_Attack": 112,
         "Sp_Defense": 65,
         "Speed": 110
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 568,
@@ -8793,7 +9360,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 62,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 569,
@@ -8808,7 +9376,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 82,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 570,
@@ -8823,7 +9392,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 40,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 571,
@@ -8838,7 +9408,8 @@ export const POKEMONS = {
         "Sp_Attack": 120,
         "Sp_Defense": 60,
         "Speed": 105
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 572,
@@ -8853,7 +9424,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 573,
@@ -8868,7 +9440,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 60,
         "Speed": 115
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 574,
@@ -8883,7 +9456,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 65,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 575,
@@ -8898,7 +9472,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 85,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 576,
@@ -8913,7 +9488,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 110,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 577,
@@ -8928,7 +9504,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 50,
         "Speed": 20
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 578,
@@ -8943,7 +9520,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 60,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 579,
@@ -8958,7 +9536,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 85,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 580,
@@ -8974,7 +9553,8 @@ export const POKEMONS = {
         "Sp_Attack": 44,
         "Sp_Defense": 50,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 581,
@@ -8990,7 +9570,8 @@ export const POKEMONS = {
         "Sp_Attack": 87,
         "Sp_Defense": 63,
         "Speed": 98
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 582,
@@ -9005,7 +9586,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 60,
         "Speed": 44
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 583,
@@ -9020,7 +9602,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 75,
         "Speed": 59
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 584,
@@ -9035,7 +9618,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 95,
         "Speed": 79
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 585,
@@ -9051,7 +9635,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 50,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 586,
@@ -9067,7 +9652,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 70,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 587,
@@ -9083,7 +9669,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 60,
         "Speed": 103
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 588,
@@ -9098,7 +9685,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 45,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 589,
@@ -9114,7 +9702,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 105,
         "Speed": 20
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 590,
@@ -9130,7 +9719,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 55,
         "Speed": 15
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 591,
@@ -9146,7 +9736,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 80,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 592,
@@ -9162,7 +9753,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 85,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 593,
@@ -9178,7 +9770,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 105,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 594,
@@ -9193,7 +9786,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 45,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 595,
@@ -9209,7 +9803,8 @@ export const POKEMONS = {
         "Sp_Attack": 57,
         "Sp_Defense": 50,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 596,
@@ -9225,7 +9820,8 @@ export const POKEMONS = {
         "Sp_Attack": 97,
         "Sp_Defense": 60,
         "Speed": 108
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 597,
@@ -9241,7 +9837,8 @@ export const POKEMONS = {
         "Sp_Attack": 24,
         "Sp_Defense": 86,
         "Speed": 10
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 598,
@@ -9257,7 +9854,8 @@ export const POKEMONS = {
         "Sp_Attack": 54,
         "Sp_Defense": 116,
         "Speed": 20
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 599,
@@ -9272,7 +9870,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 60,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 600,
@@ -9287,7 +9886,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 85,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 601,
@@ -9302,7 +9902,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 85,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 602,
@@ -9317,7 +9918,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 40,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 603,
@@ -9332,7 +9934,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 70,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 604,
@@ -9347,7 +9950,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 80,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 605,
@@ -9362,7 +9966,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 55,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 606,
@@ -9377,7 +9982,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 95,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 607,
@@ -9393,7 +9999,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 55,
         "Speed": 20
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 608,
@@ -9409,7 +10016,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 60,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 609,
@@ -9425,7 +10033,8 @@ export const POKEMONS = {
         "Sp_Attack": 145,
         "Sp_Defense": 90,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 610,
@@ -9440,7 +10049,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 40,
         "Speed": 57
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 611,
@@ -9455,7 +10065,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 50,
         "Speed": 67
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 612,
@@ -9470,7 +10081,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 70,
         "Speed": 97
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 613,
@@ -9485,7 +10097,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 40,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 614,
@@ -9500,7 +10113,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 80,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 615,
@@ -9515,7 +10129,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 135,
         "Speed": 105
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 616,
@@ -9530,7 +10145,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 65,
         "Speed": 25
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 617,
@@ -9545,7 +10161,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 60,
         "Speed": 145
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 618,
@@ -9561,7 +10178,8 @@ export const POKEMONS = {
         "Sp_Attack": 81,
         "Sp_Defense": 99,
         "Speed": 32
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 619,
@@ -9576,7 +10194,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 50,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 620,
@@ -9591,7 +10210,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 60,
         "Speed": 105
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 621,
@@ -9606,7 +10226,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 90,
         "Speed": 48
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 622,
@@ -9622,7 +10243,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 50,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 623,
@@ -9638,7 +10260,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 80,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 624,
@@ -9654,7 +10277,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 40,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 625,
@@ -9670,7 +10294,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 70,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 626,
@@ -9685,7 +10310,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 95,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 627,
@@ -9701,7 +10327,8 @@ export const POKEMONS = {
         "Sp_Attack": 37,
         "Sp_Defense": 50,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 628,
@@ -9717,7 +10344,8 @@ export const POKEMONS = {
         "Sp_Attack": 57,
         "Sp_Defense": 75,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 629,
@@ -9733,7 +10361,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 65,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 630,
@@ -9749,7 +10378,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 95,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 631,
@@ -9764,7 +10394,8 @@ export const POKEMONS = {
         "Sp_Attack": 105,
         "Sp_Defense": 66,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 632,
@@ -9780,7 +10411,8 @@ export const POKEMONS = {
         "Sp_Attack": 48,
         "Sp_Defense": 48,
         "Speed": 109
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 633,
@@ -9796,7 +10428,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 50,
         "Speed": 38
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 634,
@@ -9812,7 +10445,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 70,
         "Speed": 58
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 635,
@@ -9828,7 +10462,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 90,
         "Speed": 98
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 636,
@@ -9844,7 +10479,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 55,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 637,
@@ -9860,7 +10496,8 @@ export const POKEMONS = {
         "Sp_Attack": 135,
         "Sp_Defense": 105,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 638,
@@ -9876,7 +10513,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 72,
         "Speed": 108
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 639,
@@ -9892,7 +10530,8 @@ export const POKEMONS = {
         "Sp_Attack": 72,
         "Sp_Defense": 90,
         "Speed": 108
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 640,
@@ -9908,7 +10547,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 129,
         "Speed": 108
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 641,
@@ -9923,7 +10563,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 80,
         "Speed": 111
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 642,
@@ -9939,7 +10580,8 @@ export const POKEMONS = {
         "Sp_Attack": 125,
         "Sp_Defense": 80,
         "Speed": 111
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 643,
@@ -9955,7 +10597,8 @@ export const POKEMONS = {
         "Sp_Attack": 150,
         "Sp_Defense": 120,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 644,
@@ -9971,7 +10614,8 @@ export const POKEMONS = {
         "Sp_Attack": 120,
         "Sp_Defense": 100,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 645,
@@ -9987,7 +10631,8 @@ export const POKEMONS = {
         "Sp_Attack": 115,
         "Sp_Defense": 80,
         "Speed": 101
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 646,
@@ -10003,7 +10648,8 @@ export const POKEMONS = {
         "Sp_Attack": 130,
         "Sp_Defense": 90,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 647,
@@ -10019,7 +10665,8 @@ export const POKEMONS = {
         "Sp_Attack": 129,
         "Sp_Defense": 90,
         "Speed": 108
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 648,
@@ -10035,7 +10682,8 @@ export const POKEMONS = {
         "Sp_Attack": 128,
         "Sp_Defense": 128,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 649,
@@ -10051,7 +10699,8 @@ export const POKEMONS = {
         "Sp_Attack": 120,
         "Sp_Defense": 95,
         "Speed": 99
-      }
+      },
+      "thumbnail": "a"
     },
   ],
   "kalos": [
@@ -10068,7 +10717,8 @@ export const POKEMONS = {
         "Sp_Attack": 48,
         "Sp_Defense": 45,
         "Speed": 38
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 651,
@@ -10083,7 +10733,8 @@ export const POKEMONS = {
         "Sp_Attack": 56,
         "Sp_Defense": 58,
         "Speed": 57
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 652,
@@ -10099,7 +10750,8 @@ export const POKEMONS = {
         "Sp_Attack": 74,
         "Sp_Defense": 75,
         "Speed": 64
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 653,
@@ -10114,7 +10766,8 @@ export const POKEMONS = {
         "Sp_Attack": 62,
         "Sp_Defense": 60,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 654,
@@ -10129,7 +10782,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 70,
         "Speed": 73
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 655,
@@ -10145,7 +10799,8 @@ export const POKEMONS = {
         "Sp_Attack": 114,
         "Sp_Defense": 100,
         "Speed": 104
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 656,
@@ -10160,7 +10815,8 @@ export const POKEMONS = {
         "Sp_Attack": 62,
         "Sp_Defense": 44,
         "Speed": 71
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 657,
@@ -10175,7 +10831,8 @@ export const POKEMONS = {
         "Sp_Attack": 83,
         "Sp_Defense": 56,
         "Speed": 97
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 658,
@@ -10191,7 +10848,8 @@ export const POKEMONS = {
         "Sp_Attack": 103,
         "Sp_Defense": 71,
         "Speed": 122
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 659,
@@ -10206,7 +10864,8 @@ export const POKEMONS = {
         "Sp_Attack": 32,
         "Sp_Defense": 36,
         "Speed": 57
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 660,
@@ -10222,7 +10881,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 77,
         "Speed": 78
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 661,
@@ -10238,7 +10898,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 38,
         "Speed": 62
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 662,
@@ -10254,7 +10915,8 @@ export const POKEMONS = {
         "Sp_Attack": 56,
         "Sp_Defense": 52,
         "Speed": 84
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 663,
@@ -10270,7 +10932,8 @@ export const POKEMONS = {
         "Sp_Attack": 74,
         "Sp_Defense": 69,
         "Speed": 126
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 664,
@@ -10285,7 +10948,8 @@ export const POKEMONS = {
         "Sp_Attack": 27,
         "Sp_Defense": 25,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 665,
@@ -10300,7 +10964,8 @@ export const POKEMONS = {
         "Sp_Attack": 27,
         "Sp_Defense": 30,
         "Speed": 29
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 666,
@@ -10316,7 +10981,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 50,
         "Speed": 89
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 667,
@@ -10332,7 +10998,8 @@ export const POKEMONS = {
         "Sp_Attack": 73,
         "Sp_Defense": 54,
         "Speed": 72
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 668,
@@ -10348,7 +11015,8 @@ export const POKEMONS = {
         "Sp_Attack": 109,
         "Sp_Defense": 66,
         "Speed": 106
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 669,
@@ -10363,7 +11031,8 @@ export const POKEMONS = {
         "Sp_Attack": 61,
         "Sp_Defense": 79,
         "Speed": 42
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 670,
@@ -10378,7 +11047,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 98,
         "Speed": 52
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 671,
@@ -10393,7 +11063,8 @@ export const POKEMONS = {
         "Sp_Attack": 112,
         "Sp_Defense": 154,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 672,
@@ -10408,7 +11079,8 @@ export const POKEMONS = {
         "Sp_Attack": 62,
         "Sp_Defense": 57,
         "Speed": 52
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 673,
@@ -10423,7 +11095,8 @@ export const POKEMONS = {
         "Sp_Attack": 97,
         "Sp_Defense": 81,
         "Speed": 68
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 674,
@@ -10438,7 +11111,8 @@ export const POKEMONS = {
         "Sp_Attack": 46,
         "Sp_Defense": 48,
         "Speed": 43
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 675,
@@ -10454,7 +11128,8 @@ export const POKEMONS = {
         "Sp_Attack": 69,
         "Sp_Defense": 71,
         "Speed": 58
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 676,
@@ -10469,7 +11144,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 90,
         "Speed": 102
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 677,
@@ -10484,7 +11160,8 @@ export const POKEMONS = {
         "Sp_Attack": 63,
         "Sp_Defense": 60,
         "Speed": 68
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 678,
@@ -10499,7 +11176,8 @@ export const POKEMONS = {
         "Sp_Attack": 83,
         "Sp_Defense": 81,
         "Speed": 104
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 679,
@@ -10515,7 +11193,8 @@ export const POKEMONS = {
         "Sp_Attack": 35,
         "Sp_Defense": 37,
         "Speed": 28
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 680,
@@ -10531,7 +11210,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 49,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 681,
@@ -10547,7 +11227,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 150,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 682,
@@ -10562,7 +11243,8 @@ export const POKEMONS = {
         "Sp_Attack": 63,
         "Sp_Defense": 65,
         "Speed": 23
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 683,
@@ -10577,7 +11259,8 @@ export const POKEMONS = {
         "Sp_Attack": 99,
         "Sp_Defense": 89,
         "Speed": 29
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 684,
@@ -10592,7 +11275,8 @@ export const POKEMONS = {
         "Sp_Attack": 59,
         "Sp_Defense": 57,
         "Speed": 49
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 685,
@@ -10607,7 +11291,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 75,
         "Speed": 72
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 686,
@@ -10623,7 +11308,8 @@ export const POKEMONS = {
         "Sp_Attack": 37,
         "Sp_Defense": 46,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 687,
@@ -10639,7 +11325,8 @@ export const POKEMONS = {
         "Sp_Attack": 68,
         "Sp_Defense": 75,
         "Speed": 73
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 688,
@@ -10655,7 +11342,8 @@ export const POKEMONS = {
         "Sp_Attack": 39,
         "Sp_Defense": 56,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 689,
@@ -10671,7 +11359,8 @@ export const POKEMONS = {
         "Sp_Attack": 54,
         "Sp_Defense": 86,
         "Speed": 68
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 690,
@@ -10687,7 +11376,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 60,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 691,
@@ -10703,7 +11393,8 @@ export const POKEMONS = {
         "Sp_Attack": 97,
         "Sp_Defense": 123,
         "Speed": 44
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 692,
@@ -10718,7 +11409,8 @@ export const POKEMONS = {
         "Sp_Attack": 58,
         "Sp_Defense": 63,
         "Speed": 44
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 693,
@@ -10733,7 +11425,8 @@ export const POKEMONS = {
         "Sp_Attack": 120,
         "Sp_Defense": 89,
         "Speed": 59
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 694,
@@ -10749,7 +11442,8 @@ export const POKEMONS = {
         "Sp_Attack": 61,
         "Sp_Defense": 43,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 695,
@@ -10765,7 +11459,8 @@ export const POKEMONS = {
         "Sp_Attack": 109,
         "Sp_Defense": 94,
         "Speed": 109
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 696,
@@ -10781,7 +11476,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 45,
         "Speed": 48
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 697,
@@ -10797,7 +11493,8 @@ export const POKEMONS = {
         "Sp_Attack": 69,
         "Sp_Defense": 59,
         "Speed": 71
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 698,
@@ -10813,7 +11510,8 @@ export const POKEMONS = {
         "Sp_Attack": 67,
         "Sp_Defense": 63,
         "Speed": 46
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 699,
@@ -10829,7 +11527,8 @@ export const POKEMONS = {
         "Sp_Attack": 99,
         "Sp_Defense": 92,
         "Speed": 58
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 700,
@@ -10844,7 +11543,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 130,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 701,
@@ -10860,7 +11560,8 @@ export const POKEMONS = {
         "Sp_Attack": 74,
         "Sp_Defense": 63,
         "Speed": 118
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 702,
@@ -10876,7 +11577,8 @@ export const POKEMONS = {
         "Sp_Attack": 81,
         "Sp_Defense": 67,
         "Speed": 101
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 703,
@@ -10892,7 +11594,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 150,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 704,
@@ -10907,7 +11610,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 75,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 705,
@@ -10922,7 +11626,8 @@ export const POKEMONS = {
         "Sp_Attack": 83,
         "Sp_Defense": 113,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 706,
@@ -10937,7 +11642,8 @@ export const POKEMONS = {
         "Sp_Attack": 110,
         "Sp_Defense": 150,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 707,
@@ -10953,7 +11659,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 87,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 708,
@@ -10969,7 +11676,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 60,
         "Speed": 38
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 709,
@@ -10985,7 +11693,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 82,
         "Speed": 56
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 710,
@@ -11001,7 +11710,8 @@ export const POKEMONS = {
         "Sp_Attack": 44,
         "Sp_Defense": 55,
         "Speed": 41
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 711,
@@ -11017,7 +11727,8 @@ export const POKEMONS = {
         "Sp_Attack": 58,
         "Sp_Defense": 75,
         "Speed": 54
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 712,
@@ -11032,7 +11743,8 @@ export const POKEMONS = {
         "Sp_Attack": 32,
         "Sp_Defense": 35,
         "Speed": 28
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 713,
@@ -11047,7 +11759,8 @@ export const POKEMONS = {
         "Sp_Attack": 44,
         "Sp_Defense": 46,
         "Speed": 28
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 714,
@@ -11063,7 +11776,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 40,
         "Speed": 55
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 715,
@@ -11079,7 +11793,8 @@ export const POKEMONS = {
         "Sp_Attack": 97,
         "Sp_Defense": 80,
         "Speed": 123
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 716,
@@ -11094,7 +11809,8 @@ export const POKEMONS = {
         "Sp_Attack": 131,
         "Sp_Defense": 98,
         "Speed": 99
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 717,
@@ -11110,7 +11826,8 @@ export const POKEMONS = {
         "Sp_Attack": 131,
         "Sp_Defense": 98,
         "Speed": 99
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 718,
@@ -11126,7 +11843,8 @@ export const POKEMONS = {
         "Sp_Attack": 81,
         "Sp_Defense": 95,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 719,
@@ -11142,7 +11860,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 150,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 720,
@@ -11158,7 +11877,8 @@ export const POKEMONS = {
         "Sp_Attack": 150,
         "Sp_Defense": 130,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 721,
@@ -11174,7 +11894,8 @@ export const POKEMONS = {
         "Sp_Attack": 130,
         "Sp_Defense": 90,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
   ],
   "alola": [
@@ -11192,7 +11913,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 50,
         "Speed": 42
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 723,
@@ -11208,7 +11930,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 70,
         "Speed": 52
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 724,
@@ -11224,7 +11947,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 100,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 725,
@@ -11239,7 +11963,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 40,
         "Speed": 70
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 726,
@@ -11254,7 +11979,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 50,
         "Speed": 90
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 727,
@@ -11270,7 +11996,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 90,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 728,
@@ -11285,7 +12012,8 @@ export const POKEMONS = {
         "Sp_Attack": 66,
         "Sp_Defense": 56,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 729,
@@ -11300,7 +12028,8 @@ export const POKEMONS = {
         "Sp_Attack": 91,
         "Sp_Defense": 81,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 730,
@@ -11316,7 +12045,8 @@ export const POKEMONS = {
         "Sp_Attack": 126,
         "Sp_Defense": 116,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 731,
@@ -11332,7 +12062,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 732,
@@ -11348,7 +12079,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 50,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 733,
@@ -11364,7 +12096,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 75,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 734,
@@ -11379,7 +12112,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 30,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 735,
@@ -11394,7 +12128,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 60,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 736,
@@ -11409,7 +12144,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 45,
         "Speed": 46
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 737,
@@ -11425,7 +12161,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 75,
         "Speed": 36
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 738,
@@ -11441,7 +12178,8 @@ export const POKEMONS = {
         "Sp_Attack": 145,
         "Sp_Defense": 75,
         "Speed": 43
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 739,
@@ -11456,7 +12194,8 @@ export const POKEMONS = {
         "Sp_Attack": 42,
         "Sp_Defense": 47,
         "Speed": 63
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 740,
@@ -11472,7 +12211,8 @@ export const POKEMONS = {
         "Sp_Attack": 62,
         "Sp_Defense": 67,
         "Speed": 43
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 741,
@@ -11488,7 +12228,8 @@ export const POKEMONS = {
         "Sp_Attack": 98,
         "Sp_Defense": 70,
         "Speed": 93
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 742,
@@ -11504,7 +12245,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 40,
         "Speed": 84
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 743,
@@ -11520,7 +12262,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 70,
         "Speed": 124
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 744,
@@ -11535,7 +12278,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 40,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 745,
@@ -11550,7 +12294,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 65,
         "Speed": 112
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 746,
@@ -11565,7 +12310,8 @@ export const POKEMONS = {
         "Sp_Attack": 25,
         "Sp_Defense": 25,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 747,
@@ -11581,7 +12327,8 @@ export const POKEMONS = {
         "Sp_Attack": 43,
         "Sp_Defense": 52,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 748,
@@ -11597,7 +12344,8 @@ export const POKEMONS = {
         "Sp_Attack": 53,
         "Sp_Defense": 142,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 749,
@@ -11612,7 +12360,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 55,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 750,
@@ -11627,7 +12376,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 85,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 751,
@@ -11643,7 +12393,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 72,
         "Speed": 27
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 752,
@@ -11659,7 +12410,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 132,
         "Speed": 42
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 753,
@@ -11674,7 +12426,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 35,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 754,
@@ -11689,7 +12442,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 90,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 755,
@@ -11705,7 +12459,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 75,
         "Speed": 15
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 756,
@@ -11721,7 +12476,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 100,
         "Speed": 30
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 757,
@@ -11737,7 +12493,8 @@ export const POKEMONS = {
         "Sp_Attack": 71,
         "Sp_Defense": 40,
         "Speed": 77
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 758,
@@ -11753,7 +12510,8 @@ export const POKEMONS = {
         "Sp_Attack": 111,
         "Sp_Defense": 60,
         "Speed": 117
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 759,
@@ -11769,7 +12527,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 50,
         "Speed": 50
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 760,
@@ -11785,7 +12544,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 60,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 761,
@@ -11800,7 +12560,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 38,
         "Speed": 32
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 762,
@@ -11815,7 +12576,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 48,
         "Speed": 62
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 763,
@@ -11830,7 +12592,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 98,
         "Speed": 72
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 764,
@@ -11845,7 +12608,8 @@ export const POKEMONS = {
         "Sp_Attack": 82,
         "Sp_Defense": 110,
         "Speed": 100
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 765,
@@ -11861,7 +12625,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 110,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 766,
@@ -11876,7 +12641,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 60,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 767,
@@ -11892,7 +12658,8 @@ export const POKEMONS = {
         "Sp_Attack": 20,
         "Sp_Defense": 30,
         "Speed": 80
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 768,
@@ -11908,7 +12675,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 90,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 769,
@@ -11924,7 +12692,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 45,
         "Speed": 15
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 770,
@@ -11940,7 +12709,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 75,
         "Speed": 35
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 771,
@@ -11955,7 +12725,8 @@ export const POKEMONS = {
         "Sp_Attack": 30,
         "Sp_Defense": 130,
         "Speed": 5
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 772,
@@ -11970,7 +12741,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 95,
         "Speed": 59
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 773,
@@ -11985,7 +12757,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 95,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 774,
@@ -12001,7 +12774,8 @@ export const POKEMONS = {
         "Sp_Attack": 60,
         "Sp_Defense": 100,
         "Speed": 60
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 775,
@@ -12016,7 +12790,8 @@ export const POKEMONS = {
         "Sp_Attack": 75,
         "Sp_Defense": 95,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 776,
@@ -12032,7 +12807,8 @@ export const POKEMONS = {
         "Sp_Attack": 91,
         "Sp_Defense": 85,
         "Speed": 36
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 777,
@@ -12048,7 +12824,8 @@ export const POKEMONS = {
         "Sp_Attack": 40,
         "Sp_Defense": 73,
         "Speed": 96
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 778,
@@ -12064,7 +12841,8 @@ export const POKEMONS = {
         "Sp_Attack": 50,
         "Sp_Defense": 105,
         "Speed": 96
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 779,
@@ -12080,7 +12858,8 @@ export const POKEMONS = {
         "Sp_Attack": 70,
         "Sp_Defense": 70,
         "Speed": 92
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 780,
@@ -12096,7 +12875,8 @@ export const POKEMONS = {
         "Sp_Attack": 135,
         "Sp_Defense": 91,
         "Speed": 36
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 781,
@@ -12112,7 +12892,8 @@ export const POKEMONS = {
         "Sp_Attack": 86,
         "Sp_Defense": 90,
         "Speed": 40
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 782,
@@ -12127,7 +12908,8 @@ export const POKEMONS = {
         "Sp_Attack": 45,
         "Sp_Defense": 45,
         "Speed": 45
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 783,
@@ -12143,7 +12925,8 @@ export const POKEMONS = {
         "Sp_Attack": 65,
         "Sp_Defense": 70,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 784,
@@ -12159,7 +12942,8 @@ export const POKEMONS = {
         "Sp_Attack": 100,
         "Sp_Defense": 105,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 785,
@@ -12175,7 +12959,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 75,
         "Speed": 130
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 786,
@@ -12191,7 +12976,8 @@ export const POKEMONS = {
         "Sp_Attack": 130,
         "Sp_Defense": 115,
         "Speed": 95
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 787,
@@ -12207,7 +12993,8 @@ export const POKEMONS = {
         "Sp_Attack": 85,
         "Sp_Defense": 95,
         "Speed": 75
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 788,
@@ -12223,7 +13010,8 @@ export const POKEMONS = {
         "Sp_Attack": 95,
         "Sp_Defense": 130,
         "Speed": 85
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 789,
@@ -12238,7 +13026,8 @@ export const POKEMONS = {
         "Sp_Attack": 29,
         "Sp_Defense": 31,
         "Speed": 37
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 790,
@@ -12253,7 +13042,8 @@ export const POKEMONS = {
         "Sp_Attack": 29,
         "Sp_Defense": 131,
         "Speed": 37
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 791,
@@ -12269,7 +13059,8 @@ export const POKEMONS = {
         "Sp_Attack": 113,
         "Sp_Defense": 89,
         "Speed": 97
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 792,
@@ -12285,7 +13076,8 @@ export const POKEMONS = {
         "Sp_Attack": 137,
         "Sp_Defense": 107,
         "Speed": 97
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 793,
@@ -12301,7 +13093,8 @@ export const POKEMONS = {
         "Sp_Attack": 127,
         "Sp_Defense": 131,
         "Speed": 103
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 794,
@@ -12317,7 +13110,8 @@ export const POKEMONS = {
         "Sp_Attack": 53,
         "Sp_Defense": 53,
         "Speed": 79
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 795,
@@ -12333,7 +13127,8 @@ export const POKEMONS = {
         "Sp_Attack": 137,
         "Sp_Defense": 37,
         "Speed": 151
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 796,
@@ -12348,7 +13143,8 @@ export const POKEMONS = {
         "Sp_Attack": 173,
         "Sp_Defense": 71,
         "Speed": 83
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 797,
@@ -12364,7 +13160,8 @@ export const POKEMONS = {
         "Sp_Attack": 107,
         "Sp_Defense": 101,
         "Speed": 61
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 798,
@@ -12380,7 +13177,8 @@ export const POKEMONS = {
         "Sp_Attack": 59,
         "Sp_Defense": 31,
         "Speed": 109
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 799,
@@ -12396,7 +13194,8 @@ export const POKEMONS = {
         "Sp_Attack": 97,
         "Sp_Defense": 53,
         "Speed": 43
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 800,
@@ -12411,7 +13210,8 @@ export const POKEMONS = {
         "Sp_Attack": 127,
         "Sp_Defense": 89,
         "Speed": 79
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 801,
@@ -12427,7 +13227,8 @@ export const POKEMONS = {
         "Sp_Attack": 130,
         "Sp_Defense": 115,
         "Speed": 65
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 802,
@@ -12443,7 +13244,8 @@ export const POKEMONS = {
         "Sp_Attack": 90,
         "Sp_Defense": 90,
         "Speed": 125
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 803,
@@ -12458,7 +13260,8 @@ export const POKEMONS = {
         "Sp_Attack": 73,
         "Sp_Defense": 67,
         "Speed": 73
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 804,
@@ -12474,7 +13277,8 @@ export const POKEMONS = {
         "Sp_Attack": 127,
         "Sp_Defense": 73,
         "Speed": 121
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 805,
@@ -12490,7 +13294,8 @@ export const POKEMONS = {
         "Sp_Attack": 53,
         "Sp_Defense": 101,
         "Speed": 13
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 806,
@@ -12506,7 +13311,8 @@ export const POKEMONS = {
         "Sp_Attack": 151,
         "Sp_Defense": 79,
         "Speed": 107
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 807,
@@ -12521,7 +13327,8 @@ export const POKEMONS = {
         "Sp_Attack": 102,
         "Sp_Defense": 80,
         "Speed": 143
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 808,
@@ -12536,7 +13343,8 @@ export const POKEMONS = {
         "Sp_Attack": 55,
         "Sp_Defense": 35,
         "Speed": 34
-      }
+      },
+      "thumbnail": "a"
     },
     {
       "id": 809,
@@ -12551,7 +13359,8 @@ export const POKEMONS = {
         "Sp_Attack": 80,
         "Sp_Defense": 65,
         "Speed": 34
-      }
+      },
+      "thumbnail": "a"
     }
   ]
 }

@@ -3,6 +3,7 @@ import { FormControl } from '@angular/forms';
 import {Observable} from 'rxjs';
 import {startWith, map} from 'rxjs/operators';
 import { POKEMONS } from './models/pokemons';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -31,5 +32,14 @@ export class AppComponent implements OnInit {
 
   private _normalizeValue(value: string): string {
     return value.toLowerCase().replace(/\s/g, '');
+  }
+
+  constructor(private router: Router) {
+
+  }
+  read_pokemon_name(value: string) {
+    var pokemon_obj = this.pokemons.find((v: { name: string; }) => v.name == value); //フォームに入力されたポケモンの名前からブロックを検索
+    var pokemon_id = pokemon_obj?.id
+    this.router.navigateByUrl(`/${pokemon_id}`)
   }
 }
